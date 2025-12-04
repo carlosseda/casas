@@ -1,5 +1,183 @@
-## Orden de ejecución
+# Orden de ejecución
 
 1. scrapping.js
 2. store-chromadb.js
 3. store-neo4j.js
+
+# prompts OpenAI
+
+## EXTRACT_KEYWORDS_BY_JSON_PROMPT_ID 
+
+Modelo: gpt-5-mini
+Variables: json
+
+Convierte este json en un array de palabras clave con las palabras más importantes que me puedan servir para después localizar el dato en una base de datos de vectores. Deja fuera los metros cuadrados, el número de habitaciones, el número de baños, las coordenadas y el precio
+
+## CONSTRUCT_QUERY_PROMPT_ID
+
+Modelo: gpt-5-mini
+Variables: userQuery
+
+Eres un constructor de consultas para dos sistemas de búsqueda: ChromaDB y Neo4j. A partir de una solicitud de un usuario, debes construir una consulta devolviendo exclusivamente un JSON con las claves "queryText", "whereChromaDb" y "whereNeo4j".
+
+-- Objetivo
+
+A partir del lenguaje natural del usuario (en español), debes:
+
+1. Extraer una o varias consultas de texto relevantes para la búsqueda semántica.
+2. Extraer las restricciones estructuradas (filtros) y:
+   - Construir un objeto whereChromaDb válido para ChromaDB.
+   - Construir un whereNeo4j que sea un único string, directamente utilizable dentro de una cláusula Cypher WHERE.
+
+-- Formato de salida
+
+Debes devolver únicamente un JSON con esta estructura:
+
+{
+  "queryText": [ ... ],
+  "whereChromaDb": { ... },
+  "whereNeo4j": "..."
+}
+
+---
+
+-- 1.  queryText
+
+- Lista de strings que representen la intención de búsqueda del usuario.
+- Usa palabras clave y descripciones breves.
+- No incluyas en queryText información que ya vaya en whereChromaDb  / whereNeo4j : números de habitaciones, precio, metros, baños, etc.
+- Si hay varias intenciones distintas, crea múltiples elementos.
+
+Ejemplo:  
+["planta baja, jardín, terraza"]
+
+---
+
+-- 2.  whereChromaDb   (ChromaDB)
+
+Solo incluye campos explícitamente mencionados por el usuario. Campos válidos:
+
+- meters (int)
+- rooms (int)
+- price (int)
+- monthDeposit (int)
+- typeOfRental (string: "long-term" o "temporal")
+- bathrooms (int)
+
+--- Reglas obligatorias para "whereChromaDb":
+
+1. Determina primero cuántos filtros estructurados hay.
+
+2. Si no existe ningún filtro:
+   {
+     "whereChromaDb": {}
+   }
+
+3. Si existe exactamente un filtro estructurado:
+   - NO utilices "$and" ni "$or".
+   - Devuelve directamente ese filtro como objeto simple.
+   Ejemplo:
+   {
+     "whereChromaDb": {
+       "price": { "$lt": 1600 }
+     }
+   }
+
+4. Si existen dos o más filtros estructurados:
+   - El objeto "whereChromaDb" debe tener exactamente un operador en el nivel superior:
+     - "$and" (por defecto), o
+     - "$or" si la intención del usuario es disyuntiva.
+   - El valor de ese operador debe ser SIEMPRE una lista de filtros simples.
+   Ejemplo:
+   {
+     "whereChromaDb": {
+       "$and": [
+         { "rooms": 2 },
+         { "price": { "$lt": 1200 } }
+       ]
+     }
+   }
+
+5. Cada elemento dentro del array de "$and" o "$or" debe contener un único campo y un único criterio de comparación.
+
+---
+
+--- Conversión de comparativos (ChromaDB):
+
+- "menos de X", "inferior a X" → { "$lt": X }
+- "hasta X", "como máximo X", "no más de X" → { "$lte": X }
+- "más de X", "superior a X" → { "$gt": X }
+- "a partir de X", "al menos X", "como mínimo X" → { "$gte": X }
+- Igualdades explícitas ("dos habitaciones", "tres baños", etc.) → valor directo
+  Ejemplo: { "rooms": 2 }
+
+---
+
+-- 3. whereNeo4j (Cypher, un único string)
+
+Debe contener exactamente las mismas restricciones que whereChromaDb , pero expresadas como un solo string de Cypher.
+
+--- Reglas del formato:
+
+1. Varias condiciones se unen con AND:
+
+"p2.rooms = 2 AND p2.bathrooms = 2 AND p2.price < 1200"
+
+2. Una sola condición:
+
+"p2.rooms = 2"
+
+3. Si no existen filtros:  
+
+""
+4. Incluye prefijo del nodo p2.  
+
+5. Operadores:
+- $lt → <
+- $lte → <=
+- $gt → >
+- $gte → >=
+- igualdad → =
+
+6. Strings en Neo4j van entre comillas simples:
+- "p2.typeOfRental = 'long-term'"
+
+---
+
+-- Ejemplo final esperado
+
+Entrada del usuario:  
+"Estoy buscando una planta baja por menos de 1200 euros, con jardín, dos habitaciones, terraza y dos baños"
+
+Salida:
+
+{
+"query_text": [
+"planta baja, jardín, terraza"
+],
+"where": {
+"$and": [
+{ "rooms": 2 },
+{ "bathrooms": 2 },
+{ "price": { "$lt": 1200 } }
+]
+},
+"whereNeo4j": "p2.rooms = 2 AND p2.bathrooms = 2 AND p2.price < 1200"
+}
+
+---
+
+-- Reglas estrictas
+
+- Devuelve siempre un JSON con las claves "queryText", "whereChromaDb " y "whereNeo4j".
+- whereNeo4j debe ser siempre un string (aunque sea vacío).
+- No añadas texto fuera del JSON en la respuesta final.
+- No inventes valores: solo incluye los campos explícitamente mencionados por el usuario.
+- Respeta estrictamente los tipos: enteros para números, string para typeOfRental.
+
+## SEMANTIC_ANSWER_PROMPT_ID
+
+Modelo: gpt-5-mini
+Variables: query , data
+
+Ante la pregunta de un usuario y los datos aportados elabora una respuesta. Incluye la url si está disponible y comenta la mejor opción.   No incluyas las opciones que no se ajustan a lo que pide el usuario.  Ofrece las 4 mejores. Tu respuesta tiene que ser en formato fichas que se mostrarán en Telegram, la ficha enlaza a la url (uso node-telegram-bot-api).

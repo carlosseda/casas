@@ -4,12 +4,12 @@ module.exports = async function runQuery(userQuery) {
   const OpenAIService = require("./services/openai-service")
 
   const graphService = new GraphService()
-  const vectorService = new VectorService({ collectionName: 'idealista-scraping' })
+  const vectorService = new VectorService({ collectionName: process.env.CHROMADB_DATABASE })
   const openaiService = new OpenAIService()
 
   try {
     let response = await openaiService.runPrompt(
-      "pmpt_69303d87bc4481979b0fc0ccd93d1f330330c052f41048e2",
+      process.env.CONSTRUCT_QUERY_PROMPT_ID,
       { query: userQuery }
     )
 
@@ -21,11 +21,11 @@ module.exports = async function runQuery(userQuery) {
       where: parsed.whereChromaDb
     })
 
-    const propertyId = vectorResult.ids[0][0]
+    const elementId = vectorResult.ids[0][0]
 
-    const properties = await graphService.getRelatedAndSelf({
-      entity: 'Property',
-      entityId: propertyId,
+    const elements = await graphService.getRelatedAndSelf({
+      entity: 'Element',
+      entityId: elementId,
       relation: 'HAS_SPECIFICATION',
       entityConnected: 'Specification',
       where: parsed.whereNeo4j
@@ -34,10 +34,10 @@ module.exports = async function runQuery(userQuery) {
     graphService.close()
 
     response = await openaiService.runPrompt(
-      "pmpt_693135f7b8b48196891b9c8c53cd75a40ecf7bae56fb115e",
+      process.env.SEMANTIC_ANSWER_PROMPT_ID,
       {
         query: userQuery,
-        data: JSON.stringify(properties)
+        data: JSON.stringify(elements)
       }
     )
 

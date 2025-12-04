@@ -40,20 +40,20 @@
 
       const id = String(file.replace(".json", ""))
 
-      const property = {
+      const element = {
         id,
         ...data
       }
 
-      delete property.specifications
+      delete element.specifications
 
-      await graphService.createNode("Property", property)
+      await graphService.createNode("Element", element)
 
       for (const specification of data.specifications) {
 
         const normalized = String(specification).trim();
 
-        await graphService.createRelation("Property", "HAS_SPECIFICATION", "Specification", {
+        await graphService.createRelation("Element", "HAS_SPECIFICATION", "Specification", {
           entityId: id,
           relatedEntityId: String(uniqueSpecifications.indexOf(normalized) + 1)
         })

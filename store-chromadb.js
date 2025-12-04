@@ -3,7 +3,7 @@
   const VectorService = require("./services/vector-service")
   const OpenAIService = require("./services/openai-service")
   const openai = new OpenAIService()
-  const vectorService = new VectorService({ collectionName: 'idealista-scraping' })
+  const vectorService = new VectorService({ collectionName: process.env.CHROMADB_DATABASE })
 
   const dir = "./data/2025-11-28"
 
@@ -22,7 +22,7 @@
     const obj = JSON.parse(raw)
 
     const response = await openai.runPrompt(
-      "pmpt_69300b20e0f081948fe192466cab5b8b011e3a9968f912f9",
+      process.env.EXTRACT_KEYWORDS_BY_JSON_PROMPT_ID,
       { "json": jsonString }
     )
 
@@ -31,15 +31,12 @@
 
     const id = file.replace(".json", "")
 
+    delete obj.specifications
+
     result.ids.push(id)
     result.documents.push(keywords)
     result.metadatas.push({
-      meters: obj.meters,
-      rooms: obj.rooms,
-      price: obj.price,
-      monthsDeposit: obj.monthsDeposit,
-      typeOfRental: obj.typeOfRental,
-      bathrooms: obj.bathrooms
+      ...obj
     })
   })
 
