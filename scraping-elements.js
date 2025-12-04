@@ -1,4 +1,4 @@
-const ScrappingService = require("./services/scrapping-service")
+const ScrappingService = require("./services/scrapping-service.js")
 const scrappingService = new ScrappingService()
 const storeMongoDB = require("./store-mongodb.js")
 const storeChromaDB = require("./store-chromadb.js")
