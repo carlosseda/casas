@@ -2,15 +2,31 @@ module.exports = async function runQuery(userQuery) {
   const GraphService = require("./services/graph-service")
   const VectorService = require("./services/vector-service")
   const OpenAIService = require("./services/openai-service")
+  const MongoDBService = require("./services/mongodb-service")
+
+  const mongoService = new MongoDBService({
+    uri: process.env.MONGODB_URI,
+    dbName: process.env.MONGODB_DB
+  })
 
   const graphService = new GraphService()
   const vectorService = new VectorService({ collectionName: process.env.CHROMADB_DATABASE })
   const openaiService = new OpenAIService()
 
   try {
+
+    const element = await mongoService.getFirst("elements")
+    delete element._id
+    delete element.id
+    delete element.specifications
+
+    const whereFields = Object.fromEntries(
+      Object.entries(element).map(([key, value]) => [key, typeof value])
+    )
+
     let response = await openaiService.runPrompt(
       process.env.CONSTRUCT_QUERY_PROMPT_ID,
-      { query: userQuery }
+      { query: userQuery, wherefields: JSON.stringify(whereFields) }
     )
 
     const parsed = JSON.parse(response.output_text)

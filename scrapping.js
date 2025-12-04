@@ -7,83 +7,72 @@ const net = require("net")
 const sleep = ms => new Promise(r => setTimeout(r, ms))
 const random = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min
 
-const locationsUrls = require("./locations-urls.json")
-
-// === CONFIGURACIÓN DE SALIDA POR FECHA ===
 const today = new Date().toISOString().slice(0, 10)
-
 const baseDir = `./data/${today}`
 if (!fs.existsSync("./data")) fs.mkdirSync("./data")
 if (!fs.existsSync(baseDir)) fs.mkdirSync(baseDir)
 
-// Obtener el “slug” que hay justo antes de /mapa
-function getLocationSlug(url) {
-  // elimina el sufijo /mapa o /mapa/
-  const clean = url.replace(/\/mapa\/?$/, "")
-  const parts = clean.split("/").filter(Boolean)
-  return parts[parts.length - 1] // último segmento
-}
+const locationsUrls = require("./locations-urls.json")
 
-; (async () => {
+  ; (async () => {
 
-  const profile = "C:\\temp\\ChromeProfiles"
+    const profile = "C:\\temp\\ChromeProfiles"
 
-  if (!fs.existsSync(profile)) fs.mkdirSync(profile, { recursive: true })
-  exec(
-    `"${process.env.PROGRAMFILES}\\Google\\Chrome\\Application\\chrome.exe" ` +
-    `--remote-debugging-port=9222 --user-data-dir="${profile}" --start-maximized`
-  )
-
-  // Esperar a que Chrome abra el puerto 9222
-  await new Promise((resolve, reject) => {
-    const start = Date.now()
-    const check = () => {
-      const socket = new net.Socket()
-      socket
-        .once("connect", () => { socket.destroy(); resolve() })
-        .once("error", () => {
-          socket.destroy()
-          if (Date.now() - start > 15000) reject(new Error("⏰ Timeout esperando puerto 9222"))
-          else setTimeout(check, 400)
-        })
-        .connect(9222, "127.0.0.1")
-    }
-    check()
-  })
-
-  const options = new chrome.Options()
-  options.options_["debuggerAddress"] = "127.0.0.1:9222"
-  const driver = await new Builder().forBrowser("chrome").setChromeOptions(options).build()
-
-  for (const url of locationsUrls) {
-    const locationSlug = getLocationSlug(url)
-    const locationDoneFile = `${baseDir}/location-${locationSlug}.done`
-
-    // Si ya se procesó esta localización previamente, se salta
-    if (fs.existsSync(locationDoneFile)) {
-      console.log(`⏭️ Localización ya procesada (${locationSlug}), se omite: ${url}`)
-      continue
-    }
-
-    console.log(`▶️ Procesando localización (${locationSlug}): ${url}`)
-    await scrapping(driver, url, locationSlug)
-
-    // Marcar localización como completada
-    fs.writeFileSync(
-      locationDoneFile,
-      JSON.stringify({ url, locationSlug, date: today }, null, 2),
-      "utf-8"
+    if (!fs.existsSync(profile)) fs.mkdirSync(profile, { recursive: true })
+    exec(
+      `"${process.env.PROGRAMFILES}\\Google\\Chrome\\Application\\chrome.exe" ` +
+      `--remote-debugging-port=9222 --user-data-dir="${profile}" --start-maximized`
     )
-    console.log(`✅ Localización completada: ${locationSlug}`)
 
-    // Pausa larga entre localizaciones
-    await sleep(300000)
-  }
+    // Esperar a que Chrome abra el puerto 9222
+    await new Promise((resolve, reject) => {
+      const start = Date.now()
+      const check = () => {
+        const socket = new net.Socket()
+        socket
+          .once("connect", () => { socket.destroy(); resolve() })
+          .once("error", () => {
+            socket.destroy()
+            if (Date.now() - start > 15000) reject(new Error("⏰ Timeout esperando puerto 9222"))
+            else setTimeout(check, 400)
+          })
+          .connect(9222, "127.0.0.1")
+      }
+      check()
+    })
 
-  await driver.quit()
-  console.log(`✅ Proceso finalizado. Datos en la carpeta ${baseDir}`)
+    const options = new chrome.Options()
+    options.options_["debuggerAddress"] = "127.0.0.1:9222"
+    const driver = await new Builder().forBrowser("chrome").setChromeOptions(options).build()
 
-})()
+    for (const url of locationsUrls) {
+      const clean = url.replace(/\/mapa\/?$/, "")
+      const parts = clean.split("/").filter(Boolean)
+      const locationSlug = parts[parts.length - 1]
+      const locationDoneFile = `${baseDir}/location-${locationSlug}.done`
+
+      if (fs.existsSync(locationDoneFile)) {
+        console.log(`⏭️ Localización ya procesada (${locationSlug}), se omite: ${url}`)
+        continue
+      }
+
+      console.log(`▶️ Procesando localización (${locationSlug}): ${url}`)
+      await scrapping(driver, url, locationSlug)
+
+      fs.writeFileSync(
+        locationDoneFile,
+        JSON.stringify({ url, locationSlug, date: today }, null, 2),
+        "utf-8"
+      )
+      console.log(`✅ Localización completada: ${locationSlug}`)
+
+      await sleep(300000)
+    }
+
+    await driver.quit()
+    console.log(`✅ Proceso finalizado. Datos en la carpeta ${baseDir}`)
+
+  })()
 
 async function scrapping(driver, url, locationSlug) {
 

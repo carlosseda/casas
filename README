@@ -13,6 +13,31 @@ Variables: json
 
 Convierte este json en un array de palabras clave con las palabras más importantes que me puedan servir para después localizar el dato en una base de datos de vectores. Deja fuera los metros cuadrados, el número de habitaciones, el número de baños, las coordenadas y el precio
 
+json_schema:
+
+{
+  "name": "keywords",
+  "strict": true,
+  "schema": {
+    "type": "object",
+    "properties": {
+      "keywords": {
+        "type": "array",
+        "description": "Lista de palabras clave relevantes.",
+        "items": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "required": [
+      "keywords"
+    ],
+    "additionalProperties": false
+  }
+}
+
+
 ## CONSTRUCT_QUERY_PROMPT_ID
 
 Modelo: gpt-5-mini
