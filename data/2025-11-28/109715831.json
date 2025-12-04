@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/109715831/",
+  "locationSlug": "port-d-alcudia-platja-d-alcudia",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Calle dels Garballons, 17",
+  "description": "Apartamento en primera línea de playa.",
+  "isAttic": false,
+  "meters": 70,
+  "rooms": 3,
+  "price": 2000,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "floorOrientation": "exterior",
+  "hasElevator": false,
+  "energyConsumption": "A",
+  "energyEmission": "A",
+  "exactCoordinates": true,
+  "latitude": 39.8262005,
+  "longitude": 3.1173585
+}

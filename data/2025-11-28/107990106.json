@@ -1,0 +1,26 @@
+{
+  "url": "https://www.idealista.com/inmueble/107990106/",
+  "locationSlug": "camp-d-en-serralta",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Plaza des forti, palma",
+  "description": "¡Descubre tu nuevo hogar en el corazón de Palma! Este espectacular piso en alquiler, ubicado en la encantadora Plaça Es Forti, es ideal para quienes buscan espacio y comodidad. Con un total de 130 m² construidos, este semi sótano completamente reformado cuenta con cuatro amplios dormitorios, perfectos para adaptarse a tus necesidades. Además, dispone de dos baños modernos que ofrecen funcionalidad y confort.\n\nLa cocina, amueblada y equipada, te invita a dar rienda suelta a tu creatividad culinaria. Aunque el piso se presenta sin amueblar, esto te brinda la oportunidad de decorarlo a tu gusto y convertirlo en el hogar de tus sueños. La propiedad también cuenta con aire acondicionado, asegurando un ambiente fresco durante los calurosos días de verano.\n\nEs importante destacar que se solicitan ingresos demostrables y un seguro de garantía de alquiler, lo que garantiza una experiencia de alquiler segura y tranquila. No pierdas la oportunidad de vivir en este magnífico piso en una ubicación privilegiada. ¡Contáctanos hoy mismo para más información y para concertar una visita!",
+  "isAttic": false,
+  "meters": 130,
+  "rooms": 4,
+  "price": 1900,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Eléctrica",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "floor": 0,
+  "hasElevator": true,
+  "energyConsumption": "F",
+  "energyEmission": "F",
+  "exactCoordinates": false,
+  "latitude": 39.5750195,
+  "longitude": 2.6432391
+}

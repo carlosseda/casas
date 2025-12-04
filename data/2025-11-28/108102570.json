@@ -1,0 +1,23 @@
+{
+  "url": "https://www.idealista.com/inmueble/108102570/",
+  "locationSlug": "port-d-andratx",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Port d'Andratx",
+  "description": "Este encantador apartamento se encuentra en una popular urbanización en la exclusiva zona de Cala Llamp. La propiedad ha sido recientemente renovada con mucho gusto y brilla con un nuevo esplendor. Las magníficas vistas al mar turquesa y a la majestuosa Sierra de Tramuntana son uno de los puntos fuertes de este moderno apartamento. Cuenta con 3 dormitorios, 2 baños, salón-comedor y una cocina equipada. La propiedad se vende amueblada y su moderno equipamiento garantiza un gran confort. La amplia terraza es el lugar perfecto para disfrutar al máximo del buen tiempo y de las magníficas vistas al mar. La cuidada urbanización cuenta con una refrescante piscina comunitaria.\nLa propiedad se ofrece exclusivamente para alquiler a largo plazo y la fianza es de 2 meses de alquiler.",
+  "isAttic": false,
+  "meters": 130,
+  "rooms": 3,
+  "price": 3500,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Piscina",
+    "Vistas al mar"
+  ],
+  "bathrooms": 2,
+  "hasElevator": false,
+  "exactCoordinates": false,
+  "latitude": 39.533639,
+  "longitude": 2.3945764
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://www.idealista.com/inmueble/107775670/",
+  "locationSlug": "les-maravelles",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de casa o chalet independiente en Calle del Violer",
+  "description": "Se alquila durante los meses de Octubre-noviembre-diciembre 2025 y enero-febrero 2026\nCon pago 5 meses por adelantado \n\nSe alquila con gran capacidad para 15-17 personas. También Ideal para empresas o grupos de amigos de vacaciones. La propiedad cuenta con 6 habitaciones totalmente amueblada y equipada, 3 baños completos con ducha y salón comedor con cocina equipada. Consta 3 módulos independientes y puede albergar hasta 15 personas o más. \n\nLa vivienda cuenta con tv y Wifi gratis. Cuenta además con una terraza muy amplia con una gran piscina privada y zona de barbacoa. Con zona de juego y jacuzzi exterior. \n\nDispone de zona de aparcamiento y se encuentra en un entorno tranquilo y a 850 m de la Playa de Palma. Cerca de las principales zonas de Ocio nocturno del arenal y de todos los servicios. Se encuentra ubicada a 4 km del aeropuerto de Palma y a 12 km de la ciudad de Palma.",
+  "isAttic": false,
+  "meters": 300,
+  "rooms": 6,
+  "price": 4500,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Casa o chalet independiente",
+    "2 plantas",
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín",
+    "Lujo",
+    "Villa"
+  ],
+  "bathrooms": 3,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "exactCoordinates": false,
+  "latitude": 39.5258377,
+  "longitude": 2.7474522
+}

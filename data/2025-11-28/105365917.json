@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/105365917/",
+  "locationSlug": "sant-agusti",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Calle de Nicolau Alemany, 11",
+  "description": "Bienvenido a este impresionante apartamento en Cala Major. La comunidad cuenta con una gran piscina comunitaria con acceso directo al mar. El apartamento está completamente amueblado y renovado en un estilo moderno.\n\nEl apartamento está disponible para alquiler a largo plazo, con un período de alquiler mínimo de 11 meses. No se permiten alquileres a corto plazo. Se requiere un depósito de seguridad de 1 mes. Los servicios públicos (agua y electricidad) no están incluidos en el precio del alquiler. Los gastos de la comunidad serán pagados por el propietario.\n\nNo dude en contactarnos si necesita cualquier información adicional.",
+  "isAttic": false,
+  "meters": 85,
+  "rooms": 2,
+  "price": 1950,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur, oeste",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Eléctrica",
+    "Piscina"
+  ],
+  "bathrooms": 1,
+  "floor": 10,
+  "hasElevator": true,
+  "energyConsumption": "D",
+  "energyEmission": "D",
+  "exactCoordinates": true,
+  "latitude": 39.5523084,
+  "longitude": 2.6036532
+}

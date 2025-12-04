@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/99180080/",
+  "locationSlug": "port-de-pollenca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Port de Pollença",
+  "description": "Apartamento en primera linea de mar EN ALQUILER MINIMO 12 MESES consta de ascensor, 2 habitaciones con aire acondicionado con bomba de calor y un baño. La cocina está abierta al comedor totalmente equipada, las vistas son maravillosas, esta cerca de todos los servicios. \nSe pedirá solvencia económica demostrable.\nBasura, luz, agua y wifi no va incluido.\n-Dos meses de fianza.\n\n-Para una pareja o Solo una persona\nNo se aceptan mascotas.",
+  "isAttic": false,
+  "meters": 98,
+  "rooms": 2,
+  "price": 1400,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "No dispone de calefacción"
+  ],
+  "bathrooms": 1,
+  "yearBuilt": null,
+  "floor": 4,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.9055569,
+  "longitude": 3.0806347
+}

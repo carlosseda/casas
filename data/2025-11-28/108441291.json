@@ -1,0 +1,25 @@
+{
+  "url": "https://www.idealista.com/inmueble/108441291/",
+  "locationSlug": "camp-d-en-serralta",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Camp d'En Serralta",
+  "description": "Elegante y luminoso piso situado en una de las zonas más cotizadas de Palma: el prestigioso Paseo Mallorca. Disponible para alquiler de temporada, esta vivienda ofrece espacios amplios, acabados de calidad y vistas despejadas.\n\nSe entrega completamente equipada y amueblada, lista para entrar a vivir. Consta de 3 dormitorios, 3 baños completos (dos de ellos en suite), una cocina tipo office totalmente equipada, un salón acogedor con televisión, balcón exterior, zona de coladuría e internet de alta velocidad.\n\nIncluye aire acondicionado con bomba de calor, calefacción central, suelos de parquet y todas las comodidades necesarias para disfrutar de una estancia confortable en el corazón de Palma.",
+  "isAttic": false,
+  "meters": 256,
+  "rooms": 3,
+  "price": 3200,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Trastero",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 3,
+  "yearBuilt": null,
+  "floor": 3,
+  "hasElevator": false,
+  "exactCoordinates": false,
+  "latitude": 39.573221,
+  "longitude": 2.6430353
+}

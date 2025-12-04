@@ -1,0 +1,24 @@
+{
+  "url": "https://www.idealista.com/inmueble/109966544/",
+  "locationSlug": "el-terreno",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en El Terreno",
+  "description": "En alquiler únicamente a corto plazo, este encantador apartamento se encuentra en la zona de El Terreno y ofrece unas vistas espectaculares. La vivienda dispone de un amplio salón-comedor, cocina totalmente equipada, un dormitorio doble y una segunda habitación ideal para utilizar como oficina o espacio de trabajo.\n\nLa comunidad pone a disposición de los residentes una gran piscina, zonas comunes y parking dentro del recinto. Además, se admiten mascotas.\n\nPara más información, por favor póngase en contacto con First Mallorca.",
+  "isAttic": false,
+  "meters": 70,
+  "rooms": 2,
+  "price": 1700,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado"
+  ],
+  "bathrooms": 1,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 3,
+  "hasElevator": true,
+  "exactCoordinates": false,
+  "latitude": 39.5596551,
+  "longitude": 2.6233566
+}

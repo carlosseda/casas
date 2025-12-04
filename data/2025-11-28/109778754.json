@@ -1,0 +1,25 @@
+{
+  "url": "https://www.idealista.com/inmueble/109778754/",
+  "locationSlug": "manacor-centro",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Manacor Centro",
+  "description": "Nappo Real Estate presenta este acogedor piso en Manacor, una vivienda amplia y cómoda de 100 m², ideal para quienes buscan tranquilidad y practicidad en una de las zonas más demandadas del municipio.\n\nEl piso cuenta con 3 habitaciones, dos de ellas dobles, y un baño completo. La vivienda se entrega totalmente equipada, lista para entrar a vivir desde el primer día. El salón es amplio y luminoso, perfecto para el día a día, y dispone de una práctica zona de coladuría.\n\nEl piso incluye wifi en el precio, mientras que el consumo de agua y electricidad se abona aparte.\n\nUna opción ideal para quienes buscan un hogar funcional, bien ubicado y con todas las comodidades.\n\nVisita nuestras oficinas en Avenida Joan Miró 286.",
+  "isAttic": false,
+  "meters": 100,
+  "rooms": 3,
+  "price": 1200,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Orientación sur, este",
+    "Amueblado y cocina equipada"
+  ],
+  "bathrooms": 1,
+  "floorOrientation": "exterior",
+  "hasElevator": false,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5658835,
+  "longitude": 3.2091121
+}

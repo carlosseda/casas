@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/109687724/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de estudio en Santa Ponça",
+  "description": "Disfrute de una vida exclusiva con vistas panorámicas al mar Mediterráneo y a las pintorescas montañas en este elegante apartamento completamente amueblado. Con 2 dormitorios de estilo moderno y 2 baños, uno de ellos en suite, esta propiedad ofrece el máximo confort. La cocina de alta calidad completamente equipada, la calefacción por suelo radiante eficiente y el aire acondicionado completan a la perfección la sensación de lujo.\n\nRelájese en los días soleados en la piscina comunitaria con vistas al mar o descubra la cercanía a prestigiosos campos de golf y al exclusivo puerto de Port Adriano. La ubicación es ideal: a solo 20 minutos de Palma y 35 minutos del aeropuerto, permitiéndole disfrutar de la playa, la ciudad y el estilo de vida en perfecta armonía.\n\nEste apartamento combina confort, estilo y vistas impresionantes: su nuevo hogar junto al mar le está esperando. ¡Contáctenos hoy mismo para más información y para concertar una visita personal!",
+  "isAttic": false,
+  "meters": 169,
+  "price": 2900,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Amueblado y cocina equipada",
+    "Calefacción central",
+    "Vistas al mar",
+    "Loft"
+  ],
+  "bathrooms": 2,
+  "floor": 2,
+  "hasElevator": false,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5015131,
+  "longitude": 2.466741
+}

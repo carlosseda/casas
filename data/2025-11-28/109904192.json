@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/109904192/",
+  "locationSlug": "les-maravelles",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle de Marbella, 22",
+  "description": "Se alquila precioso apartamento amueblado, primera linea vistas completas a bahia de palma, dos habitaciones dobles, un baño completo con bañera, salón comedor, cocina americana, salón comedor, recibidor, amplia terraza 19 mts4, magníficas vistas al mar.\nÚnicamente alquiler largo plazo. Menos de cinco años la propiedad no la alquila (ABSTENERSE)\nCondición única para acceder al alquiler! AVAL BANCARIO!\nABSTENERSE INMOBILIARIAS!",
+  "isAttic": false,
+  "meters": 72,
+  "rooms": 2,
+  "price": 1200,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Vistas al mar"
+  ],
+  "bathrooms": 1,
+  "floor": 7,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": true,
+  "latitude": 39.5266901,
+  "longitude": 2.7342453
+}

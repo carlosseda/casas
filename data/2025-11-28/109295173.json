@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/109295173/",
+  "locationSlug": "el-terreno",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en El Terreno",
+  "description": "Este exclusivo apartamento se encuentra en la codiciada Residencia Mediterránea en el popular Paseo Marítimo, justo en el puerto de Palma. Su excelente ubicación ofrece vida urbana directamente frente al mar, rodeado de reconocidos restaurantes, cafés y a tan solo unos pasos del centro comercial Porto Pi.\n\nEl edificio impresiona no solo por su arquitectura llamativa, sino también por su rica historia: anteriormente conocido como el legendario Gran Hotel Mediterráneo, acogió en su día a huéspedes ilustres como los Beatles o Richard Nixon.\n\nUn aspecto destacado de la propiedad es su excepcional terraza de 77 qm, que ofrece unas fantásticas vistas panorámicas sobre el puerto hasta la catedral, ideal tanto para relajarse al sol como para disfrutar de agradables veladas con amigos.\n\nLa superficie habitable de aproximadamente 131 qm se distribuye en un amplio salón-comedor con acceso directo a la terraza, una cocina moderna y bien equipada con mucho espacio de almacenamiento, así como un práctico cuarto de servicio con armarios empotrados. Además, cuenta con un pequeño patio interior, ideal para colocar la lavadora y la secadora. El apartamento dispone de tres dormitorios, incluido un dormitorio principal con baño en suite, así como otro baño adicional.\n\nUn sistema centralizado de aire acondicionado con funciones de frío y calor garantiza un clima interior agradable durante todo el año. La propiedad también incluye una plaza de garaje subterránea, accesible cómodamente a través de dos ascensores que conectan todas las plantas del edificio.\n\nEl apartamento se ofrece para alquiler de temporada (desde un mes hasta un máximo de 11 meses). Los gastos de electricidad y agua se cobran por separado. La fianza equivale a dos meses de alquiler.",
+  "isAttic": false,
+  "meters": 208,
+  "rooms": 3,
+  "price": 4500,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Aire acondicionado",
+    "Vistas al mar",
+    "Lujo"
+  ],
+  "bathrooms": 2,
+  "yearBuilt": null,
+  "floor": 4,
+  "hasElevator": true,
+  "energyConsumption": "G",
+  "energyEmission": "G",
+  "exactCoordinates": false,
+  "latitude": 39.5616923,
+  "longitude": 2.62836
+}

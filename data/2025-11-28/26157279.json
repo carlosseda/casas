@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/26157279/",
+  "locationSlug": "pollenca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de dúplex en Pollença",
+  "description": "DESCRIPCIÓN DE LA VIVIENDA:\n\nDúplex muy luminoso y silencioso en un edificio de solo dos viviendas. Tiene una superficie útil de 110m2, más una terraza de 35m2.\nEs una vivienda que está en perfecto estado, con materiales de primera calidad. Está amueblada y totalmente equipada. Dispone de aire acondicionado frio y caliente. Dispone también de calefacción central en toda la vivienda. Lista para vivir en cualquier momento.\nEn la vivenda predomina la madera proporcionando un ambiente cálido. El suelo es de roble, las puertas de teka y los muebles de la cocina de cerezo.\nLa planta primera consta de un vestíbulo, salón comedor con balcón, aseo, cocina, lavandería y terraza.\nLa planta segunda consta de un vestidor y dos habitaciones dobles, una de ellas con vestidor y baño en suite, y otro baño completo con bañera. Vistas preciosas del pueblo.\n\nDESCRIPCIÓN DE LA UBICACIÓN\n\nEstá ubicada en el maravilloso núcleo urbano de Pollença, una zona en la que se puede disfrutar de la tranquilidad todos los meses del año. Con vistas al Puig de Maria y al pueblo con una vista predominante de la iglesia de Pollença. \nLa zona es de fácil aparcamiento.",
+  "isAttic": false,
+  "meters": 150,
+  "rooms": 3,
+  "price": 1550,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Amueblado y cocina equipada",
+    "Calefacción central: Gasoil",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 3,
+  "floor": 1,
+  "hasElevator": false,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.8743444,
+  "longitude": 3.0137096
+}

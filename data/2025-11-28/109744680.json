@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/109744680/",
+  "locationSlug": "can-picafort",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de ático en Calle Isabel Garau, 52",
+  "description": "Luminoso piso de 104 m² en primera línea, frente al Club Náutico de Can Picafort. \nDispone de 2 dormitorios dobles con aire acondicionado, baño completo y cocina totalmente equipada. \nDos balcones de 10 m² ofrecen vistas exclusivas al mar y al puerto. \nCon WiFi 600 Mbps, es ideal para profesionales, empresas o expats en estancias laborales documentadas o para alquiler temporal de más de 32 días. \nUn espacio que combina comodidad, tranquilidad y la inspiración del Mediterráneo.",
+  "isAttic": true,
+  "meters": 104,
+  "rooms": 2,
+  "price": 2200,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 1,
+  "floor": 3,
+  "hasElevator": false,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": true,
+  "latitude": 39.7642314,
+  "longitude": 3.1614732
+}

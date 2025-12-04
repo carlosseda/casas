@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/109772230/",
+  "locationSlug": "cala-figuera",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Virgen del Carmen",
+  "description": "SE ALQUILA DE FORMA TEMPORAL HASTA MÁXIMO ABRIL/MAYO DE 2025.\n\nNO ES ALQUILER DE LARGA DURACIÓN.\n\nSE SOLICITA UN MES DE FIANZA Y UN MES DE AGENCIA INMOBILIARIA. (Al tratarte de un arrendamiento de temporada la inmobiliaria puede percibir honorarios del inquilino)\n\nDisponible fantástico apartamento con privilegiada ubicación a 50 metros del puerto pesquero de Cala Figuera Santanyi con vistas al puerto desde la terraza del apartamento.\n\nDispone de 90 metros cuadrados distribuidos en amplio y luminoso salón, cocina totalmente equipada, dos dormitorios dobles, uno de ellos con baño en suite, un segundo baño completo, terraza interior con coladuría y terraza exterior con vistas despejadas.\n\nAire acondicionado calor/frío.\n\nEdificio tranquilo de solo un vecino.",
+  "isAttic": false,
+  "meters": 95,
+  "rooms": 2,
+  "price": 800,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación oeste",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Eléctrica",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 2,
+  "floor": 1,
+  "hasElevator": false,
+  "energyConsumption": "E",
+  "energyEmission": "E",
+  "exactCoordinates": false,
+  "latitude": 39.3290679,
+  "longitude": 3.167268
+}

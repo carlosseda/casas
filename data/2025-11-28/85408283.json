@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/85408283/",
+  "locationSlug": "cala-figuera",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle de Sant Pere",
+  "description": "Disponible para alquilar (excepto agosto). Este apartamento, amueblado con gusto, ofrece 3 dormitorios y 2 baños. Cuenta con persianas eléctricas y una cocina totalmente equipada. Disfrute de espectaculares vistas al mar desde el salón-comedor y la terraza.\n\nEl apartamento se encuentra en el Residencial Cap Blau, con hermosos jardines y varias piscinas. El precio del alquiler incluye una plaza de aparcamiento y el uso gratuito del gimnasio y el spa con sauna.\n\nEl precio del alquiler no incluye los gastos de luz ni agua. La fianza equivale a 2 meses de alquiler.\n\nDisponible a partir de diciembre de 2025.",
+  "isAttic": false,
+  "meters": 125,
+  "rooms": 3,
+  "price": 2400,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Cocina sin equipar y casa sin amueblar",
+    "No dispone de calefacción",
+    "Vistas al mar"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 1,
+  "hasElevator": false,
+  "energyConsumption": "G",
+  "energyEmission": "G",
+  "exactCoordinates": false,
+  "latitude": 39.330694,
+  "longitude": 3.1703528
+}

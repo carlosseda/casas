@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/109845307/",
+  "locationSlug": "el-terreno",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Plaza Mediterrània",
+  "description": "NO LARGA ESTANCIA - DISPONIBLE PARA ESTANCIAS DE HASTA 11 MESES APROX. -\n\nSe alquila bonito y luminoso piso en zona El Terreno con impresionantes vistas del Paseo Marítimo y el Castillo de Bellver.\n\nLa vivienda cuenta con dos dormitorios (uno de ellos con cama abatible), un baño completo, salón comedor y cocina totalmente equipada. El piso se alquila totalmente amueblado, listo para entrar a disfrutar desde el primer día.\n\nSituado en una zona tranquila y bien comunicada, cerca de supermercados, transporte público, y a pocos minutos del centro de Palma.\n\n- GASTOS INCLUIDOS EN EL PRECIO, siempre que el consumo sea responsable (agua, luz e internet)\n- Se aplica fianza y comisión de agencia cuya cuantía dependerá de la duración de la estancia\n- Estancia mínima de 32 noches\n\nPara más detalles o para programar una visita, no dudes en escribirnos. Te esperamos!\n\nNº de Registro ROAIIB-GOIBE739119/2024.",
+  "isAttic": false,
+  "meters": 55,
+  "rooms": 2,
+  "price": 1800,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "No dispone de calefacción",
+    "Vistas al mar"
+  ],
+  "bathrooms": 1,
+  "floor": 6,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5631478,
+  "longitude": 2.6271157
+}

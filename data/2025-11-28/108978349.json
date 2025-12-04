@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/108978349/",
+  "locationSlug": "foners",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Foners",
+  "description": "Moderno apartamento con balcón y terraza en la azotea en Palma-Disponible a partir de 5. enero durante 6 meses. Este elegante apartamento amueblado, situado en la primera planta de un pequeño edificio plurifamiliar, ofrece aprox. 50 m² distribuidos en un luminoso dormitorio, un moderno baño y una zona abierta de salón-comedor con cocina integrada. Dispone de balcón, aire acondicionado (frío/calor) y acabados de alta calidad que garantizan un alto nivel de confort. Características adicionales: Wifi, lavadora y proyector. El punto destacado es la terraza comunitaria en la azotea con piscina. Ubicado en una zona tranquila y céntrica del barrio de Foners, a pocos minutos a pie de la playa y del casco antiguo de Palma.",
+  "isAttic": false,
+  "meters": 50,
+  "rooms": 1,
+  "price": 1700,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Piscina",
+    "Apartamento"
+  ],
+  "bathrooms": 1,
+  "floor": 1,
+  "hasElevator": true,
+  "energyConsumption": "C",
+  "energyEmission": "C",
+  "exactCoordinates": false,
+  "latitude": 39.5673688,
+  "longitude": 2.6585419
+}

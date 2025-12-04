@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/109040244/",
+  "locationSlug": "foners",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle de Joan Alcover",
+  "description": "¡Descubre tu nuevo hogar en el corazón de Palma de Mallorca! Este espectacular piso de 160 m² es ideal para quienes buscan comodidad y amplitud. Con tres dormitorios totalmente amueblados, cada uno equipado con su propio escritorio, tendrás el espacio perfecto para estudiar o trabajar. Disfruta de dos baños completos y de una impresionante terraza de 90 m², donde podrás relajarte al aire libre o disfrutar de reuniones con amigos.\n\nLa propiedad cuenta con un balcón que da a la calle principal, lo que te permitirá disfrutar del ambiente vibrante de la ciudad. La cocina está equipada con lavadora y caldera de gas, y se entrega completamente pintada y limpia, lista para entrar a vivir. Además, el piso incluye cuatro aires acondicionados nuevos, garantizando tu confort durante todo el año.\n\nEste piso es perfecto para pilotos, azafatas o personal sanitario, y ha sido históricamente el hogar de estudiantes de medicina. Los gastos de seguro, comunidad, agua, limpieza y ascensor están incluidos en el alquiler, lo que significa que solo tendrás que preocuparte por la luz, el gas y las basuras También se ofrece la posibilidad de empadronamiento con el contrato, lo que facilita tu estancia.\ndepósito reembolsable de 1000 euro cada uno, este piso es una oportunidad única que no querrás dejar pasar. ¡Disponible a partir del 16 de agosto! No dudes en contactar para más información y ven a conocer tu nuevo hogar en Palma.",
+  "isAttic": false,
+  "meters": 160,
+  "rooms": 3,
+  "price": 2100,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Orientación norte, sur",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "floor": 1,
+  "hasElevator": true,
+  "energyConsumption": "D",
+  "energyEmission": "D",
+  "exactCoordinates": false,
+  "latitude": 39.5701037,
+  "longitude": 2.6601254
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.idealista.com/inmueble/105153277/",
+  "locationSlug": "el-terreno",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de estudio en Avenida de Joan Miró, 115",
+  "description": "Alquilo estudio en Can Barbará (Paseo Marítimo), cocina totalmente amueblada y equipada, semi-amueblado, baño con ducha, balcón, muy soleado, no se admiten mascotas, apropiado para una persona. Estancia mínima un año. Abstenerse inmobiliarias.",
+  "isAttic": false,
+  "meters": 30,
+  "price": 950,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Orientación sur",
+    "Cocina equipada y casa sin amueblar"
+  ],
+  "bathrooms": 1,
+  "floor": 2,
+  "hasElevator": false,
+  "energyConsumption": "G",
+  "energyEmission": "G",
+  "exactCoordinates": true,
+  "latitude": 39.5579185,
+  "longitude": 2.6232399
+}

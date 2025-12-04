@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/109954515/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle de Ramon de Montcada",
+  "description": "El apartamento tiene aproximadamente 36 m² y un balcón de 5 m² con preciosas vistas al mar. Es muy soleado y está amueblado con un estilo moderno y confortable. Cuenta con un dormitorio, aire acondicionado, un baño, cocina americana y ascensor.\n\nEl contrato de alquiler incluye un mes de fianza, los servicios públicos y un contrato de arrendamiento de 11 meses prorrogable. Hay aparcamiento público a 300 m.\n\nHay acceso directo al mar cruzando la calle y otras playas y tiendas cerca.",
+  "isAttic": false,
+  "meters": 41,
+  "rooms": 1,
+  "price": 1200,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Piscina",
+    "Vistas al mar",
+    "Apartamento"
+  ],
+  "bathrooms": 1,
+  "floor": 5,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.518048,
+  "longitude": 2.4829806
+}

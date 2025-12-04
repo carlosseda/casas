@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/104582905/",
+  "locationSlug": "port-de-pollenca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Port de Pollença",
+  "description": "Alquiler de corta temporada.\n\nPiso amplio y luminoso junto al mar, en el Puerto de Pollensa. Orientación sur.\n\nGran terraza con tumbonas, sofás y mesa; parte de la terraza está cubierta. Vistas parciales al mar.\n\nLa propiedad cuenta con un amplio salón con chimenea y acceso a la terraza. Dos dormitorios dobles, dos baños (uno en suite). Cocina espaciosa, totalmente equipada y con vistas a la montaña. También hay un trastero con espacio para guardar bicicletas. El piso dispone de aire acondicionado, y también hay ventiladores disponibles.\n\nEsta encantadora zona ofrece tranquilidad, paseos junto al mar, excursiones a la montaña y, por supuesto, la preciosa playa de Pollensa.\n\nPara más información y disponibilidad, no dude en contactar con nuestros agentes.",
+  "isAttic": false,
+  "meters": 145,
+  "rooms": 2,
+  "price": 1800,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Trastero",
+    "Orientación sur",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 2,
+  "yearBuilt": null,
+  "floor": 1,
+  "hasElevator": false,
+  "exactCoordinates": false,
+  "latitude": 39.9130246,
+  "longitude": 3.0940101
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/108597494/",
+  "locationSlug": "foners",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de ático en Foners",
+  "description": "Alquiler de temporada: Máximo 6 meses. Precio según temporada. Luminoso ático con terraza enorme. Fianza 1 mes.",
+  "isAttic": true,
+  "meters": 45,
+  "rooms": 1,
+  "price": 1600,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Calefacción central: Gas",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 1,
+  "floor": 3,
+  "hasElevator": false,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5654642,
+  "longitude": 2.6605194
+}

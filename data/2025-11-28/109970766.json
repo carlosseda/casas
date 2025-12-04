@@ -1,0 +1,31 @@
+{
+  "url": "https://www.idealista.com/inmueble/109970766/",
+  "locationSlug": "port-d-andratx",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Port d'Andratx",
+  "description": "DISPONOIBLE A PARTIR DE ENERO -¡Descubre este encantador apartamento en alquiler que combina modernidad y comodidad! Situado en una zona tranquila, este piso de 63 m² cuenta con 2 dormitorios y un baño, ideal para disfrutar de la vida al máximo. La propiedad está totalmente decorada al estilo mediterráneo, con detalles que la hacen muy agradable y acogedora. Desde su terraza y balcón podrás disfrutar de impresionantes vistas al mar, creando un ambiente perfecto para relajarte.\n\nEl apartamento está equipado con comodidades modernas, como aire acondicionado frío y calor reversible, lo que garantiza tu confort en cualquier época del año. Además, cuenta con doble cristal y persianas enrollables eléctricas que proporcionan un excelente aislamiento y privacidad. La cocina está vacía, lo que te permite personalizarla a tu gusto. \n\nUbicado cerca del centro del pueblo, tendrás todas las tiendas y servicios a un paso. Este piso también incluye armarios empotrados y un trastero para mayor comodidad. No dejes pasar la oportunidad de vivir en este bonito apartamento que ofrece todo lo que necesitas. ¡Ven a verlo y enamórate de tu nuevo hogar! (Gastos no incluidos).",
+  "isAttic": false,
+  "meters": 63,
+  "rooms": 2,
+  "price": 1330,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Orientación norte, este",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Eléctrica",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 1,
+  "floor": 1,
+  "hasElevator": false,
+  "energyConsumption": "E",
+  "energyEmission": "E",
+  "exactCoordinates": false,
+  "latitude": 39.5441832,
+  "longitude": 2.3870778
+}

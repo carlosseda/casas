@@ -1,0 +1,33 @@
+{
+  "url": "https://www.idealista.com/inmueble/109965375/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Santa Ponça",
+  "description": "Moderno apartamento con amplia terraza en Nova Santa Ponsa, situado en un exclusivo complejo residencial de lujo a solo unos minutos a pie del famoso Port Adriano, una de las zonas más cotizadas del suroeste de Mallorca.\n\nEl inmueble cuenta con 120 m² construidos distribuidos en dos dormitorios dobles, dos baños completos (uno en suite). La cocina independiente, moderna y totalmente equipada, dispone de coladuría adyacente. El amplio salón-comedor se abre a una terraza privada y cubierta, perfecta para disfrutar del clima mediterráneo y de las vistas a las zonas comunitarias.\n\nEl apartamento está equipado con aire acondicionado frío/calor por conductos, suelos de mármol, ventanas de PVC con doble acristalamiento, armarios empotrados, persianas y ascensor. La plaza de garaje y el trastero están incluidos en el precio.\n\nZonas comunes y servicios\nEl complejo residencial ofrece tres magníficas piscinas, amplios jardines comunitarios, aparcamiento para invitados y vigilancia las 24 horas, creando un entorno exclusivo, seguro y tranquilo.\n\nUbicación y entorno\nNova Santa Ponsa, en el municipio de Calvià (Mallorca), es una de las zonas residenciales más exclusivas de la isla. Rodeada de campos de golf y próxima a impresionantes acantilados, ofrece vistas panorámicas a las islas Malgrats y al islote del Toro. La propiedad se encuentra a pocos pasos de la playa y del puerto deportivo Port Adriano, y a tan solo 15 minutos en coche de Palma y 20 minutos del aeropuerto internacional.\n\nEste moderno apartamento con terraza en Nova Santa Ponsa es la opción perfecta para quienes buscan un alquiler de lujo en Mallorca durante la temporada de invierno, combinando comodidad, elegancia y una ubicación privilegiada junto al mar.\n\nPara más información, fotografías o concertar una visita, no dude en contactarnos. [IW].",
+  "isAttic": false,
+  "meters": 120,
+  "rooms": 2,
+  "price": 2500,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Amueblado y cocina equipada",
+    "No dispone de calefacción",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 1,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.4943079,
+  "longitude": 2.4816237
+}

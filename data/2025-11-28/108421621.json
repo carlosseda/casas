@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/108421621/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Avenida del Rei Jaume I, 57",
+  "description": "**Se Alquila: Apartamento Renovado y Totalmente Amueblado con Vistas al Puerto Deportivo**\n\nNuestro apartamento fue completamente renovado en julio de 2024 y ofrece:\n\n* Un nuevo sistema de aire acondicionado\n* Muebles nuevos de alta calidad\n* Un balcón amueblado y confortable con vistas directas al puerto deportivo\n\nEl apartamento está disponible para **alquiler temporal desde principios de octubre de 2025 hasta principios de julio de 2026**.\n\n¡Estaremos encantados de proporcionar más detalles a petición!",
+  "isAttic": false,
+  "meters": 123,
+  "rooms": 3,
+  "price": 2250,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 2,
+  "hasElevator": false,
+  "energyConsumption": "Inmueble exento",
+  "energyEmission": "Inmueble exento",
+  "exactCoordinates": true,
+  "latitude": 39.5095472,
+  "longitude": 2.4706534
+}

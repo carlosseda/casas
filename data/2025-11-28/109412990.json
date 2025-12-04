@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/109412990/",
+  "locationSlug": "llucmajor-interior",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de chalet pareado en Calle de Ramon Llull, 30",
+  "description": "Leer bien: casa de dos plantas, actualmente sin muebles con posibilidad de entregar totalmente equipada. Dispone de 2 habitaciones, 2 baños, 2 terrazas, pequeño vestidor y cocina. Posibilidad de hacer 1 o 2 habitaciones más. Posibilidad de división y hacer 2 apartamentos. Precio inicial.",
+  "isAttic": false,
+  "meters": 220,
+  "rooms": 2,
+  "price": 2000,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Chalet pareado",
+    "2 plantas",
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Calefacción individual",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "energyConsumption": "A",
+  "energyEmission": "A",
+  "exactCoordinates": true,
+  "latitude": 39.4880133,
+  "longitude": 2.8926107
+}

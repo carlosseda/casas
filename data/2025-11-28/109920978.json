@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/109920978/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Santa Ponça",
+  "description": "Disponible a partir de febrero de 2025. Está la opción de alquilarlo sin muebles.\n\nModerno apartamento en segunda línea totalmente reformado con vistas al mar en Santa Ponsa, suroeste de Mallorca.\n\nDispone de 40 m² divididos en un salón-comedor con una cocina moderna, una terraza con vistas al mar, un dormitorio y un baño. \n\nEl edificio dispone de ascensor.\n\nEstá situado cerca de la zona comercial, restaurantes, bares y la playa de Santa Ponsa con paseo marítimo. \n\nref: MPH-V3406.",
+  "isAttic": false,
+  "meters": 45,
+  "rooms": 1,
+  "price": 1400,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Cocina sin equipar y casa sin amueblar",
+    "Vistas al mar",
+    "Apartamento"
+  ],
+  "bathrooms": 1,
+  "floorOrientation": "exterior",
+  "hasElevator": false,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5214961,
+  "longitude": 2.4819314
+}

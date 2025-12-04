@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/109830078/",
+  "locationSlug": "portals-nous",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de estudio en Portals Nous",
+  "description": "¡Bienvenido a tu nuevo hogar! Este encantador piso en alquiler está situado en la codiciada zona de Portals Nous. Con una superficie habitable de 42 m², este piso bien cuidado ofrece todo lo necesario para un estilo de vida cómodo.\n\nAl entrar en el piso, le da la bienvenida una sala de estar luminosa y de planta abierta, que se complementa con una moderna cocina equipada. El diseño abierto de la sala de estar maximiza el espacio y crea un ambiente acogedor. El piso dispone de un cuarto de baño con ducha y ventana, que proporciona luz y ventilación adicionales.\n\nOtro punto destacado de este piso es el balcón, que le ofrece unas impresionantes vistas al mar. Disfrute del sol que brilla en la terraza orientada al sur/suroeste mientras respira la fresca brisa marina. El suelo de piedra da al piso un toque robusto y elegante.\n\nComo residente de este complejo, tendrá acceso a una piscina comunitaria rodeada de una amplia terraza. Esto le invita a pasar relajantes tardes al sol y disfrutar del estilo de vida mediterráneo.\n\nEste piso está situado en un edificio con un total de diez plantas y ofrece una calidad de mobiliario normal. La ubicación en Portals Nous combina la tranquilidad de una zona residencial de lujo con la proximidad a los principales servicios y al famoso puerto deportivo de la región.\n\nExperimente la combinación perfecta de confort y estilo en este maravilloso piso con vistas al mar. Concierte una visita hoy mismo y déjese seducir por esta oferta única.",
+  "isAttic": false,
+  "meters": 50,
+  "price": 1500,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur, oeste",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín",
+    "Vistas al mar"
+  ],
+  "bathrooms": 1,
+  "floor": 7,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": null,
+  "longitude": null
+}

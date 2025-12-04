@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/109785251/",
+  "locationSlug": "el-terreno",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Avenida de Joan Miró, 90",
+  "description": "No tengo fotos actualizadas\nAhora está alquilado hasta el 30 de noviembre\nSería para entrar en diciembre.",
+  "isAttic": false,
+  "meters": 60,
+  "rooms": 1,
+  "price": 950,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Eléctrica",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 1,
+  "floor": 0,
+  "hasElevator": false,
+  "energyConsumption": "D",
+  "energyEmission": "D",
+  "exactCoordinates": true,
+  "latitude": 39.5599858,
+  "longitude": 2.6243292
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://www.idealista.com/inmueble/103137563/",
+  "locationSlug": "foners",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Foners",
+  "description": "Zona Palacio de Congresos.\nPrecioso piso de lujo con magníficas vistas a la bahía e inmejorables acabados.\nConsta de 3 dormitorios, 2 baños, terraza y balcón, suelos mármol, completamente amueblado y equipado.\nPlaza de garaje y trastero.\nLlamar sólo personas con solvencia económica.",
+  "isAttic": false,
+  "meters": 110,
+  "rooms": 3,
+  "price": 1600,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Jardín"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 4,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5663036,
+  "longitude": 2.6584274
+}

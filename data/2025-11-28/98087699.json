@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/98087699/",
+  "locationSlug": "foners",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Joan Maragall, 21",
+  "description": "Se alquila preciosa planta baja completamente reformada, situada junto al Palacio de Congresos y a tan solo 1 minuto del Paseo Marítimo.\nCon unos 100 m², esta vivienda destaca por su luminosidad, su tranquilidad y su excelente ubicación.\n\nLa distribución es muy cómoda:\n\n2 habitaciones dobles\n\n1 estancia adicional de paso hacia la terraza, ideal como despacho, vestidor o zona polivalente\n\n1 baño moderno con plato de ducha\n\nCocina independiente, totalmente equipada y amueblada\n\nAmplio salón-comedor\n\nGalería y trastero\n\nEn el exterior encontrarás una fantástica terraza privada de unos 25 m², perfecta para disfrutar del buen tiempo. La finca cuenta además con zona comunitaria.\n\nEntre sus extras: ventanas climalit oscilobatientes, persianas de aluminio, suelos de parquet, calefacción de gas ciudad, aire acondicionado y la vivienda se entrega recién pintada.\nSe alquila sin muebles.\n\nDisponible a partir del 13 de diciembre.\nCondiciones: imprescindible garantía de pago, 2 meses de fianza.\nGastos a cuenta del inquilino: agua, luz, gas e incineradora.",
+  "isAttic": false,
+  "meters": 105,
+  "rooms": 2,
+  "price": 1200,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Trastero",
+    "Orientación sur",
+    "Cocina equipada y casa sin amueblar",
+    "Calefacción individual: Gas natural",
+    "Aire acondicionado",
+    "Jardín"
+  ],
+  "bathrooms": 1,
+  "floor": 0,
+  "hasElevator": false,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": true,
+  "latitude": 39.5646209,
+  "longitude": 2.6604164
+}

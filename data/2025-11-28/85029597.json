@@ -1,0 +1,26 @@
+{
+  "url": "https://www.idealista.com/inmueble/85029597/",
+  "locationSlug": "el-terreno",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de estudio en Avenida de Gabriel Roca, 34",
+  "description": "Exclusivo estudio con vistas al mar – Primera línea del Paseo Marítimo de Palma \n\nSe alquila elegante estudio de 50 m², ubicado en la zona más codiciada de Palma: el Paseo Marítimo, actualmente finalizando una espectacular renovación que lo convertirá en uno de los paseos más bellos y lujosos del Mediterráneo.\n\nSituado en primera línea, el estudio ofrece vistas panorámicas al mar, gran luminosidad y un ambiente acogedor. Está en excelente estado, completamente amueblado, con cocina y baño independientes, y equipado con aire acondicionado frío/calor, ideal para vivir todo el año.\n\nEl edificio cuenta con portero físico 24 horas, lo que garantiza tranquilidad y seguridad en una ubicación privilegiada.\n\n 50 m² muy bien distribuidos\n Vistas al mar desde el salón\n Totalmente amueblado\n Cocina y baño independientes\n Aire acondicionado frío/calor\n Portero físico \n Entorno de alto nivel, con la reforma del paseo casi finalizada\n A pasos del mar, restaurantes, clubs náuticos y vida premium\n\nUna oportunidad única para quienes buscan disfrutar de Palma en su mejor versión, con sol, mar y calidad de vida.",
+  "isAttic": false,
+  "meters": 50,
+  "price": 1300,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 1,
+  "floor": 4,
+  "hasElevator": true,
+  "exactCoordinates": true,
+  "latitude": 39.5620302,
+  "longitude": 2.6268068
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/105801634/",
+  "locationSlug": "port-d-alcudia-platja-d-alcudia",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Port d'Alcúdia - Platja d'Alcúdia",
+  "description": "Dispone de tres habitaciones, dos terrazas, un salón comedor, un baño recientemente reformado (las fotografías no están actualizadas), una cocina y una coladuría. Situado en un lugar tranquilo y céntrico a la vez, a 5 minutos andando de la playa. Disponible desde enero a junio, ambos incluídos.",
+  "isAttic": false,
+  "meters": 100,
+  "rooms": 3,
+  "price": 1200,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Orientación norte",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 1,
+  "floor": 0,
+  "hasElevator": false,
+  "energyConsumption": "Inmueble exento",
+  "energyEmission": "Inmueble exento",
+  "exactCoordinates": false,
+  "latitude": 39.8294421,
+  "longitude": 3.1183196
+}

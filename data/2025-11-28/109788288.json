@@ -1,0 +1,33 @@
+{
+  "url": "https://www.idealista.com/inmueble/109788288/",
+  "locationSlug": "sant-agusti",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Camino de Son Toells",
+  "description": "¡Descubre este espectacular ático en alquiler que redefine el concepto de hogar! \nDisponible\n\nCon 90 m² de espacio útil y una impresionante terraza superior de 80 m², este piso ofrece unas vistas excepcionales al mar que te dejarán sin aliento. La orientación sur garantiza una luminosidad única durante todo el día, creando un ambiente cálido y acogedor en cada rincón. \n\nEl ático cuenta con tres amplias habitaciones, todas equipadas con armarios empotrados, y dos baños completos que añaden comodidad a tu día a día. El salón comedor, perfecto para disfrutar de momentos en familia o con amigos, tiene salida a una encantadora terracita donde podrás relajarte y disfrutar del aire fresco. La cocina está completamente equipada, lista para que prepares tus platos favoritos.\n\nAdemás, la vivienda incluye una habitación adicional en la terraza, ideal como despacho, estudio o zona de invitados, con acceso directo al exterior. Desde el otro lado del piso, podrás deleitarte con vistas a la montaña, creando un equilibrio perfecto entre naturaleza y mar. \n\nEste ático se encuentra en una cuarta planta con ascensor y también dispone de plaza de parking y trastero privado, lo que añade un valor extra a la propiedad. Amueblado y listo para entrar a vivir, solo se requiere abonar la electricidad aparte. Se aceptan pequeñas mascotas, lo que lo convierte en un lugar ideal para todos los miembros de la familia. \nTambien, se podria alquilar por 6 meses comó minimo\nPara acceder a este maravilloso hogar, es necesario acreditar solvencia económica y aportar referencias. ¡No dejes pasar esta oportunidad única!",
+  "isAttic": false,
+  "meters": 100,
+  "rooms": 3,
+  "price": 1900,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "No dispone de calefacción",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 4,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5530687,
+  "longitude": 2.5949985
+}

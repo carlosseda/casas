@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/109437374/",
+  "locationSlug": "la-missio-mercat",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle dels Horts",
+  "description": "Magnífico piso disponible en alquiler de larga estancia en pleno centro de Palma, a tan solo unos pasos de Las Ramblas y rodeado de todos los servicios necesarios en el día a día: supermercados, farmacias, hospital, transporte público, restaurantes y zonas de ocio.\n\nLa vivienda cuenta con 80 m² distribuidos en un espacioso salón con grandes ventanales y vigas de madera vistas que aportan carácter y calidez al espacio, dos amplias habitaciones dobles con armarios empotrados, una cocina independiente, un baño recién reformado con plato de ducha y una práctica coladuría independiente.\n\nSituado en una segunda planta con ascensor, el piso está decorado con gusto y dispone de aire acondicionado y calefacción por gas, lo que garantiza confort durante todo el año.\n\nCondiciones: se solicita un mes de fianza y un mes de garantía adicional, así como solvencia económica demostrable. Gastos de comunidad y agua incluidos en el precio del alquiler.\n\nUna magnífica oportunidad para vivir en el corazón histórico de Palma con todas las comodidades.",
+  "isAttic": false,
+  "meters": 82,
+  "rooms": 2,
+  "price": 1650,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Gas natural",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 1,
+  "floor": 2,
+  "hasElevator": true,
+  "energyConsumption": "C",
+  "energyEmission": "E",
+  "exactCoordinates": false,
+  "latitude": 39.5729526,
+  "longitude": 2.6510561
+}

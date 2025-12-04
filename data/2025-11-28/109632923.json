@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/109632923/",
+  "locationSlug": "el-terreno",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Avenida de Gabriel Roca, 37",
+  "description": "ALQUILER LARGA ESTANCIA. - PASEO MARÍTIMO – 1300 €. /MES. Vivienda de 70 m2. Cuenta con dos habitaciones, salón y cocina americana. Dispone de dos baños completos y aire acondicionado. Amueblado. Muy luminoso, con vistas despejadas desde todas las estancias. Vistas laterales al Paseo Marítimo desde la terraza. El edificio es tranquilo y de uso exclusivamente residencial (prohibido el alquiler vacacional). Cuenta con servicio de portería. Está bien comunicado con varias lineas de bus urbano e interurbano, y tiene rápido acceso a la autovía. El Paseo Marítimo acaba de ser renovado y la zona cuenta con todos los servicios, carril bici, zona peatonal, supermercados y un centro comercial cercano. Ideal para parejas. \nNo se admiten animales de compañía.\nPosibilidad de alquilar el garaje en el mismo edificio por 190 € más.\nImprescindible acreditar solvencia económica y estabilidad laboral, así como presentar, respecto de ambos inquilinos, contratos de trabajo y dos nóminas. \nSe alquila directamente con el propietario sin intermediarios.\nPor favor, absténganse inmobiliarias.\nSi está interesado pónganse por favor en contacto por chat.",
+  "isAttic": false,
+  "meters": 70,
+  "rooms": 2,
+  "price": 1300,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 190,
+  "floor": 8,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": true,
+  "latitude": 39.560174,
+  "longitude": 2.625935
+}

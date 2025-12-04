@@ -1,0 +1,24 @@
+{
+  "url": "https://www.idealista.com/inmueble/108265485/",
+  "locationSlug": "pollenca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de casa o chalet en Pollença",
+  "description": "",
+  "isAttic": false,
+  "meters": 91,
+  "rooms": 2,
+  "price": 2500,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Casa o chalet",
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Aire acondicionado",
+    "Piscina"
+  ],
+  "bathrooms": 2,
+  "yearBuilt": null,
+  "exactCoordinates": false,
+  "latitude": 39.8802817,
+  "longitude": 3.0144293
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/106530015/",
+  "locationSlug": "pollenca",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de ático en Plaza de Ca les Monnares, 20",
+  "description": "Excelente atico, diseñado con materiales de alta calidad, aire acondicionado y calefacción. Con una plaza de parking en el sótano del edificio conectado con ascensor.\nEl ático está situado en el tercer piso de un centrico edificio. Con una gran terraza soleada amueblada con hamacas y toldo con espectaculares vistas de la Serra de Tramuntana.\nTiene tres habitaciones dobles con armarios empotrados, y dos baños completos.\nCocina totalmente equipada con lavavajillas, nevera / congelador, microondas, horno eléctrico, vitrocerámica, cafetera Nespresso y cafetera normal, batidora, tostadora, lavadora, secadora, Abierta a un salón- comedor con grandes ventanas correderas de cristal.\nSe alquila mediante contrato de temporara, según la ley de arendamientos urbanos ( L. A. U ), siendo el periodo mínimo de un mes, esta disponible a partir del 1 de Noviembre de 2024. , según detalle,\nNoviembre, Diciembre, Enero, Febrero, Marzo 2025 2.400, 00 Euros/mes.\nAbril, 2025, 2.600, 00 Euros/mes.\nJunio 2025, ALQUILADO.\nJulio, Agosto 2025, 3000,00 Euros/mes\nSeptiembre 2025, 2800,00 Euros/mes\nOctubre 2025, 2.500, 00 Euros/ mes\nNoviembre, Diciembre 2025, 2.400, 00 Euros/mes. \nSegún la duración del contrato se realizarán los siguientes descuentos;\nMas de 2 meses -5% descuento.\nMas de 4 meses -10% descuento.\nMas de 6 meses -15% descuento.\n\nNúmero de registro de alquiler\nESFCNT00000 350100000000000000000000000000001.",
+  "isAttic": true,
+  "meters": 115,
+  "rooms": 3,
+  "price": 2400,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 90,
+  "floor": 3,
+  "hasElevator": true,
+  "energyConsumption": "D",
+  "energyEmission": "D",
+  "exactCoordinates": true,
+  "latitude": 39.8771541,
+  "longitude": 3.018908
+}

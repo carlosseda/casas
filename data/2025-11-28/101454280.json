@@ -1,0 +1,24 @@
+{
+  "url": "https://www.idealista.com/inmueble/101454280/",
+  "locationSlug": "la-missio-mercat",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en La Missio - Mercat",
+  "description": "Este encantador apartamento está situado en el corazón del casco antiguo de Palma, a pocos minutos de La Rambla. Con una distribución muy cuidada, este apartamento se encuentra en un edificio con sólo tres propietarios. Dispone de 2 dormitorios y 1 baño, con una superficie construida de 59 m². Además, dispone de un espacio versátil que puede convertirse en vestidor o en un pequeño despacho. El piso cuenta con una cocina totalmente nueva y equipada.\nIdeal para una pareja a la que le guste vivir en el vibrante centro de esta pintoresca ciudad. La terraza comunitaria de la azotea ofrece unas vistas impresionantes, perfectas para relajarse. Disponible para alquiler a largo plazo sin amueblar.\nPara más información, no dude en ponerse en contacto con el equipo de alquileres de First Mallorca.",
+  "isAttic": false,
+  "meters": 65,
+  "rooms": 2,
+  "price": 1500,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Orientación norte"
+  ],
+  "bathrooms": 1,
+  "yearBuilt": null,
+  "floor": 1,
+  "hasElevator": false,
+  "energyConsumption": "G",
+  "exactCoordinates": false,
+  "latitude": 39.5744624,
+  "longitude": 2.6492575
+}

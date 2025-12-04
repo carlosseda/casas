@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/108579484/",
+  "locationSlug": "llucmajor-interior",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de casa o chalet en Llucmajor Interior",
+  "description": "Esta cuidada casa de pueblo, parcialmente amueblada, se encuentra en una calle tranquila, a solo unos pasos de la encantadora zona peatonal que conduce directamente a la plaza principal (Plaza de Llucmajor). Tiendas, cafeterías y todos los servicios del pueblo están a poca distancia.\nLa casa ofrece una distribución cómoda y funcional en varios niveles, con 3 amplios dormitorios y 3 modernos baños. La luminosa zona de estar con cocina abierta crea un ambiente acogedor para la vida diaria y para relajarse con familia y amigos.\nEn la parte trasera de la casa hay un patio privado con terraza cubierta y descubierta, ideal para relajarse o comer al aire libre durante todo el año.\n\nOtras características destacadas:\nGaraje con espacio para dos vehículos\nAscensor para personas con movilidad reducida – acceso sin barreras en la planta baja y la primera planta\nAcabados de alta calidad y mucha luz natural\n\nEsta casa es ideal para quienes buscan comodidad, espacio y una ubicación céntrica en uno de los pueblos más auténticos de Mallorca.",
+  "isAttic": false,
+  "meters": 288,
+  "rooms": 3,
+  "price": 2500,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Casa o chalet",
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Trastero",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 3,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "yearBuilt": null,
+  "energyConsumption": "E",
+  "exactCoordinates": false,
+  "latitude": 39.4866831,
+  "longitude": 2.8891724
+}

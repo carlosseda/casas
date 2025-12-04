@@ -1,0 +1,25 @@
+{
+  "url": "https://www.idealista.com/inmueble/109274541/",
+  "locationSlug": "manacor-centro",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Manacor Centro",
+  "description": "Se alquila planta baja en el centro de Manacor, al lado de plaza es cos. Se compone de amplia cocina abierta con comedor y sala de estar, una habitacion, baño y coladuria. No se admiten mascotas. Se pide el mes en curso, un mes de fianza y un mes de garantia adicional. Electricidad, agua, internet y basura a cuenta del inquilino.",
+  "isAttic": false,
+  "meters": 70,
+  "rooms": 1,
+  "price": 800,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 1,
+  "floor": 0,
+  "hasElevator": false,
+  "energyConsumption": "B",
+  "energyEmission": "B",
+  "exactCoordinates": false,
+  "latitude": 39.568131,
+  "longitude": 3.2103308
+}

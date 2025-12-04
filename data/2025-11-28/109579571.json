@@ -1,0 +1,32 @@
+{
+  "url": "https://www.idealista.com/inmueble/109579571/",
+  "locationSlug": "cala-figuera",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de casa o chalet independiente en Cala Figuera",
+  "description": "Descubre esta impresionante propiedad ubicada en Santanyí, específicamente en la tranquila zona de Cap des Morro-S`Amarador. Esta elegante casa de obra nueva cuenta con una superficie construida de 374 m² y está diseñada para ofrecer un estilo moderno que combina confort y funcionalidad. Con 4 amplios dormitorios dobles equipados cada uno con armarios empotrados, el dormitorio en planta baja ofrece acceso directo a la piscina privada - perfecta para disfrutar del clima mediterráneo. La planta baja alberga un luminoso salón-comedor conectado a una cocina abierta completamente equipada con electrodomésticos de calidad superior e innovadores fogones a gas; además incluye coladero para lavadora y práctico trastero bajo las escaleras. En el primer nivel se encuentran los dos dormitorios generosos que también cuentan baño privado en suite tipo ducha, uno con terraza y spectaculares vistas panorámicas. Hogar diseñado especialmente quienes buscan tranquilidad cerca del océano combinando lujos contemporáneos dentro! Aprovecha ya oportunidad única: ¡estrena tu nuevo hogar hoy mismo!",
+  "isAttic": false,
+  "meters": 374,
+  "rooms": 3,
+  "price": 2900,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Casa o chalet independiente",
+    "2 plantas",
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Amueblado y cocina equipada",
+    "Calefacción central",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín"
+  ],
+  "bathrooms": 2,
+  "yearBuilt": null,
+  "energyConsumption": "A",
+  "energyEmission": "A",
+  "exactCoordinates": false,
+  "latitude": 39.3422239,
+  "longitude": 3.181117
+}

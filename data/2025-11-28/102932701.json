@@ -1,0 +1,32 @@
+{
+  "url": "https://www.idealista.com/inmueble/102932701/",
+  "locationSlug": "can-picafort",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de chalet pareado en Can Picafort",
+  "description": "El apartamento en alquiler se encuentra en una ubicación privilegiada, muy cerca del mar, en las hermosas playas de Muro. Ha sido completamente reformado y está muy bien decorado, lo que le brinda un ambiente acogedor y moderno.\n\nEl apartamento cuenta con aire acondicionado, lo que te permite mantener un ambiente fresco y caliente cómodo en los días calurosos y frescos. Además, destaca por su amplia terraza que rodea la casa, lo que te brinda un espacio al aire libre para relajarte.\n\nEl apartamento consta de dos baños, lo que facilita la convivencia si planeas compartirlo con otras personas. Además, dispone de tres habitaciones, lo que te brinda espacio suficiente para acomodar a familiares o amigos si así lo deseas.\n\nEl alquiler es de corta estancia, con un mínimo de tres meses, lo que lo hace ideal para aquellos que desean una escapada temporal a la playa. Además, es perfecto para el teletrabajo, ya que puedes disfrutar de un entorno tranquilo y relajante mientras trabajas desde la comodidad de la casa.\n\nLa proximidad a la hermosa playa, que se encuentra a tan solo 20 metros de la casa, te brinda la oportunidad de disfrutar de paseos en la arena, nadar en el mar y relajarte con el sonido de las olas. En resumen, este apartamento es una opción muy acogedora y atractiva para aquellos que buscan una experiencia cerca del mar en las preciosas playas de Muro.",
+  "isAttic": false,
+  "meters": 170,
+  "rooms": 3,
+  "price": 1600,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Chalet pareado",
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Amueblado y cocina equipada",
+    "Calefacción individual",
+    "Aire acondicionado",
+    "Jardín"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "yearBuilt": null,
+  "energyConsumption": "Inmueble exento",
+  "energyEmission": "Inmueble exento",
+  "exactCoordinates": false,
+  "latitude": 39.7664678,
+  "longitude": 3.1523047
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://www.idealista.com/inmueble/109629972/",
+  "locationSlug": "el-terreno",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de dúplex en Avenida de Gabriel Roca",
+  "description": "Se alquila dúplex reformado de 174 m² en el Paseo Marítimo de Palma, una de las zonas más atractivas de la ciudad, a pocos metros del puerto y rodeado de restaurantes, tiendas y todos los servicios. Bien comunicado con transporte público y principales vías de acceso.\n\nLa vivienda dispone de tres habitaciones, dos baños completos y un aseo, cocina equipada y un amplio salón comedor muy luminoso. En el exterior ofrece dos terrazas conectadas por una escalera, ideales para disfrutar del clima de Mallorca.\nEl piso ha sido reformado recientemente y cuenta con suelos de parquet, aire acondicionado, persianas y se alquila amueblado.\n\nLa comunidad está muy bien cuidada y pone a disposición de los residentes piscina comunitaria rodeada de jardines y ascensor en el edificio. El precio incluye una plaza de aparcamiento.\n\nAlquiler de larga duración. No se aceptan mascotas.",
+  "isAttic": false,
+  "meters": 174,
+  "rooms": 3,
+  "price": 3000,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín",
+    "Lujo"
+  ],
+  "bathrooms": 3,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 0,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5605185,
+  "longitude": 2.6272817
+}

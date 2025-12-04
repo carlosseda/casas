@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/109350951/",
+  "locationSlug": "pollenca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de casa o chalet independiente en Ma-2201 s/n",
+  "description": "Alquilo casita rural en una finca en el campo en termino de pollença, a 4 km de Alcudia, con buena comunicación a las playas y a la autopista a Palma, con posibilidad de elegir muebles a gusto personal, excepto cocina, tienes piscina de 1,2 MTRS de profundidad!\nCon placas solares y bajo consumo de energía!",
+  "isAttic": false,
+  "meters": 70,
+  "rooms": 2,
+  "price": 1800,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Casa o chalet independiente",
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Trastero",
+    "Orientación oeste",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Piscina"
+  ],
+  "bathrooms": 1,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "energyConsumption": "B",
+  "energyEmission": "B",
+  "exactCoordinates": true,
+  "latitude": 39.8705626,
+  "longitude": 3.033466
+}

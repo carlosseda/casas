@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/109786397/",
+  "locationSlug": "can-picafort",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Can Picafort",
+  "description": "Acogedor apartamento en alquiler en Can Picafort, a solo unos pasos de la playa. Con una distribución práctica y funcional, este luminoso apartamento cuenta con 1 dormitorio, 1 baño completo, una terraza para disfrutar del buen clima mediterráneo y una cocina independiente totalmente equipada con electrodomésticos. En segunda línea de playa, podrás disfrutar de la tranquilidad y cercanía al mar en un entorno privilegiado. Además, se encuentra semi-amueblado y listo para entrar a vivir. \nSin ascensor, No admiten mascotas\n¡No dejes pasar esta oportunidad de vivir en uno de los destinos turísticos más populares de Mallorca!",
+  "isAttic": false,
+  "meters": 60,
+  "rooms": 1,
+  "price": 1000,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Cocina equipada y casa sin amueblar",
+    "No dispone de calefacción",
+    "Apartamento"
+  ],
+  "bathrooms": 1,
+  "floor": 2,
+  "hasElevator": false,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.76402,
+  "longitude": 3.1528842
+}

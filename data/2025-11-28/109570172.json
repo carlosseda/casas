@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/109570172/",
+  "locationSlug": "foners",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle de Pérez Galdós",
+  "description": "Descubre este gran piso de 144 m² ubicado en una de las zonas más tranquilas y bien comunicadas de Palma de Mallorca. \n*Nota: Puedes hacer la reserva ya, pero el piso solo estará disponible a finales de diciembre, principios de enero aproximadamente.\nLa vivienda se distribuye en tres amplias habitaciones y tres baños completos, ofreciendo comodidad y espacio para cualquier trabajador. Cuenta con dos balcones, uno de ellos amplio para que puedas disfrutar de las vistas a los jardines.\n\nGoza de vistas a los jardines interiores de la urbanización y a la calle, lo que aporta luz natural y un ambiente relajante. Además, dispone de aire acondicionado, trastero e internet de alta velocidad, ideal tanto para vivir como para teletrabajar.\n\nEl inmueble forma parte de un condominio cerrado, que garantiza privacidad y seguridad, y se encuentra en la zona Llevant, a pocos minutos de la playa y con excelentes conexiones con el resto de la ciudad.\n\nUna oportunidad perfecta para quienes buscan vivir en un entorno tranquilo, luminoso y bien comunicado en Palma. Con la parada de autobús del aeropuerto al lado, solo se tarda 10 minutos.\n\n*Nota: este inmueble está orientado para trabajadores y no para familias.\n\nVisita bonafinca. com para más información.",
+  "isAttic": false,
+  "meters": 144,
+  "rooms": 3,
+  "price": 2000,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Trastero",
+    "Orientación sur, oeste",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 3,
+  "yearBuilt": null,
+  "floor": 2,
+  "hasElevator": true,
+  "energyConsumption": "C",
+  "energyEmission": "C",
+  "exactCoordinates": false,
+  "latitude": 39.5659501,
+  "longitude": 2.6609053
+}

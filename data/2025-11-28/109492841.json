@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/109492841/",
+  "locationSlug": "pollenca",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de finca rústica en Pollença",
+  "description": "NO ES PARA LARGO PLAZO.\n\nFinca rustica en Pollença, disponible a partir de enero 2026 por una estancia máxima de 6 meses\n\nAire acondicionado, Piscina plástico, zona barbacoa, terraza con hamacas.\n\nAgua incluido en el precio / electricidad a parte. \n\nLlámanos para mas informaciones.",
+  "isAttic": false,
+  "meters": 57,
+  "rooms": 1,
+  "price": 1300,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Finca rústica",
+    "2 plantas",
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Trastero",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado",
+    "Jardín"
+  ],
+  "bathrooms": 1,
+  "energyConsumption": "A",
+  "energyEmission": "A",
+  "exactCoordinates": false,
+  "latitude": 39.8764351,
+  "longitude": 3.0176806
+}

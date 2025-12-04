@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/109773207/",
+  "locationSlug": "cala-figuera",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de chalet pareado en Calle Juan Sebastián Elcano",
+  "description": "SE REALIZA ALQUILER DE TEMPORADA.\n\nNO ES ALQUILER DE LARGA DURACIÓN.\n\nSe solicita un mes de fianza y un mes de honorarios de gestión inmobiliaria (al tratarse de un arrendamiento de temporada la inmobiliaria puede percibir honorarios del inquilino)\n\nSe alquila casa de dos plantas con VISTAS AL MAR en Cala Figuera (Santanyi) de 125 metros cuadrados, 2 plantas y 3 TERRAZAS.\n\nCompuesto de 2 dormitorios dobles, 2 baños completos y 3 terrazas, dos en planta baja y una en planta superior. Amplia cocina equipada de mobiliario y electrodomésticos. Totalmente amueblado y equipado hasta el más mínimo detalle.\n\nWifi y Satélite incluido en precio.\n\nZona de gran tranquilidad y fácil aparcamiento, a 50 metros del mar y a 2 minutos andando del precioso puerto pesquero de la localidad.\n\nSE SOLICITA INQUILINO SOLVENTE.",
+  "isAttic": false,
+  "meters": 120,
+  "rooms": 2,
+  "price": 1000,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Chalet pareado",
+    "2 plantas",
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación este",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Eléctrica",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 2,
+  "energyConsumption": "E",
+  "energyEmission": "E",
+  "exactCoordinates": false,
+  "latitude": 39.3314626,
+  "longitude": 3.1720028
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/109617721/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Santa Ponça",
+  "description": "Beautifully renovated commercial space converted into a modern studio apartment, fully furnished and ready to move in. Nestled in a quiet residential area within the exclusive Green Park community, this home offers comfort, privacy and a privileged natural setting.\nProperty Features:\nBright and spacious open-plan layout with kitchen, living, dining and bedroom areas.\nFully equipped kitchen with oven, ceramic hob, refrigerator and washer-dryer.\nAir conditioning (hot and cold).\nFully furnished and move-in ready.\n Community Amenities:\nStunning communal swimming pool surrounded by lush gardens.\nSun loungers and a barbecue area for outdoor enjoyment.\n Rental Conditions:\nMonthly rent: €1,350\nIncluded in the rent: water, gas, community fees, internet, garbage collection and electricity (up to €50/month).\nDeposit: 1 month’s rent + rent guarantee insurance of €2,000.\nDiscounts for advance payment:\n6-month payment: €100/month discount\n12-month payment: 1 month free rent.",
+  "isAttic": false,
+  "meters": 50,
+  "rooms": 1,
+  "price": 1350,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Eléctrica",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín"
+  ],
+  "bathrooms": 1,
+  "floor": 1,
+  "hasElevator": false,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.4967677,
+  "longitude": 2.471777
+}

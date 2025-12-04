@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/109797247/",
+  "locationSlug": "llucmajor-interior",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Llucmajor Interior",
+  "description": "Este cuidado apartamento se encuentra en el corazón de Llucmajor, en una zona tranquila, a pocos minutos a pie de todos los comercios, así como de la Plaza España, con sus restaurantes y cafés.\n\nSituado en la primera planta de un edificio con solo tres viviendas, cuenta con una superficie de aproximadamente 140 qm. Dispone de tres dormitorios dobles, dos baños (uno de ellos en suite), un amplio salón independiente y una cocina espaciosa equipada con todos los electrodomésticos y una despensa.\n\nLa vivienda tiene dos balcones —uno con vistas a la calle y otro hacia el patio interior—. Desde el balcón trasero, así como directamente desde la cocina, se accede al cuarto de colada, que dispone de conexiones para lavadora y secadora.\n\nSe incluye una plaza de aparcamiento privada. La vivienda cuenta con calefacción central y aire acondicionado en todas las estancias, lo que garantiza confort durante todo el año.\n\nGastos adicionales: agua, electricidad, gasóleo para calefacción y tasa de basura.\n\nEl apartamento está disponible inmediatamente para alquiler a largo plazo.",
+  "isAttic": false,
+  "meters": 140,
+  "rooms": 3,
+  "price": 1800,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Amueblado y cocina equipada",
+    "Calefacción central: Gasoil",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "yearBuilt": null,
+  "floor": 1,
+  "hasElevator": false,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.4898862,
+  "longitude": 2.8865909
+}

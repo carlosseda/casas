@@ -1,0 +1,25 @@
+{
+  "url": "https://www.idealista.com/inmueble/107145382/",
+  "locationSlug": "pollenca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de casa o chalet en Pollença",
+  "description": "Maravillosa casa de 2 habitaciones, una de ellas en suite, en la encantadora localidad de Alcudia, Mallorca, ideal para larga estancia y vivir todo el año. Esta preciosa propiedad cuenta con una cocina equipada (sin muebles), un amplio y práctico almacén debajo de la casa, y un jardín espectacularmente cuidado. La casa es nueva a estrenar y está lista para convertirse en tu hogar.",
+  "isAttic": false,
+  "meters": 150,
+  "rooms": 2,
+  "price": 2500,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Casa o chalet",
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Trastero",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "exactCoordinates": false,
+  "latitude": 39.8520172,
+  "longitude": 3.0398529
+}

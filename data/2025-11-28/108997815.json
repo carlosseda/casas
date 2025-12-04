@@ -1,0 +1,25 @@
+{
+  "url": "https://www.idealista.com/inmueble/108997815/",
+  "locationSlug": "port-d-alcudia-platja-d-alcudia",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de estudio en Calle dels Salzes, 1",
+  "description": "Apartamento de 1 habitacion, 1 baño, cocina equipada y amueblada, 2 bombas de calor (habitacion y salon). dispone de balcon y muebles. a 50 mts del mar.",
+  "isAttic": false,
+  "meters": 60,
+  "price": 1350,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 1,
+  "floor": 1,
+  "hasElevator": false,
+  "exactCoordinates": true,
+  "latitude": 39.8192064,
+  "longitude": 3.115132
+}

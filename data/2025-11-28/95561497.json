@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/95561497/",
+  "locationSlug": "can-picafort",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de chalet pareado en Calle jose trias s/n",
+  "description": "Nicolas Real Estate, su especialista en fincas y villas en Mallorca, con más de 100 propiedades en alquiler y más de 1000 propiedades en venta.\n\nEsta propiedad es una casa de una sola planta con terraza en Can Picafort a unos 250 metros del mar. Tiene 140m2 y se divide en 3 dormitorios( uno adicional se esta construyendo), 2 baños, salón-comedor que se abre a la veranda y una cocina totalmente equipada. El piso de la planta baja también ofrece un patio interior y una gran terraza en la azotea.\n\nOtras características son: Aire acondicionado frío/calor y un garaje.",
+  "isAttic": false,
+  "meters": 200,
+  "rooms": 4,
+  "price": 2600,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Chalet pareado",
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Orientación norte, sur",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": true,
+  "latitude": 39.7679914,
+  "longitude": 3.1479623
+}

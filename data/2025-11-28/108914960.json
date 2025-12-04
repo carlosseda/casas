@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/108914960/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de ático en Santa Ponça",
+  "description": "Ático exclusivo en alquiler de larga duración en una ubicación privilegiada de Santa Ponsa\n\nEste ático de alta calidad se encuentra en un moderno y bien cuidado complejo residencial con solo 24 viviendas, ubicado en una zona tranquila y muy demandada de Santa Ponsa. La propiedad ofrece una superficie habitable de aprox. 155 m² distribuidos en un amplio salón-comedor con cocina abierta de diseño, cuatro dormitorios y tres elegantes baños, dos de ellos en suite. Una soleada terraza invita a disfrutar del aire libre.\n\nEntre sus características destacan el aire acondicionado frío/calor, la calefacción por suelo radiante y dos plazas de garaje subterráneas. Además, la comunidad cuenta con una atractiva zona de piscina para uso compartido.\n\nSanta Ponsa destaca por su cercanía a playas, campos de golf, puertos deportivos exclusivos y una excelente infraestructura con tiendas, restaurantes y conexiones internacionales – ideal para quienes buscan una vivienda de calidad en el suroeste de Mallorca.",
+  "isAttic": true,
+  "meters": 245,
+  "rooms": 4,
+  "price": 8000,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Trastero",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado",
+    "Lujo"
+  ],
+  "bathrooms": 3,
+  "floor": 4,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5218682,
+  "longitude": 2.4770989
+}

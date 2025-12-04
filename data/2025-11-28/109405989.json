@@ -1,0 +1,31 @@
+{
+  "url": "https://www.idealista.com/inmueble/109405989/",
+  "locationSlug": "can-picafort",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle Tords, 26",
+  "description": "",
+  "isAttic": false,
+  "meters": 110,
+  "rooms": 3,
+  "price": 1400,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Calefacción individual"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 1,
+  "hasElevator": false,
+  "energyConsumption": "C",
+  "energyEmission": "C",
+  "exactCoordinates": true,
+  "latitude": 39.7578483,
+  "longitude": 3.1673679
+}

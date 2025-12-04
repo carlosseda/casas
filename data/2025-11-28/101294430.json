@@ -1,0 +1,22 @@
+{
+  "url": "https://www.idealista.com/inmueble/101294430/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Santa Ponça",
+  "description": "Este bonito piso ofrece una ubicación muy tranquila con piscina comunitaria y acceso a la playa a 100 m.\nLa propiedad tiene una superficie construida de 90 m² y dispone de 2 dormitorios, 2 baños, salón con cocina integrada y terraza.\nLa vivienda en planta baja está totalmente amueblada, equipada con aire condicionado y lista para entrar a vivir.",
+  "isAttic": false,
+  "meters": 80,
+  "rooms": 2,
+  "price": 2000,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Orientación oeste",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "hasElevator": false,
+  "exactCoordinates": false,
+  "latitude": 39.5204658,
+  "longitude": 2.4799814
+}

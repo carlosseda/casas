@@ -1,0 +1,26 @@
+{
+  "url": "https://www.idealista.com/inmueble/106566847/",
+  "locationSlug": "foners",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de ático en Calle de Joan Alcover",
+  "description": "DISPONIBLE A PARTIR DE DiCIEMBRE!\n\n¡Descubre tu nuevo hogar en Palma! Este impresionante ático, ubicado a tan solo 1 km de la playa, es el lugar perfecto para disfrutar del estilo de vida mediterráneo. Situado en la tercera planta de un edificio sin ascensor, este piso de 90 m² te ofrece un ambiente acogedor y elegante. Totalmente amueblado con materiales de alta calidad, cuenta con un salón comedor que se integra a la perfección con una cocina abierta y equipada. Dispone de tres dormitorios dobles y un baño moderno con ducha.\n\nLo más destacado es su amplia terraza de 17 m², ideal para disfrutar de cenas al aire libre gracias a su mesa, sillas y barbacoa. Con un alquiler mensual de 2200€ más suministros, este ático se ofrece tanto para estancias de temporada como para largas temporadas. No pierdas la oportunidad de vivir en un espacio que combina comodidad y estilo en una ubicación privilegiada. ¡Ven a verlo y enamórate de tu nuevo hogar en Palma!",
+  "isAttic": true,
+  "meters": 90,
+  "rooms": 3,
+  "price": 2200,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 1,
+  "floor": 3,
+  "hasElevator": false,
+  "energyConsumption": "B",
+  "energyEmission": "B",
+  "exactCoordinates": false,
+  "latitude": 39.5674129,
+  "longitude": 2.6615338
+}

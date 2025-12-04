@@ -1,0 +1,31 @@
+{
+  "url": "https://www.idealista.com/inmueble/109949384/",
+  "locationSlug": "port-de-pollenca",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de ático en Calle del Gambí",
+  "description": "Disponible para alquiler de larga estancia a partir del 1 de marzo de 2026.\nContrato de 10 meses al año (no disponible en julio y agosto). Atico de 3 habitaciones y dos baños en Port de Pollensa.",
+  "isAttic": true,
+  "meters": 120,
+  "rooms": 3,
+  "price": 2500,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Eléctrica",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín"
+  ],
+  "bathrooms": 2,
+  "floor": 2,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.901763,
+  "longitude": 3.0788731
+}

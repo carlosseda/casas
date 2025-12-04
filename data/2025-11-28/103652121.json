@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/103652121/",
+  "locationSlug": "la-missio-mercat",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de ático en La Missio - Mercat",
+  "description": "Este lujoso ático está situado en el corazón de Palma, a apenas escasos minutos a pié de la calle Jaime III, el paseo de Mallorca y la Rambla.\nLa propiedad se caracteriza por su precioso y cuidado diseño, aparte de sus acabados de alta calidad. Goza de abundante luz natural que entra por sus amplios ventanales y al tratarse de la última planta, disfruta del privilegio de sus imponentes y despejadas vistas del casco antiguo, el mar y la sierra.\nEl apartamento consta de un espacioso y luminoso salón-comedor, conectado a una amplia terraza con mesa y sillas, sofá y toldo. La cocina moderna proviso con electrodomésticos, posee una ventana doble que da a la bahía. Tiene tres dormitorios cómodos y con armarios empotrados de madera, de los cuales el principal es en suite, con vestidor propio, vistas a la catedral y terraza adyacente, ideal para disfrutar de una taza de café nada más al despertarse.\nCabe destacar el suelo con parquet de madera natural, aíre acondicionado por conductos, descalificador de agua, calefacción y parking para un coche pequeño. La vivienda está totalmente equipada y se alquila a largo y corto plazo.\nPara más información no dude en contactar a su agente de First Mallorca.",
+  "isAttic": true,
+  "meters": 114,
+  "rooms": 3,
+  "price": 3800,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Trastero",
+    "Orientación sur",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 11,
+  "hasElevator": true,
+  "energyConsumption": "D",
+  "exactCoordinates": false,
+  "latitude": 39.5760276,
+  "longitude": 2.6467773
+}

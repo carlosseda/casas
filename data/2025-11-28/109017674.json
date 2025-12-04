@@ -1,0 +1,32 @@
+{
+  "url": "https://www.idealista.com/inmueble/109017674/",
+  "locationSlug": "port-de-pollenca",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de dúplex en Port de Pollença",
+  "description": "Alquiler temporal de 1 de noviembre 2025 a 30 junio 2026.\n\nLos propietarios disfrutan de la vivienda en julio y agosto.\n\nDúplex moderno en excelentes condiciones, ubicado en una tranquila comunidad de solo 7 vecinos en la zona de Llenaire, a dos minutos a pie de la playa.\n\nEn la planta baja, amplio salón-comedor con mesa para 6 personas (extensible hasta 8) y acceso directo a la terraza privada tanto desde el salón como desde la cocina, la cual ha sido recientemente reformada y está completamente equipada.\n\nEn la planta superior, dos dormitorios con armarios empotrados y dos baños, uno de ellos en suite.\n\nLa comunidad dispone de piscina con sol durante todo el día.\n\nCondiciones de alquiler: se deben demostrar ingresos y realizar un pago inicial equivalente a 4 meses (2 meses de fianza, 1 mes de honorarios y el mes en curso).\nGastos adicionales: agua, electricidad y wifi. La comunidad y el IBI va a cargo del propietario. iem.",
+  "isAttic": false,
+  "meters": 102,
+  "rooms": 2,
+  "price": 1700,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación norte",
+    "Amueblado y cocina equipada",
+    "Calefacción central",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín"
+  ],
+  "bathrooms": 2,
+  "yearBuilt": null,
+  "floor": 0,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.8935209,
+  "longitude": 3.075128
+}

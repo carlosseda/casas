@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/93543897/",
+  "locationSlug": "manacor-centro",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de finca rústica en Diseminado Poligon 07, 1229",
+  "description": "Disponible a partir del 31 de Diciembre.\nBonita casa de campo a tan solo 2 minutos del pueblo de Manacor, dispone de unos 4000m2 de terreno, en la parcela hay diferentes arboles frutales, horno de leña y mucho mas, la vivienda consta de un gran salón comedor con chimenea, cocina totalmente amueblada y equipada, 1 habitación doble en altillo, también dispone de un gran baño completo, en el exterior disfrutamos de una gran terraza cubierta (porche) en la parte delantera de la vivienda, de vivienda serian unos 66m2 y de terraza cubierto unos 39m2 totales unos 105m2, en parte trasera hay una gran terraza descubierta de unos 30m2, también dispone de una gran esplanada de hormigón totalmente a nivel para incorporar una gran piscina si lo desea o de aparcamiento, Tenemos agua de contado, la luz es por placas solares con un refuerzo de alternador (generador).",
+  "isAttic": false,
+  "meters": 105,
+  "rooms": 1,
+  "price": 1200,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Finca rústica",
+    "1 planta",
+    "Terraza",
+    "Chimenea",
+    "Segunda mano/buen estado",
+    "Trastero",
+    "Amueblado y cocina equipada",
+    "Jardín"
+  ],
+  "bathrooms": 1,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "energyConsumption": "G",
+  "energyEmission": "G",
+  "exactCoordinates": true,
+  "latitude": 39.5600397,
+  "longitude": 3.2452599
+}

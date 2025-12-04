@@ -1,0 +1,32 @@
+{
+  "url": "https://www.idealista.com/inmueble/109631861/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Santa Ponça",
+  "description": "**DISPONIBLE PARA ALQUILER DE CORTO PLAZO DESDE AHORA HASTA FINALES DE MAYO DE 2026**.\n\nLuminoso y espacioso piso de 120 m² + 20 m² de terraza, ubicado en un lujoso complejo residencial de Nova Santa Ponsa, a pocos pasos del famoso Port Adriano.\n\nConsta de 3 dormitorios dobles y 2 baños completos. Cocina individual totalmente equipada con coladuría adyacente. Amplio salón-comedor con acceso a la terraza de 20 m², ideal para disfrutar de la vida al aire libre.\n\nEquipado con aire acondicionado f/c integrado, suelos de mármol, ventanas de PVC con doble acristalamiento, armarios empotrados, ascensor, servicio de conserjería, y plaza de garaje y trastero incluidos en el precio.\n\nEste lujoso complejo residencial, construido en el año 2002, cuenta con extensos y hermosos jardines comunitarios, dos grandes piscinas exteriores con solárium, y una maravillosa piscina climatizada interior. Vigilancia las 24 horas del día. Los 10 edificios que componen el complejo están formados por planta baja, primer y segundo piso, y ático.\n\nUBICACIÓN EXCEPCIONAL. Nova Santa Ponsa es una zona residencial de lujo situada en el municipio de Calvià. Parte de la urbanización se asienta sobre un elevado promontorio, mientras que otra parte se extiende hasta el borde del acantilado que bordea la costa, ofreciendo impresionantes vistas a las Islas Malgrats y a la Isla del Toro.\n\nLa zona cuenta con los Campos de Golf Santa Ponsa I, II y III, y se encuentra junto a Santa Ponsa y la urbanización El Toro. A pocos pasos de la playa y del puerto deportivo Port Adriano, y a tan solo 15 minutos en coche del centro de Palma y 20 minutos del aeropuerto.\n\nPara más información, fotografías o concertar una visita, no dude en contactarnos. [IW].",
+  "isAttic": false,
+  "meters": 140,
+  "rooms": 3,
+  "price": 2100,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Amueblado y cocina equipada",
+    "No dispone de calefacción",
+    "Aire acondicionado",
+    "Piscina"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 1,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.4975385,
+  "longitude": 2.4774735
+}

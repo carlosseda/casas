@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/109459624/",
+  "locationSlug": "port-de-pollenca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Port de Pollença",
+  "description": "**Piso en Alquiler en Port de Pollença - ¡Tu nuevo hogar te espera! **\n\nDescubre este fantástico apartamento en planta baja, ideal para quienes buscan comodidad y tranquilidad. Con una superficie de 60 m², este piso completamente amueblado cuenta con un amplio salón comedor que invita a disfrutar de momentos inolvidables. La cocina está perfectamente equipada, lista para que prepares tus platillos favoritos. La habitación principal dispone de una acogedora cama doble, perfecta para descansar después de un día explorando la belleza de la zona.\n\nEl jardín privado de 20 m² es un verdadero oasis, ideal para relajarse al aire libre o disfrutar de una barbacoa con amigos. Además, el baño incluye espacio para coladuría, lo que añade funcionalidad al hogar. Ubicado a solo 100 metros del supermercado y a 400 metros de la playa, tendrás todo lo que necesitas al alcance de tu mano. Este piso es una oportunidad única para vivir cómodamente en una de las zonas más deseadas de Mallorca. ¡No dejes pasar esta ocasión y ven a visitarlo!",
+  "isAttic": false,
+  "meters": 60,
+  "rooms": 1,
+  "price": 1500,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Orientación este",
+    "Amueblado y cocina equipada",
+    "Jardín"
+  ],
+  "bathrooms": 2,
+  "yearBuilt": null,
+  "floor": 0,
+  "hasElevator": false,
+  "energyConsumption": "C",
+  "energyEmission": "C",
+  "exactCoordinates": false,
+  "latitude": 39.9037606,
+  "longitude": 3.0767611
+}

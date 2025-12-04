@@ -1,0 +1,25 @@
+{
+  "url": "https://www.idealista.com/inmueble/109919503/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de estudio en Santa Ponça",
+  "description": "Encantador Estudio con Vistas al Mar en Santa Ponça - Comodidad, Estilo y Ubicación Privilegiada\n\nDescubre este encantador estudio de 33m², ideal para quienes buscan confort y exclusividad en una de las zonas más deseadas del suroeste de Mallorca.\n\nCuenta con una terraza acristalada, perfecta para disfrutar de las impresionantes vistas al mar durante todo el año.\n\nEl estudio ofrece un ambiente moderno y funcional, con una cocina americana totalmente equipada y un espacio abierto que aporta luminosidad y amplitud. Los suelos de mármol añaden un toque de elegancia, y el aire acondicionado garantiza el máximo confort en cualquier estación.\n\nUbicado en un edificio con ascensor y piscina comunitaria, esta propiedad es una excelente opción como vivienda habitual o segunda residencia.\n\nSu ubicación privilegiada en Santa Ponça permite un fácil acceso a la playa, restaurantes, tiendas y todos los servicios necesarios para disfrutar del auténtico estilo de vida mediterráneo.\n\n¡No dejes pasar la oportunidad de vivir en este magnífico estudio con vistas al mar! \n\nref: MPH-V813.",
+  "isAttic": false,
+  "meters": 33,
+  "price": 1300,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Cocina sin equipar y casa sin amueblar",
+    "Aire acondicionado",
+    "Piscina",
+    "Vistas al mar"
+  ],
+  "bathrooms": 1,
+  "floorOrientation": "exterior",
+  "hasElevator": false,
+  "exactCoordinates": false,
+  "latitude": 39.5196952,
+  "longitude": 2.4811407
+}

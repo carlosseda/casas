@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/109816884/",
+  "locationSlug": "la-missio-mercat",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Ct Sintes",
+  "description": "**Piso en Alquiler en el Corazón de Palma**\n\nDescubre este encantador piso en alquiler, ubicado en una de las zonas más deseadas de Palma. Con 101 m² construidos y 60 m² útiles, este alojamiento ofrece un espacio ideal para disfrutar de la vida urbana sin renunciar a la tranquilidad. Consta de dos acogedores dormitorios, uno doble y otro individual, perfecto para descansar después de un día explorando la ciudad.\n\nLa ubicación es inmejorable, a pocos pasos de las Ramblas y la Plaza Mayor, rodeado de restaurantes, tiendas y con fácil acceso a la estación de autobuses. Este piso residencial, construido en 1870, ha sido mantenido en buen estado, ofreciendo un ambiente cálido y acogedor. La calefacción por bomba de frío/calor garantiza confort durante todo el año.\n\nAdemás, cuenta con una terraza y un patio interior que invitan a relajarse y disfrutar del aire libre. Ideal para estancias cortas por trabajo o estudios, este piso amueblado te brinda la oportunidad de no preocuparte de nada más que de hospedarte directamente. No pierdas la oportunidad de vivir en un lugar donde la historia se encuentra con la modernidad. ¡Ven a verlo y enamórate de tu nuevo hogar!",
+  "isAttic": false,
+  "meters": 101,
+  "rooms": 2,
+  "price": 2200,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor"
+  ],
+  "bathrooms": 1,
+  "yearBuilt": null,
+  "floor": 1,
+  "hasElevator": false,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5736431,
+  "longitude": 2.6527429
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.idealista.com/inmueble/109777695/",
+  "locationSlug": "manacor-centro",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Manacor Centro",
+  "description": "Moderno piso de 120 m² en pleno centro de Manacor.\n\nTe presentamos este amplio piso de obra nueva, ubicado en una de las zonas más céntricas de Manacor. Una vivienda diseñada para quienes buscan comodidad, luz natural y espacios amplios.\n\nEl piso cuenta con un salón-comedor muy luminoso, conectado a una cocina office equipada con electrodomésticos, perfecta para disfrutar de momentos en familia o con amigos.\n\nDispone de dos dormitorios dobles con armarios empotrados, incluyendo el principal con baño en suite. Además, dispone de otro baño completo con plato de ducha y una zona de lavandería independiente.\n\nPara mayor comodidad, la vivienda incluye un trastero privado, ideal para mantener todo organizado y aprovechar al máximo el espacio.\n\nEntre sus prestaciones destacan aire acondicionado, carpintería exterior de aluminio con doble acristalamiento, suelos de porcelana y ascensor en el edificio.",
+  "isAttic": false,
+  "meters": 120,
+  "rooms": 2,
+  "price": 1600,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Trastero",
+    "Cocina equipada y casa sin amueblar",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "floorOrientation": "exterior",
+  "hasElevator": true,
+  "energyConsumption": "B",
+  "exactCoordinates": false,
+  "latitude": 39.5703278,
+  "longitude": 3.210771
+}

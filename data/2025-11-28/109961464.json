@@ -1,0 +1,33 @@
+{
+  "url": "https://www.idealista.com/inmueble/109961464/",
+  "locationSlug": "portals-nous",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle Benito Jerónimo Feijóo, 8",
+  "description": "Moderno apartamento de 3 dormitorios en Puerto Portals\nDescubra este precioso apartamento de 3 dormitorios situado a la entrada de Puerto Portals, una de las zonas más cotizadas del suroeste de Mallorca. Con 120 m² de espacio habitable, luminoso y bien distribuido, esta vivienda combina a la perfección comodidad y diseño contemporáneo.\n\nLa propiedad cuenta con 2 baños modernos y se entrega sin amueblar, lo que le da la libertad de personalizarla a su gusto. Ha sido recientemente reformada con acabados de alta calidad y un estilo elegante y moderno.\n\nDisfrute de la comodidad de una plaza de aparcamiento privada incluida en el precio, además de un trastero adicional para mayor espacio. Su excepcional ubicación le sitúa a un corto paseo de la playa, la vibrante oferta gastronómica de Portals Nous y el prestigioso puerto deportivo de Puerto Portals.\n\nIdeal como residencia permanente o como casa de vacaciones de lujo en una de las zonas más exclusivas de Mallorca.",
+  "isAttic": false,
+  "meters": 120,
+  "rooms": 3,
+  "price": 2600,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Orientación sur, oeste",
+    "Cocina equipada y casa sin amueblar",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "yearBuilt": null,
+  "floor": 4,
+  "hasElevator": true,
+  "energyConsumption": "Inmueble exento",
+  "energyEmission": "Inmueble exento",
+  "exactCoordinates": true,
+  "latitude": null,
+  "longitude": null
+}

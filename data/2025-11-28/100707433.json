@@ -1,0 +1,31 @@
+{
+  "url": "https://www.idealista.com/inmueble/100707433/",
+  "locationSlug": "can-picafort",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de finca rústica en son baulo s/n",
+  "description": "Disponible los meses de noviembre 2025 a mayo 2026. No es para largo plazo\n\nCoqueta finca en la zona de Son Baulo, muy cerca del centro. con acceso desde la carretera principal de Can Picafort a Muro. \n\nIdeal para trabajadores de temporada o para pasar los meses de verano. no se aceptan mas de dos personas \n\nEl gasto de consuma de luz no esta incluido en el precio. \n\nSe admiten mascotas de tamaño pequeño, hay gallinas en la parcela.",
+  "isAttic": false,
+  "meters": 30,
+  "rooms": 1,
+  "price": 1000,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Finca rústica",
+    "1 planta",
+    "Terraza",
+    "Chimenea",
+    "Segunda mano/buen estado",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Eléctrica",
+    "Piscina",
+    "Jardín"
+  ],
+  "bathrooms": 1,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "energyConsumption": "A",
+  "energyEmission": "A",
+  "exactCoordinates": true,
+  "latitude": 39.765027,
+  "longitude": 3.1541237
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/101543830/",
+  "locationSlug": "foners",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de ático en Calle Ricard Ankerman, 50",
+  "description": "DISPONIBLE 1 DE FEBRERO 2026\nATICO, NUEVO 3 habitaciones dobles, terraza privada 2 baños, amueblado, cocina amueblada y equipada, muebles estilo nordico, \nnuevo, wifi, smarth tv \ncerca del centro y de playa. ver fotos.",
+  "isAttic": true,
+  "meters": 100,
+  "rooms": 3,
+  "price": 1801,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Eléctrica"
+  ],
+  "bathrooms": 2,
+  "yearBuilt": null,
+  "floor": 2,
+  "hasElevator": true,
+  "energyConsumption": "E",
+  "energyEmission": "E",
+  "exactCoordinates": true,
+  "latitude": 39.5676928,
+  "longitude": 2.6612718
+}

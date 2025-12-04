@@ -1,0 +1,24 @@
+{
+  "url": "https://www.idealista.com/inmueble/109618056/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Santa Ponça",
+  "description": "CONTRATO TEMPORAL DISPONIBLE HASTA FINALES DE ABRIL DE 2026\nEste apartamento de un dormitorio dispone de una habitación doble y un baño, cocina equipada y salón comedor con acceso a la terraza con maravillosas vistas. Dispone de plaza de garaje en parking comunitario.\nTodos los gastos incluidos, con un límite de 4Kw/día.",
+  "isAttic": false,
+  "meters": 51,
+  "rooms": 1,
+  "price": 1100,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Apartamento"
+  ],
+  "bathrooms": 1,
+  "floor": 0,
+  "hasElevator": false,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5136438,
+  "longitude": 2.482988
+}

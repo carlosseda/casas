@@ -1,0 +1,31 @@
+{
+  "url": "https://www.idealista.com/inmueble/109734464/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de casa o chalet en Calle Gran Via Dragonera",
+  "description": "Descubre esta preciosa casa independiente situada en una de las zonas más exclusivas del suroeste de Mallorca, a pocos pasos del Club Náutico de Santa Ponsa. Una ubicación inmejorable que combina tranquilidad, elegancia y la cercanía al mar.\nLa propiedad se asienta sobre una amplia parcela de unos 580 m², rodeada de zonas exteriores ideales para disfrutar del clima mediterráneo: gran piscina privada, zona de barbacoa, espacio de aparcamiento exterior y garaje cerrado.\nEn su interior, la vivienda ofrece 3 amplios dormitorios dobles con armarios empotrados y 3 baños completos, dos de ellos en suite. El salón, luminoso y acogedor, cuenta con chimenea y acceso directo a una terraza cubierta, perfecta para disfrutar de los días de invierno con vistas a la piscina. La cocina, espaciosa y funcional, dispone de zona de comedor ideal para reuniones familiares o con amigos.\nActualmente, la casa se encuentra en proceso de reforma parcial, lo que garantiza un estilo renovado y moderno manteniendo su encanto mediterráneo.\nUna oportunidad única para vivir en un entorno privilegiado, con todo el confort y la privacidad que mereces.\nPara mas info no dude en contactar con nosotros.",
+  "isAttic": false,
+  "meters": 175,
+  "rooms": 3,
+  "price": 2500,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Casa o chalet",
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Cocina equipada y casa sin amueblar",
+    "No dispone de calefacción",
+    "Aire acondicionado",
+    "Piscina"
+  ],
+  "bathrooms": 3,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "yearBuilt": null,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5045079,
+  "longitude": 2.4675097
+}

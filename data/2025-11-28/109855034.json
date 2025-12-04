@@ -1,0 +1,26 @@
+{
+  "url": "https://www.idealista.com/inmueble/109855034/",
+  "locationSlug": "la-missio-mercat",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Plaza del Comtat del Rosselló",
+  "description": "ENCANTADOR PISO EN ALQUILER, REFORMADO Y AMUEBLADO FRENTE AL MERCADO DEL OLIVAR EN PALMA\nVive el encanto del Casco Antiguo de Palma en este elegante piso amueblado de 80 m², situado frente al Mercado del Olivar y en la Plaça del Comtat del Rosselló.\nUbicado en 2ª planta en edificio con ascensor, ha sido recientemente renovado con materiales de alta calidad, combinando el carácter histórico con el confort moderno.\nDispone de 3 dormitorios, 2 dobles y 1 individual actualmente amueblado como despacho, 2 baños completos, cocina abierta y equipada, y climatización Inverter en todas las estancias. Las ventanas de doble acristalamiento aportan luz y tranquilidad.\nA pocos pasos de los principales rincones del centro, tiendas, restaurantes y cafés con encanto.\nAlquiler exclusivo para empresas o ejecutivos que destinen a la isla, &nbsp; \nContrato de Larga duración&nbsp;.",
+  "isAttic": false,
+  "meters": 80,
+  "rooms": 3,
+  "price": 2300,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "floor": 2,
+  "hasElevator": true,
+  "energyConsumption": "A",
+  "energyEmission": "A",
+  "exactCoordinates": false,
+  "latitude": 39.5747762,
+  "longitude": 2.6554167
+}

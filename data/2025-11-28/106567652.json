@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/106567652/",
+  "locationSlug": "sa-rapita-balears-illes",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de casa o chalet independiente en Calle Garbello",
+  "description": "A PARTIR DE FEBRERO!\n\nMaravillosa casa individual situada en una calle tranquila de Sa rapita, esta casa de 160 m² ofrece confort y funcionalidad. Totalmente amueblada y equipada, se distribuye en tres dormitorios con armarios empotrados y tres baños, uno de ellos en suite.\n\nLa vivienda cuenta con una agradable terraza con jardín y piscina privada, ideal para disfrutar del buen clima y momentos de relax al aire libre. Además, dispone de aire acondicionado frío-calor y calefacción de gas, garantizando confort durante todo el año.\n\nUna oportunidad perfecta para quienes buscan tranquilidad, comodidad y calidad de vida en una de las zonas más agradables de Sa rapita.",
+  "isAttic": false,
+  "meters": 160,
+  "rooms": 3,
+  "price": 2200,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Casa o chalet independiente",
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación norte, sur",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Gas propano/butano",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín"
+  ],
+  "bathrooms": 3,
+  "energyConsumption": "G",
+  "energyEmission": "F",
+  "exactCoordinates": false,
+  "latitude": null,
+  "longitude": null
+}

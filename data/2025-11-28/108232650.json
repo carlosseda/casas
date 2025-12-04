@@ -1,0 +1,31 @@
+{
+  "url": "https://www.idealista.com/inmueble/108232650/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Calle de Ramon de Montcada",
+  "description": "**Piso en Alquiler con Vistas al Mar en la Costa** \n\n¡Descubre tu nuevo hogar en este luminoso piso de 91 m², disponible a partir de septiembre (maximo 11 meses)\nSituado a solo un minuto del mar, este encantador apartamento ofrece impresionantes vistas al océano que te dejarán sin aliento. Su diseño moderno y refinado, junto con sus dos acogedoras habitaciones (una de ellas con suite), lo convierten en el lugar perfecto para relajarte y disfrutar de la vida costera. Además, cuenta con un estudio ideal para trabajar desde casa. \n\nLa cocina está totalmente equipada con electrodomésticos de alta calidad, incluyendo lavadora, microondas, lavavajillas, horno y nevera integrada. También se incluyen utensilios adicionales como secador, cafetera y plancha, para mayor comodidad. Con dos baños y armarios empotrados que optimizan el espacio, este piso es perfecto para quienes buscan funcionalidad y estilo. \n\nDisponible a partir de septiembre para 10/11 meses. Este precio incluye servicios como TV smart, Wifi, agua y gastos de comunidad. La ubicación es inmejorable, con una amplia oferta de restaurantes, bares, tiendas y supermercados en la zona. Además, tendrás acceso a un beach club y paradas de taxi y bus a poca distancia. \n\nNo pierdas la oportunidad de vivir a solo 30 minutos de Palma en un entorno que combina confort y belleza natural. ¡Contáctanos para más información y ven a visitar tu futuro hogar!\nPatricia.",
+  "isAttic": false,
+  "meters": 91,
+  "rooms": 2,
+  "price": 2200,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 4,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5212488,
+  "longitude": 2.4750162
+}

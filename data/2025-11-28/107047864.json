@@ -1,0 +1,31 @@
+{
+  "url": "https://www.idealista.com/inmueble/107047864/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de ático en Santa Ponça",
+  "description": "Located in the prestigious El Mirador development in El Port Adriano Bay, this stunning top-floor apartment offers a rare opportunity to live in one of the most sought-after areas of Mallorca. With breathtaking sea views and spacious living areas, this property is perfect for those looking to embrace Mediterranean living at its finest.\n\nThe apartment features:\n\n3 spacious bedrooms and 3 modern bathrooms, providing ample space and privacy for residents.\nA generous terrace that extends the living space outdoors, ideal for dining, lounging, and enjoying the spectacular views of the bay.\nUnfurnished – allowing you to personalize the space and make it your own.\nLocated on the top floor, offering maximum privacy and unparalleled panoramic views of the Mediterranean Sea.\nThe property is just a short walk from the vibrant Port Adriano, known for its upscale marina, restaurants, and boutiques. Whether you're looking for a peaceful retreat or a stylish base to enjoy the island, this apartment offers the perfect combination of luxury, comfort, and location.",
+  "isAttic": true,
+  "meters": 130,
+  "rooms": 3,
+  "price": 5000,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Cocina equipada y casa sin amueblar",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín",
+    "Lujo"
+  ],
+  "bathrooms": 3,
+  "floor": 10,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.4961047,
+  "longitude": 2.4738718
+}

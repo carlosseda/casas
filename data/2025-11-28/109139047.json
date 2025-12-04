@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/109139047/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Calle de Ramon de Montcada, 18",
+  "description": "Disponible Octubre y a partir de Enero\nAlquiler de corta duración (min un mes)\n\nApartamento recién reformado en primera línea en Santa Ponsa con impresionantes vistas al mar.\nUn dormitorio con balcón, acceso directo a la playa, internet de fibra óptica rápido y fiable, todos los electrodomésticos nuevos (horno, microondas, lavavajillas, lavadora, etc. ) y televisor Samsung Smart TV de 55”.\n\nDispone de cama de matrimonio grande y sofá cama.\nComunidad tranquila, cerca de restaurantes, farmacia, bares, etc.\nGastos incluídos.\n\nPara más información, enviar mensaje privado.\n¡Gracias!",
+  "isAttic": false,
+  "meters": 55,
+  "rooms": 1,
+  "price": 1800,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Vistas al mar",
+    "Apartamento"
+  ],
+  "bathrooms": 1,
+  "floor": 4,
+  "hasElevator": true,
+  "exactCoordinates": true,
+  "latitude": 39.5191006,
+  "longitude": 2.477223
+}

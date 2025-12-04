@@ -1,0 +1,32 @@
+{
+  "url": "https://www.idealista.com/inmueble/107814934/",
+  "locationSlug": "port-d-alcudia-platja-d-alcudia",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Port d'Alcúdia - Platja d'Alcúdia",
+  "description": "Este apartamento está en un complejo residencial con acceso directo a la playa. Con sistema de alarma, está totalmente equipado. Es ideal para las vacaciones de familias, personas mayores, deportistas o personas que teletrabajen. \nEl apartamento consta de un amplio salón comedor cocina integrados, con una terraza y un jardín privado que da acceso a un gran jardín comunitario y a la playa directamente. El apartamento tiene aire acondicionado y ventiladores de techo.\nSituado en primera línea de playa en Puerto de Alcudia, cerca de todos los servicios esenciales, como restaurantes, tiendas y transporte público.\n\nCondiciones de alquiler:\n- Solo alquiler de temporada.\n- Contrato máximo 4 meses.\n- No está disponible de 15 de junio a 25 septiembre 2025. \n- El precio varia según el mes.\n- No se aceptan mascotas.",
+  "isAttic": false,
+  "meters": 70,
+  "rooms": 2,
+  "price": 2500,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación norte, sur, este",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado",
+    "Jardín"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 0,
+  "hasElevator": false,
+  "energyConsumption": "F",
+  "energyEmission": "F",
+  "exactCoordinates": false,
+  "latitude": 39.8401464,
+  "longitude": 3.1273814
+}

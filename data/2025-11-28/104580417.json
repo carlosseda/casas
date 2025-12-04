@@ -1,0 +1,26 @@
+{
+  "url": "https://www.idealista.com/inmueble/104580417/",
+  "locationSlug": "port-de-pollenca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle del Far",
+  "description": "ALQUILER TEMPORAL PUERTO POLLENÇA\n\nOCTUBRE ALQUILADO\n\nBienvenido al hogar de tus sueños. Este impresionante piso ofrece una experiencia de vida única con su luminosidad inigualable y vistas espectaculares.\nDisfruta de la amplitud y elegancia en el salón, adornado con techos altos que añaden un toque de grandeza a cada momento. Con dos habitaciones dobles, incluyendo una baño en con suite, este espacio es perfecto para el confort y la comodidad. No dejes pasar esta oportunidad de vivir en un lugar donde cada día se siente como un escape al paraíso.\n\nAgencia inmobiliaria inscrita en el Registro Oficial de Agentes Inmobiliarios de las Illes Balears ROAIIB con el número GOIBE740280/2024.",
+  "isAttic": false,
+  "meters": 167,
+  "rooms": 2,
+  "price": 1500,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "No dispone de calefacción",
+    "Jardín"
+  ],
+  "bathrooms": 2,
+  "floor": 1,
+  "hasElevator": false,
+  "exactCoordinates": false,
+  "latitude": null,
+  "longitude": null
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/108771037/",
+  "locationSlug": "llucmajor-interior",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de casa rural en Calle de Galdent, 234",
+  "description": "Alquiler de larga temporada solamente, tu lugar bajo el sol. Casita, pequeña casa en los terrenos de una casa de campo.\n\nHabitación principal tipo estudio, techos altos completamente amueblada, unidad de aire acondicionado, estufa de leña, WiFi Starlink disponible.\n\nBaño y cocina separados completamente equipados.\n\nAmplia terraza exterior, cama solar doble, zona de comedor cubierta.\n\nUso de una pequeña piscina.\n\nUso del gimnasio.\n\nAparcamiento fuera de la calle.\n\nUbicado a 3 km del pueblo principal de Llucmajor.",
+  "isAttic": false,
+  "meters": 40,
+  "rooms": 1,
+  "price": 900,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Casa rural",
+    "Terraza",
+    "Chimenea",
+    "Segunda mano/buen estado",
+    "Cocina equipada y casa sin amueblar",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín"
+  ],
+  "bathrooms": 1,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "exactCoordinates": true,
+  "latitude": 39.4902321,
+  "longitude": 2.8878209
+}

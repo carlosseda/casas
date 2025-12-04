@@ -1,0 +1,32 @@
+{
+  "url": "https://www.idealista.com/inmueble/107866224/",
+  "locationSlug": "el-terreno",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Avenida de Gabriel Roca",
+  "description": "ALQUILER EN EL PASEO MARITIMO\n\nENHABITAT propiedades ofrece magnifico piso de alquiler en primera linea del Paseo Maritimo de Palma\nEdificio del año 1974, con ascensor y rampa para personas con movilidad reducida.\nEl piso se encuentra en la octava planta, con muy buenas vistas laterales al puerto de Palma.\nLa vivienda se distribuye en 3 dormitorios dobles con armarios empotrados, 2 baños de los cuales uno de ellos es en suite, cocina totalmente equipada y coladuría independiente.\nSalón amplio y luminoso con salida a la terraza.\nEl edificio dispone de plazas de parking.\nEl precio del alquiler incluye los gastos de electricidad, agua, comunidad y basuras\nSe requiere estabilidad laboral demostrable y dos meses de fianza.\nNo se aceptan mascotas \nPide tu cita y ven a ver tu nuevo hogar!",
+  "isAttic": false,
+  "meters": 125,
+  "rooms": 3,
+  "price": 2500,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur, este",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "yearBuilt": null,
+  "floor": 8,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5605921,
+  "longitude": 2.6266424
+}

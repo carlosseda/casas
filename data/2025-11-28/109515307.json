@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/109515307/",
+  "locationSlug": "manacor-centro",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle de son Peretó",
+  "description": "**Piso en Alquiler: Espacio y Comodidad en el Corazón de la Ciudad**\n\nDescubre este espectacular piso de 3 habitaciones, ideal para disfrutar de la vida urbana sin sacrificar la comodidad. Con un salón amplio y luminoso gracias a su gran ventanal, este hogar invita a relajarse y compartir momentos inolvidables. Dos de las habitaciones cuentan con ventanas al exterior, mientras que la tercera tiene acceso a un encantador balcón, perfecto para disfrutar del aire fresco.\n\nLa cocina, completamente amueblada, se complementa con una práctica lavandería anexa, facilitando las tareas del día a día. Además, el piso cuenta con una terraza privada de aproximadamente 20 m², un espacio ideal para tus reuniones al aire libre o simplemente para disfrutar del sol. Con dos baños, uno de ellos en suite en la habitación principal, la funcionalidad está garantizada.\n\nUbicado en una finca seminueva, este piso ofrece excelentes calidades, como cristales climalit que aseguran un buen aislamiento y carpintería interior de madera de Teka que añade un toque de elegancia. El portero automático y el ascensor disponible brindan mayor comodidad. Y si necesitas parking, hay opción por solo 80€ adicionales.\n\nNo dejes pasar la oportunidad de vivir en un hogar que combina luz natural, confort y todas las comodidades que buscas. ¡Ven a verlo y enamórate de tu nuevo hogar!",
+  "isAttic": false,
+  "meters": 100,
+  "rooms": 3,
+  "price": 1300,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Calefacción central: Gas"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 80,
+  "floor": 2,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5638584,
+  "longitude": 3.2156017
+}

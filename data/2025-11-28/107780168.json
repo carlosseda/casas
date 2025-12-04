@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/107780168/",
+  "locationSlug": "port-de-pollenca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de dúplex en Calle virgen del carmen, 27",
+  "description": "Precioso apartamento duplex situado en primera linea de Puerto Pollensa con vistas al Puerto. El apartamento consta de dos dormitorios dobles, un baño completo, un aseo, cocina totalmente equipada, amplio salon, comedor para 4 comensales y terraza.",
+  "isAttic": false,
+  "meters": 100,
+  "rooms": 2,
+  "price": 2500,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 2,
+  "floor": 1,
+  "hasElevator": true,
+  "exactCoordinates": true,
+  "latitude": 39.9074062,
+  "longitude": 3.0824071
+}

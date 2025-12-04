@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/109409878/",
+  "locationSlug": "la-missio-mercat",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en La Missio - Mercat",
+  "description": "Segundo piso recién renovado, listo para entrar a vivir (59 m²).\n\nEste acogedor apartamento perfecto para quienes buscan comodidad y estilo en una excelente ubicación. Este piso cuenta con un balcón exterior, ideal para disfrutar del aire fresco.\n\nCon una distribución moderna y funcional, el apartamento dispone de un amplio cocina-salón-comedor, una habitación luminosa, un baño completo y un lavadero independiente. Los grandes ventanales permiten que la luz natural inunde cada espacio, creando un ambiente cálido y acogedor durante todo el día. Además, los acabados en madera blanca aportan un toque de frescura y elegancia a todas las estancias.\n\nSi buscas un hogar lleno de luz, con el encanto de un balcón y acabados modernos, ven a visitarlo. ¡No te lo pierdas, te encantará!",
+  "isAttic": false,
+  "meters": 59,
+  "rooms": 1,
+  "price": 1200,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Cocina equipada y casa sin amueblar",
+    "Aire acondicionado",
+    "Apartamento"
+  ],
+  "bathrooms": 1,
+  "floor": 2,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5750176,
+  "longitude": 2.6491654
+}

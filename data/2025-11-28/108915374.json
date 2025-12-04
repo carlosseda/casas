@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/108915374/",
+  "locationSlug": "la-missio-mercat",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de ático en Avenida de Alemania, 7",
+  "description": "Descubre este espectacular ático de nueva construcción, ubicado en pleno centro de Palma. Una vivienda exclusiva, ideal para una pareja o una pequeña familia que quiera disfrutar de todas las ventajas de vivir en el corazón de la ciudad: servicios, cultura, gastronomía y transporte a un paso de casa.\n\nEste luminoso piso se alquila para larga estancia y también es apto para empresas.\nDistribución:\n•Espacioso salón con cocina integrada de alta gama\n•3 habitaciones con abundante luz natural\n•2 baños modernos y funcionales\n\nCaracterísticas adicionales:\n•Plaza de parking incluida en el precio\n•Se entrega sin amueblar\n•Edificio y vivienda a estrenar\n\nNo dejes pasar esta magnífica oportunidad de estrenar hogar en una de las zonas más cotizadas de Palma. ¡Contáctanos para más información o concertar una visita!",
+  "isAttic": true,
+  "meters": 93,
+  "rooms": 3,
+  "price": 2500,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur, oeste",
+    "Cocina equipada y casa sin amueblar",
+    "Calefacción individual: Gas natural",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "yearBuilt": null,
+  "floor": 7,
+  "hasElevator": true,
+  "exactCoordinates": true,
+  "latitude": 39.5772994,
+  "longitude": 2.6480192
+}

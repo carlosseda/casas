@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/109832686/",
+  "locationSlug": "la-missio-mercat",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en La Missio - Mercat",
+  "description": "Vivienda de obra nueva con acabados de primeras calidades y diseñada para ofrecer confort y elegancia.\n\nEl piso cuenta con:\n\n- Tres habitaciones: dos dobles y una individual, perfectas para familia o profesionales.\n- Dos baños completos con acabados modernos.\n- Cocina totalmente equipada con electrodomésticos de alta gama.\n- Gran salón-comedor con grandes ventanales que llenan el espacio de luz natural.\n- Amplia terraza, ideal para disfrutar del aire libre.\n- Suelo radiante.\n\nExtras y comodidades:\n\n- Suelo de parquet y aire acondicionado centralizado.\n- Plaza de garaje incluida en el mismo edificio.\n\nNo se aceptan mascotas. Disponible para entrar a partir del 15 de diciembre.\n\nSituado en una zona privilegiada de Palma, cerca de todos los servicios, comercios, restaurantes y transporte público. Perfecto para quienes buscan confort, estilo y ubicación inmejorable en el corazón de la ciudad.",
+  "isAttic": false,
+  "meters": 114,
+  "rooms": 3,
+  "price": 3000,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Cocina sin equipar y casa sin amueblar",
+    "No dispone de calefacción",
+    "Lujo"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "yearBuilt": null,
+  "floor": 1,
+  "hasElevator": false,
+  "exactCoordinates": false,
+  "latitude": 39.5769712,
+  "longitude": 2.646547
+}

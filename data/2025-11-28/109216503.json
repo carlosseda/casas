@@ -1,0 +1,32 @@
+{
+  "url": "https://www.idealista.com/inmueble/109216503/",
+  "locationSlug": "port-d-andratx",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Port d'Andratx",
+  "description": "Un apartamento moderno en Puerto de Andratx\nEste apartamento renovado de alta calidad se encuentra en una de las ubicaciones más codiciadas de Mallorca, en la exclusiva zona residencial de Cala Llamp en Puerto de Andratx, y está disponible para ocupar de inmediato.\n\nEl apartamento destaca por su equipamiento moderno y un diseño de espacios abiertos y llenos de luz. Cuenta con tres dormitorios, dos baños elegantemente diseñados y una cocina abierta y moderna que se integra perfectamente en el amplio salón. Desde aquí, se accede directamente a la soleada terraza, ideal para disfrutar del día al aire libre de manera relajada.\n\nEntre otras características, se incluyen una piscina comunitaria bien cuidada, calefacción por suelo radiante, un espacio de estacionamiento y semi amueblado.\nPort Andratx es una de las más exclusivas zonas inmobiliarias del Mediterráneo y una ubicación privilegiada para quienes buscan un estilo de vida distinguido en un impresionante entorno natural. Situado a unos 25 minutos en coche de Palma, en la costa suroeste de Mallorca, Port Andratx ofrece espectaculares vistas al mar y a las montañas de la Sierra de Tramuntana. El pintoresco paisaje crea un entorno tranquilo e idílico con bonitas playas de arena muy cerca. El puerto está formado por un tradicional puerto pesquero y un muelle deportivo, y además de formar un pintoresco telón de fondo, es el lugar ideal para practicar deportes acuáticos y para propietarios de embarcaciones. El paseo marítimo es conocido por su variada oferta de restaurantes, que ofrecen desde cocina tradicional española hasta sabores internacionales, y por una amplia selección de exclusivas boutiques y galerías de arte. Los amantes del golf pueden disfrutar del prestigioso campo Golf De Andratx, situado a pocos minutos. La prestigiosa zona es sinónimo del estilo de vida más exclusivo con propiedades de alta gama y exclusivas y modernas residencias con todas las comodidades e impresionantes diseños arquitectónicos. Port Andratx cuenta con excelentes infraestructuras y fácil acceso a servicios sanitarios, educativos y otros servicios esenciales. La exclusividad de la ubicación proporciona privacidad y seguridad y atrae a una clientela internacional que busca un entorno de vida tranquilo y seguro.",
+  "isAttic": false,
+  "meters": 130,
+  "rooms": 3,
+  "price": 3100,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Trastero",
+    "Cocina equipada y casa sin amueblar",
+    "Calefacción individual: Eléctrica",
+    "Aire acondicionado",
+    "Piscina",
+    "Lujo"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 2,
+  "hasElevator": false,
+  "energyConsumption": "E",
+  "energyEmission": "E",
+  "exactCoordinates": false,
+  "latitude": 39.534714,
+  "longitude": 2.3927239
+}

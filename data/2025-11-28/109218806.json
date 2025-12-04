@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/109218806/",
+  "locationSlug": "el-terreno",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Avenida de Gabriel Roca",
+  "description": "ALQUILER PISO EN PRIMERA LINEA DE MAR PASEO MARITIMO. Situado en la quinta planta, ofrece una experiencia única de confort y ubicación privilegiada en una de las zonas más demandadas de la ciudad.\nDISPONIBLE A PARTIR DE FINALES DE NOVIEMBRE&nbsp;\n\nLa vivienda cuenta con 3 amplias habitaciones, 2 baños completos y una luminosa sala de estar con acceso directo a una terraza privada. Desde la terraza se disfrutan vistas panorámicas al Paseo Marítimo, ideales para relajarse o compartir momentos con familiares, compañeros de trabajo o amigos.\n\nEl piso está perfectamente comunicado gracias a la parada de bus de la línea 1 situada justo en la puerta, lo que facilita los desplazamientos tanto al centro histórico de Palma como al aeropuerto o al puerto.\n\nSe trata de una opción perfecta para empresas que necesiten alojamiento temporal para trabajadores desplazados o directivos, ya que combina comodidad, funcionalidad y una ubicación estratégica en Palma. Disponible a partir del 1 de diciembre, se ofrece en régimen de alquiler temporal.\n\nEn resumen, esta propiedad reúne todos los requisitos para quienes buscan un hogar moderno, práctico y con encanto en una de las mejores zonas de Mallorca.",
+  "isAttic": false,
+  "meters": 139,
+  "rooms": 3,
+  "price": 2500,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Aire acondicionado",
+    "Piscina"
+  ],
+  "bathrooms": 2,
+  "floorOrientation": "exterior",
+  "hasElevator": true,
+  "energyConsumption": "B",
+  "energyEmission": "B",
+  "exactCoordinates": false,
+  "latitude": 39.5583777,
+  "longitude": 2.6270265
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.idealista.com/inmueble/90996148/",
+  "locationSlug": "manacor-centro",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de finca rústica en Manacor Centro",
+  "description": "Esta encantadora finca forma parte de una gran propiedad del siglo XVIII, ubicada a las afueras de Manacor, en el este de Mallorca, a solo 45 minutos de la ciudad de Palma y del aeropuerto internacional.\n\nLa finca de 2 plantas tiene una superficie construida de 157 m² y dispone de un salón-comedor, una cocina con lavadero y un aseo en la planta baja. En la planta superior hay 2 generosos dormitorios, cada uno con baño en suite. Se alquila amueblada. La propiedad cuenta con aire acondicionado frío/calor, calefacción central, persianas y ventanas de doble acristalamiento.\n\nEl área comunitaria consta de un área de juegos para niños, 2 piscinas, una de ellas para niños, un área de césped y un amplio aparcamiento. Por favor, póngase en contacto con uno de nuestros agentes inmobiliarios de FIRST MALLORCA para obtener más información sobre esta encantadora propiedad de campo. Período mínimo de alquiler de 6 meses.",
+  "isAttic": false,
+  "meters": 157,
+  "rooms": 2,
+  "price": 1800,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Finca rústica",
+    "Segunda mano/buen estado",
+    "Trastero",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "yearBuilt": null,
+  "exactCoordinates": false,
+  "latitude": 39.5561654,
+  "longitude": 3.2692939
+}

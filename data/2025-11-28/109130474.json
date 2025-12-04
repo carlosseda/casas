@@ -1,0 +1,26 @@
+{
+  "url": "https://www.idealista.com/inmueble/109130474/",
+  "locationSlug": "manacor-centro",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de chalet pareado en Manacor Centro",
+  "description": "Casa en planta baja con garaje – Centro de Manacor\n\nAcogedora vivienda en planta baja de 100 m², ubicada en el corazón de Manacor, que destaca por su amplitud y funcionalidad.\n\nDistribución:\n– Salón-comedor con cocina integrada, amplio y luminoso\n– 2 dormitorios\n– 2 baños completos\n– Garaje privado\n– Patio interior\n– Aire acondicionado en el salón\n\nGastos de agua, electricidad y basura aparte.\n\nUna excelente opción para quienes buscan vivir en el centro, con la comodidad de una planta baja y garaje propio.",
+  "isAttic": false,
+  "meters": 100,
+  "rooms": 2,
+  "price": 1400,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Chalet pareado",
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5712063,
+  "longitude": 3.212616
+}

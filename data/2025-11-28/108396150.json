@@ -1,0 +1,32 @@
+{
+  "url": "https://www.idealista.com/inmueble/108396150/",
+  "locationSlug": "el-terreno",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Avenida de Gabriel Roca, 37",
+  "description": "Este espacioso apartamento se encuentra en la séptima planta de un edificio bien cuidado, justo en el popular Paseo Marítimo de la ciudad de Palma. El pequeño puerto de Can Bárbara está a solo unos metros.\nLos aproximadamente 200 m² de superficie habitable se distribuyen en recibidor, un amplio salón-comedor, cocina, cinco dormitorios, tres baños (uno en suite) y una coladuría. Cuenta además con piscina comunitaria.\nDesde el salón se accede a una terraza que da a la calle lateral y desde la que se puede ver el Paseo Marítimo.\nEl apartamento cuenta con suelos de parquet, aire acondicionado frío/calor y armarios empotrados.\nEl alquiler incluye una plaza de aparcamiento.\nDisponible desde 1 de diciembre de 2025 hasta el 30 junio de 2026.\nLos honorarios de gestión e intermediación inmobiliaria corren a cargo del inquilino y equivalen a una mensualidad de renta + IVA (tax).",
+  "isAttic": false,
+  "meters": 220,
+  "rooms": 5,
+  "price": 2300,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Eléctrica",
+    "Aire acondicionado",
+    "Piscina"
+  ],
+  "bathrooms": 3,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 7,
+  "hasElevator": true,
+  "energyConsumption": "B",
+  "energyEmission": "B",
+  "exactCoordinates": true,
+  "latitude": 39.5602483,
+  "longitude": 2.6260301
+}

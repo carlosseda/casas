@@ -1,0 +1,25 @@
+{
+  "url": "https://www.idealista.com/inmueble/108982447/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Santa Ponça",
+  "description": "Este acogedor apartamento de 64 m² se encuentra en una cuidada comunidad residencial en Santa Ponsa, a pocos pasos de la playa. Disfruta de impresionantes vistas al mar y a la playa de Paguera desde su orientación noreste, que le proporciona una excelente iluminación natural durante gran parte del día.\n\nTotalmente amueblado y listo para entrar a vivir, el apartamento combina comodidad y funcionalidad en un entorno tranquilo y bien conectado. La comunidad está situada cerca de todos los accesos a la ciudad y rodeada de servicios esenciales, tiendas, restaurantes y opciones de ocio, lo que lo convierte en una opción ideal para largos periodos vacasionales.",
+  "isAttic": false,
+  "meters": 64,
+  "rooms": 2,
+  "price": 1600,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Trastero",
+    "Vistas al mar"
+  ],
+  "bathrooms": 1,
+  "yearBuilt": null,
+  "floor": 1,
+  "hasElevator": true,
+  "exactCoordinates": false,
+  "latitude": 39.5205834,
+  "longitude": 2.4786957
+}

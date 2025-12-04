@@ -1,0 +1,32 @@
+{
+  "url": "https://www.idealista.com/inmueble/109946869/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Santa Ponça",
+  "description": "Disponible a partir del 1 de diciembre\nVive frente al mar en este impresionante apartamento en primera línea en Santa Ponsa. Con 1 dormitorio, 1 baño y vistas infinitas al Mediterráneo, cada día aquí se siente como estar de vacaciones.\nLa vivienda cuenta con una amplia y luminosa sala de estar de concepto abierto, cocina equipada y una terraza privada ideal para disfrutar del amanecer. Además, dispone de aire acondicionado frío/calor, piscina comunitaria y aparcamiento.\nLa ubicación es inmejorable: a pocos pasos de tiendas, restaurantes y todos los servicios, en una de las zonas más exclusivas de la isla.\nIdeal para quienes buscan una vida frente al mar.\nRequisitos:\n2 meses de depósito\n1 mes de renta por adelantado\nSolvencia demostrable.",
+  "isAttic": false,
+  "meters": 50,
+  "rooms": 1,
+  "price": 1500,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado",
+    "Piscina",
+    "Vistas al mar",
+    "Apartamento"
+  ],
+  "bathrooms": 1,
+  "floor": 6,
+  "hasElevator": true,
+  "energyConsumption": "G",
+  "energyEmission": "G",
+  "exactCoordinates": false,
+  "latitude": 39.5198152,
+  "longitude": 2.4731262
+}

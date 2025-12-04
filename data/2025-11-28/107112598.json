@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/107112598/",
+  "locationSlug": "portals-nous",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de estudio en Calle Miguel de Cervantes",
+  "description": "TEMPORADA A PARTIR DE DICIEMBRE! MIN 6 MESES!\n\n¡Descubre tu oasis en el corazón de Mallorca! Este estudio en venta, situado en la exclusiva zona cercana al puerto de Portals, te ofrece una experiencia de vida incomparable. Con 39 m² de espacio cuidadosamente reformado, disfrutarás de vistas al mar desde la quinta planta que te dejarán sin aliento. La habitación principal es un espacio versátil que combina comodidad y funcionalidad, con un sofá, cama, armario grande y acceso directo a un balcón privado.\n\nEl baño moderno está equipado con una ducha elegante y dispone de una cocina equipada. \n\nLa propiedad cuenta con calefacción y aire acondicionado mediante bomba de frío/calor, asegurando confort durante todo el año. Además, podrás relajarte en la piscina comunitaria o disfrutar de la terraza exterior. El edificio dispone de ascensor, facilitando el acceso a este encantador hogar. ¡No pierdas la oportunidad de vivir en este rincón paradisíaco!\n\nEl alquiler es de 1500€ + los suministros.\n\n2 MESES DE FIANZA.",
+  "isAttic": false,
+  "meters": 39,
+  "price": 1500,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado",
+    "Piscina",
+    "Vistas al mar"
+  ],
+  "bathrooms": 1,
+  "floor": 5,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": null,
+  "longitude": null
+}

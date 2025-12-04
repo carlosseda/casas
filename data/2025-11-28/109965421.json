@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/109965421/",
+  "locationSlug": "camp-d-en-serralta",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle Femenias, 8",
+  "description": "PISO PARA ALQUILER TEMPORAL. Precioso apartamento renovado totalmente. Ideal para parejas o personas solas. La ubicación es excelente, a un paso del mercado de Santa Catalina y de Jaime III.\nEl piso consta de una habitación, actualmente abierta a la sala sin separación, sala con cocina totalmente amueblada, baño, coladuría equipada y trastero. También tiene una pequeña estancia que se puede destinar a zona de trabajo.\n2 aires acondicionados, paredes y techo aislados térmica y acústicamente. \nSe destina únicamente a alquiler de temporada, por meses o temporada.\nEl consumo de agua y electricidad está incluido siempre que sea un consumo moderado-\nwifi incluido,\nMenaje de cocina, lavadora secadora, ropa de cama y toallas.",
+  "isAttic": false,
+  "meters": 53,
+  "rooms": 1,
+  "price": 1600,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Orientación oeste",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Apartamento"
+  ],
+  "bathrooms": 1,
+  "floor": 0,
+  "hasElevator": false,
+  "energyConsumption": "F",
+  "energyEmission": "E",
+  "exactCoordinates": true,
+  "latitude": 39.5770337,
+  "longitude": 2.6402163
+}

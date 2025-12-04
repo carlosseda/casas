@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/87254154/",
+  "locationSlug": "port-d-alcudia-platja-d-alcudia",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Avenida Tucà, 33",
+  "description": "DISPONIBLE DESDE EL 1 DE NOVIEMBRE. Con orientación sureste.\nEntrada principal al salón comedor con cocina americana. Electrodomésticos como nuevos, nevera, lavadora/ secadora, cocina de inducción, horno, microondas, campana extractora, aire acondicionado frío/ calor, tv. Estufa Catalítica y radiador. Un Armario.\nSalón con sofá cama tipo chaise longue y amplia mesa de comedor o despacho.\nPared con cristalera que da acceso a la terraza donde cabe mesa pequeña y dos sillas y tendedero para ropa.\nHabitación con baño. Dos camas nuevas de 90cm. Cómoda con cajones y armario. TV.\nSegunda planta. Ambiente silencioso.",
+  "isAttic": false,
+  "meters": 45,
+  "rooms": 1,
+  "price": 1250,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Orientación sur, este",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 1,
+  "floor": 2,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": true,
+  "latitude": 39.8381306,
+  "longitude": 3.110329
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.idealista.com/inmueble/109284341/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Santa Ponça",
+  "description": "",
+  "isAttic": false,
+  "meters": 350,
+  "rooms": 3,
+  "price": 3800,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Amueblado y cocina equipada",
+    "Lujo"
+  ],
+  "bathrooms": 3,
+  "floor": 0,
+  "hasElevator": true,
+  "energyConsumption": "B",
+  "energyEmission": "B",
+  "exactCoordinates": false,
+  "latitude": 39.496065,
+  "longitude": 2.4725895
+}

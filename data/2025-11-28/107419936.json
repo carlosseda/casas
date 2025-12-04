@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/107419936/",
+  "locationSlug": "can-picafort",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Can Picafort",
+  "description": "DISPONIBLE HASTA FINAL DE ABRIL DE 2026!\nTe presentamos este magnífico apartamento de 104 m², completamente reformado en 2024, situado en primera línea de playa, en una de las mejores zonas costeras de la isla. Con un diseño moderno, materiales de alta calidad y una distribución funcional, este hogar es ideal para quienes buscan comodidad y exclusividad frente al mar.\nAl ingresar, te recibe un espacio luminoso con suelos de porcelánico elegante, cerramientos de aluminio con cristales dobles, garantizando un excelente aislamiento térmico y acústico. Su orientación este permite disfrutar de amaneceres impresionantes desde la comodidad del salón o la terraza.\nEl apartamento cuenta con tres habitaciones, todas climatizadas y equipadas con armarios empotrados y maderas lacadas en blanco. La habitación principal dispone de una amplia cama de 1,80 x 1,90 m, mientras que las otras dos habitaciones están diseñadas con camas nido (1,90 x 0,80 m) para mayor versatilidad y confort.\nEl inmueble se distribuye en un baño completo y un aseo, ambos con acabados modernos y funcionales. La cocina, completamente nueva y amueblada, está lista para ser disfrutada.\nUbicado en un primer piso de finca sin ascensor, este apartamento incluye además una plaza de parking, un valor añadido en una zona tan privilegiada.\nSi sueñas con despertar cada día con el sonido de las olas y disfrutar de un entorno paradisíaco, este es el hogar perfecto para ti. ¡No dejes pasar esta oportunidad!\n Contáctanos para más información o una visita!",
+  "isAttic": false,
+  "meters": 104,
+  "rooms": 3,
+  "price": 1700,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación este",
+    "Amueblado y cocina equipada",
+    "Calefacción individual",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "yearBuilt": null,
+  "floor": 1,
+  "hasElevator": false,
+  "exactCoordinates": false,
+  "latitude": 39.7716624,
+  "longitude": 3.1504775
+}

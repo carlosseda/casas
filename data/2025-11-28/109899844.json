@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/109899844/",
+  "locationSlug": "port-d-alcudia-platja-d-alcudia",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle del Marisc",
+  "description": "Alquiler de larga duración – Tercer piso con ascensor cerca de la playa \n\nSe alquila precioso tercer piso totalmente reformado hace 2 años, con materiales de primera calidad y diseño elegante. Muy luminoso y confortable, ideal para quienes buscan comodidad, estilo y ubicación inmejorable.\n\n Características del piso:\n\n 2 dormitorios dobles con armarios empotrados y aire acondicionado \n\n Cocina abierta amueblada y equipada con horno, vitrocerámica, campana, nevera, lavavajillas y lavadora\n\n Salón integrado con TV\n\n Terraza con vistas despejadas\n\n Ascensor en el edificio\n\n Ubicación:\nA solo 80 metros de la playa del Puerto de Alcudia  y en pleno centro comercial \n\n Requisitos:\n\n No se admiten mascotas\n\n No fumadores\n\n Ingresos mínimos demostrables de 3.750 € (se realizará un seguro de alquiler)\n\n Información de la agencia:\n\nAgencia asociada API número 50\n\nInscrita en el Registro del Govern de les Illes Balears ROAIIB número GOIBE 580797/2024\n\n¡Vive cerca del mar  con todas las comodidades y en pleno centro de Alcudia! .",
+  "isAttic": false,
+  "meters": 74,
+  "rooms": 2,
+  "price": 1500,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Orientación norte, sur",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 1,
+  "yearBuilt": null,
+  "floor": 3,
+  "hasElevator": true,
+  "exactCoordinates": false,
+  "latitude": 39.8416321,
+  "longitude": 3.1338756
+}

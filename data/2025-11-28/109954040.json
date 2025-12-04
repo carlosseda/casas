@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/109954040/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Calle del Riu Síl, 10",
+  "description": "Se alquila precioso apartamento en Santa Ponça (Calvià), perfecto para una estancia temporal en una de las zonas con más encanto del suroeste de Mallorca.\nEl piso está disponible durante todo diciembre y todo enero, con horarios de entrada y salida flexibles.\n\nEl apartamento tiene unos 45 m² y ofrece:\n•Espacio abierto de salón y cocina, práctico y acogedor\n•Dormitorio independiente y tranquilo \n•Baño completo\n•Ambiente tranquilo dentro de una finca \n\nLa ubicación es inmejorable: a solo 3 minutos caminando de la playa de Santa Ponça, rodeado de cafeterías, restaurantes y servicios, en un barrio seguro y muy agradable.\n\n Muy luminoso y con una energía acogedora, ideal para disfrutar del invierno en Mallorca cerca del mar.",
+  "isAttic": false,
+  "meters": 50,
+  "rooms": 1,
+  "price": 950,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Eléctrica",
+    "Aire acondicionado",
+    "Apartamento"
+  ],
+  "bathrooms": 1,
+  "floor": 1,
+  "hasElevator": true,
+  "energyConsumption": "B",
+  "energyEmission": "B",
+  "exactCoordinates": true,
+  "latitude": 39.5187297,
+  "longitude": 2.4875158
+}

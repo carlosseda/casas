@@ -1,0 +1,31 @@
+{
+  "url": "https://www.idealista.com/inmueble/109952254/",
+  "locationSlug": "llucmajor-interior",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle Mateu Monserrat",
+  "description": "Se alquila amplio piso de 135 m², totalmente reformado, amueblado y equipado con muebles de calidad y diseño. Vivienda muy luminosa, exterior y en una ubicación excelente dentro del pueblo de Llucmajor. \n\nDistribución:\n– 3 habitaciones dobles, todas con armarios empotrados y aire acondicionado.\n– 2 baños completos (uno en suite)\n– Salón-comedor amplio y luminoso con aire acondicionado.\n– Cocina equipada + coladuría \n– 3 balcones\n– Plaza de parking incluida\n\nCondiciones:\n\n– Alquiler de larga duración\n– Precio: 2.200 €/mes\n– 1 mes de fianza\n– 2 meses de garantía adicional\n\nTotal para entrar: 4 mensualidades\n\nRequisitos:\nAntes de concertar visita será necesario realizar un estudio de viabilidad y verificar la documentación.\nLos interesados deben enviar un correo con:\n\n– Número de ocupantes\n– Situación laboral de cada uno\n– Fecha deseada de entrada\n– Información básica para poder valorar el perfil.",
+  "isAttic": false,
+  "meters": 135,
+  "rooms": 3,
+  "price": 2200,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "yearBuilt": null,
+  "floor": 1,
+  "hasElevator": false,
+  "energyConsumption": "C",
+  "energyEmission": "B",
+  "exactCoordinates": false,
+  "latitude": 39.4879667,
+  "longitude": 2.900454
+}

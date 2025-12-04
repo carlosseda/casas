@@ -1,0 +1,31 @@
+{
+  "url": "https://www.idealista.com/inmueble/99562606/",
+  "locationSlug": "port-d-alcudia-platja-d-alcudia",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de dúplex en Port d'Alcúdia - Platja d'Alcúdia",
+  "description": "Disponible a partir de Noviembre 2025\n\nModerno dúplex en alquiler situado en segunda línea de mar cerca de todos los servicios necesarios.\n\n-2 dormitorios; uno con dos camas individuales y un amplio dormitorio doble.\n-2 baños completos\n-Salón-comedor con mesa para 4-6 personas.\n-Cocina totalmente equipada\n-Terraza de 15m2 con mesa, sillas y toldo.\n-Lavadero independiente\n-Aire acondicionado frío/calor en el salón y dormitorio principal.\n-Piscina comunitaria\n-Ascensor\n-Fácil aparcamiento\n-Condiciones para entrar a vivir: 3 meses de pago por adelantado (fianza, agencia, mes en curso) y comprobante de ingresos\n\nSi desea visitar esta propiedad simplemente háganos saber su disponibilidad y organizaremos una visita.",
+  "isAttic": false,
+  "meters": 90,
+  "rooms": 2,
+  "price": 1600,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur, este",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Eléctrica",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín"
+  ],
+  "bathrooms": 2,
+  "floor": 2,
+  "hasElevator": true,
+  "energyConsumption": "D",
+  "energyEmission": "D",
+  "exactCoordinates": false,
+  "latitude": 39.8436215,
+  "longitude": 3.1336643
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://www.idealista.com/inmueble/107978562/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de casa o chalet en Santa Ponça",
+  "description": "Preciosa finca familiar en Nova Santa Ponsa, una propiedad muy tranquila en una gran parcela con jardín bien cuidado y gran piscina.\nLa finca se encuentra en una amplia parcela de 2.693 m² y ofrece: 5 dormitorios, 7 baños, un despacho, un comedor y un gran salón con chimenea, una cocina equipada, una cocina exterior y terrazas ideales para relajarse.\nEl equipamiento de alta calidad garantiza un gran confort. \nLa finca también cuenta con un lavadero, un garaje para dos coches, un camino de entrada, una piscina, una ducha y paneles solares (con posibilidad de instalar más).\nLa zona exterior destaca por su gran piscina, rodeada de terrazas y un jardín bien cuidado.",
+  "isAttic": false,
+  "meters": 962,
+  "rooms": 5,
+  "price": 15500,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Casa o chalet",
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Lujo"
+  ],
+  "bathrooms": 7,
+  "yearBuilt": null,
+  "exactCoordinates": false,
+  "latitude": 39.5045862,
+  "longitude": 2.4742773
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://www.idealista.com/inmueble/109826921/",
+  "locationSlug": "camp-d-en-serralta",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle de la Indústria",
+  "description": "DISPONIBLE PARA ALQUILER DE CORTA ESTANCIA Y DE LARGA ESTANCIA\n\nTe presentamos esta exclusiva vivienda de 159 m² situada en una de las zonas más solicitadas de Palma, a pocos pasos del emblemático barrio de Santa Catalina, reconocido por su ambiente vibrante, su oferta gastronómica y su cercanía al paseo marítimo.\n\nEste magnífico piso, totalmente exterior y muy luminoso, destaca por su estilo clásico y su elegante decoración, que combina materiales nobles, detalles de diseño atemporal y un ambiente cálido y sofisticado.\n\nLa vivienda se distribuye en tres amplios dormitorios y dos baños completos, además de un espacioso salón comedor con grandes ventanales que inundan el espacio de luz natural y se abren a una preciosa terraza privada, ideal para disfrutar del clima mediterráneo y de agradables vistas a la ciudad.\n\nLa cocina, completamente equipada, combina funcionalidad y encanto tradicional, ofreciendo un espacio cómodo y práctico para el día a día.\n\nEl inmueble cuenta también con plaza de parking incluida en el precio, un valor añadido especialmente apreciado en esta zona céntrica de Palma.\n\nSu ubicación, próxima al barrio de Santa Catalina y al centro histórico, permite disfrutar de todos los servicios, tiendas, restaurantes y zonas de ocio sin renunciar a la tranquilidad de una zona residencial consolidada.\n\n¿Te imaginas vivir aquí?\n\n Contacte con nosotros para ver más inmuebles similares.",
+  "isAttic": false,
+  "meters": 159,
+  "rooms": 3,
+  "price": 3200,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Gas natural",
+    "Aire acondicionado",
+    "Lujo"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 2,
+  "hasElevator": true,
+  "energyConsumption": "E",
+  "energyEmission": "E",
+  "exactCoordinates": false,
+  "latitude": 39.5738885,
+  "longitude": 2.6386598
+}

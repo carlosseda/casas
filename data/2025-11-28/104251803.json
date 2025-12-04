@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/104251803/",
+  "locationSlug": "camp-d-en-serralta",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Camp d'En Serralta",
+  "description": "",
+  "isAttic": false,
+  "meters": 50,
+  "rooms": 1,
+  "price": 1400,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Cocina equipada y casa sin amueblar",
+    "Calefacción individual: Eléctrica",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 1,
+  "yearBuilt": null,
+  "floor": 2,
+  "hasElevator": true,
+  "energyConsumption": "C",
+  "energyEmission": "C",
+  "exactCoordinates": false,
+  "latitude": 39.5737732,
+  "longitude": 2.6393864
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/105752946/",
+  "locationSlug": "can-picafort",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Can Picafort",
+  "description": "Se alquila una encantadora planta baja en Can Picafort, situada a pocos metros del mar, en una zona muy tranquila, ideal para disfrutar de la paz y la cercanía con la naturaleza. La vivienda dispone de tres amplias habitaciones, perfectas para el descanso y la comodidad. Además, cuenta con dos baños completos, garantizando privacidad y confort para los inquilinos.\n\nLa cocina está completamente equipada con todos los electrodomésticos necesarios para hacer la vida más fácil y cómoda. Un acogedor salón con chimenea ofrece un espacio ideal para relajarse en los días más frescos, mientras que la calefacción asegura un ambiente cálido durante todo el año.\n\nEn el exterior, la propiedad se destaca por una gran terraza que conecta con un hermoso jardín de césped, un espacio perfecto para disfrutar del aire libre, hacer barbacoas o simplemente relajarse al sol. Cabe destacar que la propiedad no está disponible para alquiler en los meses de julio y agosto.",
+  "isAttic": false,
+  "meters": 110,
+  "rooms": 3,
+  "price": 1500,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Amueblado y cocina equipada",
+    "Jardín"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 0,
+  "hasElevator": false,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.7663375,
+  "longitude": 3.1543225
+}

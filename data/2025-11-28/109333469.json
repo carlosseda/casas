@@ -1,0 +1,31 @@
+{
+  "url": "https://www.idealista.com/inmueble/109333469/",
+  "locationSlug": "port-d-alcudia-platja-d-alcudia",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de estudio en Estany redo, 3",
+  "description": "Se alquila precioso estudio de lujo con vistas al mar, muy moderno en edificio missisipi, luminoso y completamente reformado. Ubicado en una zona tranquila de Alcúdia, a pocos minutos de la playa a unos 300m de la playa.\n\n \n\n Características del estudio:\n\n \nEspacio abierto con diseño actual y funcional\n\nCocina equipada con todos electrodomésticos de ultima generación con bajos consumos.\n\nBaño completo con plato de ducha\n\nAire acondicionado\n\nTotalmente amueblado y listo para entrar a vivir\n\nEs un estudio pequeño, especial para parejas y personas que quieran disponer de un apartamente moderno y acogedor.\n\n Condiciones:\n\nSe requieren 2 meses de fianza\n\nImprescindible presentar 2 contratos de trabajo o garantía de solvencia\n\nNo se admiten mascotas, ni fumadores.\n\nAlquiler de larga duración, mínimo 1 año\n\n Precio del alquiler: [Indicar precio mensual]\n\n Ubicación: Alcúdia – zona residencial, cerca de todas las playas.\n\n \nSi buscas un espacio moderno y acogedor para vivir en una de las zonas más bonitas de Mallorca, ¡este estudio es para ti!",
+  "isAttic": false,
+  "meters": 35,
+  "price": 880,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Jardín",
+    "Vistas al mar"
+  ],
+  "bathrooms": 1,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 6,
+  "hasElevator": true,
+  "energyConsumption": "B",
+  "energyEmission": "B",
+  "exactCoordinates": true,
+  "latitude": 39.8429965,
+  "longitude": 3.1329618
+}

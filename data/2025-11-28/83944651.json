@@ -1,0 +1,31 @@
+{
+  "url": "https://www.idealista.com/inmueble/83944651/",
+  "locationSlug": "la-missio-mercat",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de ático en San Miguel",
+  "description": "Ya está disponible en el corazón de Palma, éste bonito ático-dúplex, ofreciendo dos agradables terrazas de aprox. 65m2 desde la cual se puede apreciar los alrededores del casco antiguo. Su ubicación privilegiada al lado del mercado del Olivar, permite estar cerca de las mejores tiendas de moda, de centros culturales y de zonas de paseo en el centro. La propiedad cuenta con un salón-comedor, dos habitaciones y un estudio, una cocina totalmente equipada, dos baños en suite con ducha y un aseo, una lavandería y aire acondicionado frío/calor. Hay una plaza de parking incluida.\nAl momento no tiene muebles pero se podría amueblar. Una gran vivienda!",
+  "isAttic": true,
+  "meters": 130,
+  "rooms": 2,
+  "price": 2300,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Orientación este, oeste",
+    "Cocina equipada y casa sin amueblar",
+    "Calefacción individual: Eléctrica",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "yearBuilt": null,
+  "floor": 3,
+  "hasElevator": false,
+  "exactCoordinates": false,
+  "latitude": 39.5724578,
+  "longitude": 2.6514489
+}

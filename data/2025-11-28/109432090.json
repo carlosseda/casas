@@ -1,0 +1,25 @@
+{
+  "url": "https://www.idealista.com/inmueble/109432090/",
+  "locationSlug": "el-terreno",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de estudio en El Terreno",
+  "description": "Este apartamento tipo estudio se encuentra en una ubicación privilegiada, directamente en el Paseo Marítimo de Palma. La zona ofrece una gran variedad de restaurantes, cafeterías y tiendas. El conocido centro comercial Porto Pi está a poca distancia a pie.\n\nEl estudio tiene una superficie de aproximadamente 55 metros cuadrados y dispone de una amplia zona de estar y dormitorio, una cocina independiente y un baño pequeño con ducha, renovado completamente el año pasado.\n\nUn punto destacado es el balcón, desde el cual se disfruta de vistas despejadas al puerto y al mar.\n\nEl apartamento está equipado con aire acondicionado frío/calor y una lavadora con función secadora. El edificio cuenta con ascensor y servicio de portería.",
+  "isAttic": false,
+  "meters": 55,
+  "price": 1300,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 1,
+  "yearBuilt": null,
+  "floor": 4,
+  "hasElevator": true,
+  "energyConsumption": "F",
+  "energyEmission": "G",
+  "exactCoordinates": false,
+  "latitude": 39.5625005,
+  "longitude": 2.625367
+}

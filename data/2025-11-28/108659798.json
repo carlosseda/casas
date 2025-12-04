@@ -1,0 +1,32 @@
+{
+  "url": "https://www.idealista.com/inmueble/108659798/",
+  "locationSlug": "portals-nous",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Portals Nous",
+  "description": "Fantástic flat in Puerto Portals \n\nDon t miss that possibility ….\n\nAswell with option to rent a Private parking space ….",
+  "isAttic": false,
+  "meters": 125,
+  "rooms": 3,
+  "price": 4000,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín"
+  ],
+  "bathrooms": 3,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 2,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": null,
+  "longitude": null
+}

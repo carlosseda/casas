@@ -1,0 +1,26 @@
+{
+  "url": "https://www.idealista.com/inmueble/107125029/",
+  "locationSlug": "portals-nous",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de estudio en Calle Miguel de Cervantes",
+  "description": "Estudio bien situado en el corazón de Portals Nous. Con una superficie total construida de 42 m²,\n esta propiedad ofrece un espacio habitable práctico, ideal para\npersonas solas o parejas que buscan un estilo de vida dinámico en uno de los lugares más codiciados de Mallorca. El estudio cuenta con una distribución funcional que\naprovecha al máximo el espacio.\nLa ubicación de este estudio es realmente excepcional, ya que ofrece un fácil acceso al famoso puerto de Portals Nous. A pocos pasos, encontrará una gran variedad\nde opciones gastronómicas, boutiques y animados bares. La cercana playa de Portals Nous y el exclusivo Lobster Club Beachclub son lugares perfectos\npara relajarse y disfrutar del ocio. Tanto si desea disfrutar de un día junto al mar como deleitarse con una buena cena, todo está a su alcance.\nAdemás del puerto, el encantador pueblo de Portals Nous también se encuentra a poca distancia. Aquí podrá explorar una gran variedad de restaurantes y bares,\nasí como servicios esenciales como farmacias y supermercados. Esta proximidad garantiza que tanto los recados diarios como las salidas de ocio sean\ncómodos y agradables.\nPara las familias y los amantes del deporte, Portals Nous ofrece acceso a varias escuelas e instalaciones deportivas de renombre. Las escuelas internacionales cercanas\nofrecen opciones de educación de calidad, mientras que las instalaciones deportivas satisfacen una gran variedad de intereses, desde el tenis hasta el golf. Esto hace que la zona no solo sea un\nlugar estupendo para vivir, sino también una comunidad que fomenta un estilo de vida activo y pleno.",
+  "isAttic": false,
+  "meters": 42,
+  "price": 1500,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Calefacción individual",
+    "Aire acondicionado",
+    "Piscina"
+  ],
+  "bathrooms": 1,
+  "floor": 5,
+  "hasElevator": true,
+  "exactCoordinates": false,
+  "latitude": null,
+  "longitude": null
+}

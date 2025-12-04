@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/107983469/",
+  "locationSlug": "port-de-pollenca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de ático en Port de Pollença",
+  "description": "Piso en primera linea con vistas increíbles a la Bahia de Pollença y al Puerto de Pollença. \n\nDisponible a partir de septiembre hasta mayo 2026. \n\nLlamanos para mas informacion.",
+  "isAttic": true,
+  "meters": 200,
+  "rooms": 2,
+  "price": 1500,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación norte",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 2,
+  "floor": 3,
+  "hasElevator": true,
+  "exactCoordinates": false,
+  "latitude": 39.9078276,
+  "longitude": 3.0814314
+}

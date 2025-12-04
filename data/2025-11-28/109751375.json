@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/109751375/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de casa o chalet independiente en Santa Ponça",
+  "description": "Villa Seaview cerca de la playa en Santa Ponsa\n\nEsta villa de diseño de 400 m² inundada de luz y amueblada de forma moderna se encuentra a solo 600 metros de la playa de Santa Ponsa. Una amplia terraza y una piscina infinita de agua salada de 4 x 8 m, combinadas con impresionantes vistas al mar sobre la bahía, crean un ambiente de vida excepcional.\n\nDiseñada para la comodidad durante todo el año, la villa ofrece cuatro elegantes dormitorios, cada uno con aire acondicionado y baño en suite, lo que la convierte en un hogar ideal para vivir en Mallorca.",
+  "isAttic": false,
+  "meters": 500,
+  "rooms": 4,
+  "price": 10000,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Casa o chalet independiente",
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Piscina",
+    "Vistas al mar",
+    "Lujo"
+  ],
+  "bathrooms": 4,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "exactCoordinates": false,
+  "latitude": 39.5039295,
+  "longitude": 2.4704077
+}

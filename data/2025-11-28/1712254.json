@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/1712254/",
+  "locationSlug": "el-terreno",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Avenida Gabriel Roca, 39",
+  "description": "piso 5º vistas al paseo Maritimo bus linea 1 a la \npuerta situado en el numero 39 de av gabriel Roca \npalma.\n certificado energetico E- nº 45503.",
+  "isAttic": false,
+  "meters": 139,
+  "rooms": 3,
+  "price": 2500,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur, oeste",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Gas natural",
+    "Piscina",
+    "Jardín"
+  ],
+  "bathrooms": 2,
+  "floor": 5,
+  "hasElevator": true,
+  "energyConsumption": "E",
+  "energyEmission": "F",
+  "exactCoordinates": true,
+  "latitude": 39.5594251,
+  "longitude": 2.6261001
+}

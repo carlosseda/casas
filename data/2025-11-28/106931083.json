@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/106931083/",
+  "locationSlug": "manacor-centro",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de ático en Via Portugal",
+  "description": "Si se abonan 6 meses por adelantado, el alquiler seria de 1000€ (6000€).\nEs un primero techo libre, dispone de 3 habitaciones grandes y espaciosas, bonito salon comedor y muy grande (posibilidad de poner una chimenea), la vivienda hace esquina teniendo la ventaja de la luz natural, ventanas en las habitaciones, salon, cocina todas exteriores, la cocina se encuentra amueblada dispone de barra americana, el baño es amplio y completo, tenemos acceso directo a la terraza superior donde nos encontramos una gran lavandería (opción de la 4ª habitación) y una bonita terraza privada, la ubicación inmejorable, Via Portugal, calle ancha y con muy fácil aparcamiento.",
+  "isAttic": true,
+  "meters": 115,
+  "rooms": 3,
+  "price": 1200,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Cocina sin equipar y casa sin amueblar"
+  ],
+  "bathrooms": 1,
+  "floor": 1,
+  "hasElevator": false,
+  "energyConsumption": "C",
+  "energyEmission": "C",
+  "exactCoordinates": false,
+  "latitude": 39.5664938,
+  "longitude": 3.2151344
+}

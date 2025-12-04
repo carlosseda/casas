@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/109889200/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de casa o chalet en Santa Ponça",
+  "description": "Descubra esta impresionante villa en la exclusiva zona de Nova Santa Ponsa, diseñada con acabados de primera calidad y interiorismo profesional. Cuenta con 4 amplias habitaciones, 3 elegantes baños en suite y 2 plazas de parking, combinando lujo, confort y funcionalidad en cada detalle.\n\nSituada en una de las áreas más codiciadas de Mallorca, se encuentra cerca de Port Adriano, su prestigioso puerto deportivo y restaurantes de alta gama, así como de playas de ensueño y campos de golf de primer nivel. Además, la zona ofrece tiendas exclusivas, colegios internacionales y todos los servicios necesarios para un estilo de vida sofisticado.\n\nDisponible para alquiler a corto y largo plazo, esta villa es perfecta para familias o profesionales que buscan una residencia privada y de lujo en una ubicación inmejorable. Viva la combinación perfecta de privacidad, comodidad y estilo en Nova Santa Ponsa.",
+  "isAttic": false,
+  "meters": 380,
+  "rooms": 4,
+  "price": 10350,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Casa o chalet",
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Orientación sur",
+    "Aire acondicionado",
+    "Piscina",
+    "Lujo"
+  ],
+  "bathrooms": 3,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "yearBuilt": null,
+  "exactCoordinates": false,
+  "latitude": 39.4992571,
+  "longitude": 2.4677832
+}

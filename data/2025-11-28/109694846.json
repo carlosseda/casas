@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/109694846/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de estudio en CL Lisboa, 6",
+  "description": "¡Descubre tu nuevo hogar en la encantadora urbanización Jardín de Luz!\n\n¡AGUA Y LUZ INCLUIDOS EN EL ALQUILER!\n\nEste estudio recién reformado es el lugar perfecto para disfrutar de la vida costera. Con una ubicación privilegiada a solo unos pasos de la playa, tendrás acceso inmediato al sol y la arena. Además, la cercanía a todos los servicios necesarios hace que este espacio sea ideal para quienes buscan comodidad y funcionalidad.\n\nLa urbanización es amplia, muy cómoda y cuenta con conserje todo el año y un bar que abre desde Marzo a Octubre.\n\nCon 30 m² construidos y 28 m² útiles, este acogedor estudio cuenta con un baño completo y armarios empotrados que optimizan el espacio. La calefacción mediante bomba de frío/calor eléctrica garantiza un ambiente agradable durante todo el año. La vivienda se encuentra en la segunda planta, con ascensor y orientación sur-oeste, lo que permite disfrutar de luz natural durante gran parte del día.\n\nEl alquiler incluye todos los muebles y electrodomésticos, además el agua y la luz también están incluidas en el alquiler, lo que facilita tu mudanza. Aunque el sofá y el mueble del salón están pendientes de montaje, y alguna cosa más, tienes la oportunidad de personalizar el espacio a tu gusto. Y para esos días calurosos, podrás refrescarte en la piscina o relajarte en el jardín comunitario. ¡No dejes pasar esta oportunidad única y ven a visitar tu nuevo hogar!.",
+  "isAttic": false,
+  "meters": 30,
+  "price": 1100,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur, oeste",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Eléctrica",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín"
+  ],
+  "bathrooms": 1,
+  "yearBuilt": null,
+  "floor": 2,
+  "hasElevator": true,
+  "energyConsumption": "E",
+  "energyEmission": "E",
+  "exactCoordinates": true,
+  "latitude": 39.5126055,
+  "longitude": 2.4812432
+}

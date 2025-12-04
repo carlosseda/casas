@@ -1,0 +1,33 @@
+{
+  "url": "https://www.idealista.com/inmueble/105830226/",
+  "locationSlug": "portals-nous",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Portals Nous",
+  "description": "¡Descubre el apartamento en el corazón de Port Portals! Este bonito piso de diseño mediterráneo ofrece todo lo que necesitas para una estancia inolvidable en la prestigiosa zona de Mallorca. Con 160 m² construidos y 120 m² útiles, este amplio y luminoso piso cuenta con 3 dormitorios dobles y 2 baños, perfecto para familias o grupos de amigos. \nEl dormitorio principal tiene una cama de matrimonio y baño en suite con aire acondicionado, mientras que el segundo dormitorio dispone de dos camas individuales y aire acondicionado. El tercer dormitorio cuenta con una cama nido para 2 personas (ideal para niños) y ventilador.\n\nEl salón comedor es muy soleado y ofrece un espacio acogedor con sofás y una zona de comedor, ideal para relajarse después de un día en la playa. La cocina americana está totalmente equipada, lista para que prepares tus platos favoritos. Además, la amplia terraza, mitad cubierta y mitad descubierta, es el lugar perfecto para disfrutar de las vistas al mar y los inolvidables atardeceres de Mallorca. \n\nEl complejo residencial incluye una piscina, zona infantil y jardín, ofreciendo un entorno seguro y divertido para toda la familia. Además, tendrás acceso directo al Puerto Deportivo y las playas cercanas. Con calefacción eléctrica, aire acondicionado y ascensor, este piso orientado al sur es la elección perfecta para quienes buscan comodidad y estilo en un entorno privilegiado. \n¡No pierdas esta oportunidad única!\n\nNº Registro Unico: ESFCNT00000 351100000000000000000000000000007.",
+  "isAttic": false,
+  "meters": 160,
+  "rooms": 3,
+  "price": 9000,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín",
+    "Vistas al mar",
+    "Lujo"
+  ],
+  "bathrooms": 2,
+  "floor": 4,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": null,
+  "longitude": null
+}

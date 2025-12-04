@@ -1,0 +1,25 @@
+{
+  "url": "https://www.idealista.com/inmueble/103363087/",
+  "locationSlug": "port-de-pollenca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Port de Pollença",
+  "description": "Piso en el centro de Puerto de Pollensa, una de las zonas más prestigiosas de Mallorca. Consta de 1 dormitorio, cocina americana y equipada, tiene aire acondicionado frio y calor y esta totalmente amueblado. Ideal para 1 persona o una pareja. Situado en una zona cómoda a poca distancia de todos los servicios como tiendas, bares y restaurantes o a la playa.\nEl precio del alquiler varía en función del período de alquiler.\nNo dude en ponerse en contacto con FIRST MALLORCA para más información o para concertar una visita. Nuestro equipo está a su disposición en cualquier momento.",
+  "isAttic": false,
+  "meters": 48,
+  "rooms": 1,
+  "price": 1500,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Trastero",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 1,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 1,
+  "hasElevator": true,
+  "exactCoordinates": false,
+  "latitude": 39.9093455,
+  "longitude": 3.0844401
+}

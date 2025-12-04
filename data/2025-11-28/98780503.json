@@ -1,0 +1,32 @@
+{
+  "url": "https://www.idealista.com/inmueble/98780503/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de casa o chalet independiente en Santa Ponça",
+  "description": "Esta villa de diseño, amueblada de manera moderna y bañada en luz natural, tiene 400m² y se encuentra a solo 600 metros de la playa de Santa Ponsa. Una amplia terraza y una gran piscina infinita de agua salada de 4x8m hacen de esta villa, con sus impresionantes vistas al mar sobre la bahía de Santa Ponsa, un alojamiento vacacional único. Todos los 4 dormitorios (para 2 personas cada uno) cuentan con aire acondicionado y baños en suite.\n\nOtro dormitorio se encuentra en la planta baja y también dispone de baño en suite.",
+  "isAttic": false,
+  "meters": 400,
+  "rooms": 4,
+  "price": 10000,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Casa o chalet independiente",
+    "2 plantas",
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación oeste",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín",
+    "Vistas al mar",
+    "Lujo",
+    "Villa"
+  ],
+  "bathrooms": 4,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "exactCoordinates": false,
+  "latitude": 39.5114526,
+  "longitude": 2.480609
+}

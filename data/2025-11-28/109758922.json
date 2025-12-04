@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/109758922/",
+  "locationSlug": "la-missio-mercat",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en CL Oms",
+  "description": "¡Descubre tu nuevo hogar en pleno corazón de la ciudad! Este espectacular piso recién reformado en la Calle Olmos ofrece un estilo contemporáneo sin perder el encanto de su construcción original de 1897. Con 75 m² distribuidos en dos habitaciones y dos baños, este espacio es ideal para quienes buscan comodidad y modernidad. La cocina de diseño, te invita a crear el ambiente perfecto para tus momentos culinarios.\n\nImagina disfrutar de las vistas del bullicio urbano desde tu balcón/invernadero, donde la luz natural entra durante el día. Por la noche, la tranquilidad de una calle peatonal te permitirá descansar sin interrupciones. Los suelos hidráulicos y las vigas vistas añaden un toque único a cada rincón, creando un ambiente acogedor y lleno de carácter.\n\nAdemás, cuenta con una zona designada para lavandería y un pequeño trastero que te proporcionará el espacio extra que necesitas. Con calefacción por bomba de frío/calor y aire acondicionado, tu confort está garantizado en cualquier época del año. No pierdas la oportunidad de vivir en un lugar donde el pasado se encuentra con el presente. ¡Ven a visitarlo y déjate enamorar!",
+  "isAttic": false,
+  "meters": 80,
+  "rooms": 2,
+  "price": 2150,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Trastero",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "yearBuilt": null,
+  "floor": 1,
+  "hasElevator": false,
+  "energyConsumption": "G",
+  "energyEmission": "G",
+  "exactCoordinates": false,
+  "latitude": 39.5768068,
+  "longitude": 2.6486269
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/109851790/",
+  "locationSlug": "sant-agusti",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Sant Agustí",
+  "description": "Se alquila esta encantadora vivienda de una habitación ubicada en la codiciada zona de San Agustín, a tan solo 100 metros del mar y con acceso a piscina comunitaria. Este apartamento ha sido decorado con gusto, ofreciendo un ambiente acogedor que hará sentir acogido a quienes lo habiten. Dispone de amplio salón comedor, terraza o balcón ideal para disfrutar del clima mediterráneo, una habitación doble y baño completo. La cocina está equipada con electrodomésticos y menaje necesario para su comodidad. Es el espacio perfecto para parejas y personas que buscan tranquilidad, lejos del bullicio urbano y cerca del mar.\nLa zona de San Agustín ofrece todos los servicios necesarios como supermercados, restaurantes y transporte público; es cada vez más solicitada gracias a su ubicación privilegiada junto al puerto de Cala Nova. ¡Contáctanos ahora mismo para obtener más detalles sobre este atractivo inmueble!",
+  "isAttic": false,
+  "meters": 54,
+  "rooms": 1,
+  "price": 1400,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Cocina equipada y casa sin amueblar",
+    "Calefacción individual: Eléctrica",
+    "Aire acondicionado",
+    "Piscina",
+    "Apartamento"
+  ],
+  "bathrooms": 1,
+  "yearBuilt": null,
+  "floor": 3,
+  "hasElevator": true,
+  "exactCoordinates": false,
+  "latitude": 39.5523784,
+  "longitude": 2.5974267
+}

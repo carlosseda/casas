@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/109818876/",
+  "locationSlug": "sant-agusti",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Sant Agustí",
+  "description": "*** ÚNICAMENTE PARA ALQUILER DE CORTO PLAZO, 11 MESES***\n\nSE ALQUILA!\n\nEspacioso piso TOTALMENTE REFORMADO de 90 m2 + 20 m2 de terraza, en COMPLEJO RESIDENCIAL en PRIMERA LÍNEA de San Agustín, con ACCESO DIRECTO AL MAR.\n\nLa propiedad ha sido recientemente renovada y consta de 3 dormitorios dobles y 1 baño completo. Cocina totalmente equipada y reformada. Amplio salón-comedor con acceso a la terraza.\n\nEquipado con suelos de parquet, ventanas de pvc con doble acristalamiento, armarios empotrados.\n\nUbicado en un bonito complejo, bien cuidado de San Agustín. Cuenta con ascensores, servicio de portería/conserje, solárium con hamacas y sombrillas, PISCINA, restaurante, y ACCESO DIRECTO AL MAR.\n\nEXCELENTE UBICACIÓN. San Agustín es uno de los barrios costeros más cotizados de Palma, Ofrece una situación privilegiada. Cerca de bares, restaurantes, tiendas, servicios de transporte público, centro médico, playas y puertos. A 2 minutos a pie del PUERTO DEPORTIVO CALANOVA, así como de la playa de Cala Mayor. A tan sólo 5 minutos en coche del Centro Comercial Porto Pi y del Paseo Marítimo, a 10 minutos del centro de Palma, y a 15 minutos del aeropuerto.\n\n2000€ / Mes [IW].",
+  "isAttic": false,
+  "meters": 110,
+  "rooms": 3,
+  "price": 2000,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Eléctrica",
+    "Piscina"
+  ],
+  "bathrooms": 1,
+  "floor": 4,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5496993,
+  "longitude": 2.6029339
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/109781830/",
+  "locationSlug": "port-d-alcudia-platja-d-alcudia",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Port d'Alcúdia - Platja d'Alcúdia",
+  "description": "Nappo Real Estate presenta este acogedor apartamento en Alcudia, una vivienda funcional y bien cuidada situada en una urbanización con excelentes comodidades, ideal para quienes buscan comodidad y tranquilidad en el norte de Mallorca.\n\nEl piso ofrece 2 habitaciones, 1 baño, un salón luminoso y una cocina equipada, con una distribución práctica para el día a día. La finca cuenta con dos ascensores y está adaptada para personas con movilidad reducida, lo que garantiza accesibilidad y facilidad de acceso para todos.\n\nFormando parte de una urbanización privada, podrás disfrutar de una piscina comunitaria, pista de tenis y amplias zonas exteriores para relajarte o practicar deporte.\n\nUna oportunidad excelente para vivir en una ubicación tranquila, bien conectada y muy demandada en Alcudia.\n\nNappo Real Estate, tu inmobiliaria de confianza en Mallorca.",
+  "isAttic": false,
+  "meters": 65,
+  "rooms": 2,
+  "price": 1300,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación norte",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado",
+    "Piscina"
+  ],
+  "bathrooms": 1,
+  "floorOrientation": "exterior",
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.8282972,
+  "longitude": 3.1077101
+}

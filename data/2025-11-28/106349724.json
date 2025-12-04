@@ -1,0 +1,31 @@
+{
+  "url": "https://www.idealista.com/inmueble/106349724/",
+  "locationSlug": "port-d-alcudia-platja-d-alcudia",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Gavina, De La",
+  "description": "Características del inmueble\n\nTipo: Apartamento en planta baja.\n\nSuperficie: 74 m².\n\nReforma completa: Marzo de 2024.\n\nEquipamiento:\n\nCocina totalmente equipada.\n\nChimenea eléctrica.\n\nAcceso directo a piscina comunitaria y zona ajardinada.\n\nUbicación: Zona con fácil aparcamiento y servicios cercanos.\n\n Disponibilidad\n\nA partir del 22 de noviembre de 2025.\n\nDuración: Solo alquiler temporal, no vivienda habitual.\n Tendrás que justificar el motivo de la estancia temporal (por ejemplo: trabajo por temporada, estudios, tratamiento médico, etc. ).\n\n Condiciones económicas\n\nIngresos mínimos demostrables: 3.500 € mensuales.\n\nPagos iniciales:\n\n1 mes de fianza.\n\n1 mes corriente.\n\nSeguro de protección de alquiler: obligatorio (la agencia lo gestionará).\n\nSolvencia: deberás presentar documentación acreditativa ingresos demostrables.\n\n Restricciones\n\nNo se admiten mascotas.\n\nNo se admiten fumadores.\n\nSe alquila únicamente a personas individuales o parejas con situación laboral estable y justificación de temporalidad.\n\n Gestión\n\nAgencia API asociada nº 50.\n\nInscrita en el Govern de les Illes Balears – Registro GOIBE 580797/2024.",
+  "isAttic": false,
+  "meters": 74,
+  "rooms": 2,
+  "price": 1400,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Orientación norte, sur",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín"
+  ],
+  "bathrooms": 1,
+  "yearBuilt": null,
+  "floor": 0,
+  "hasElevator": false,
+  "energyConsumption": "E",
+  "energyEmission": "E",
+  "exactCoordinates": false,
+  "latitude": 39.8400493,
+  "longitude": 3.1192582
+}

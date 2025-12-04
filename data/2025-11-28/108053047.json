@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/108053047/",
+  "locationSlug": "port-de-pollenca",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Calle del Llevant, 12",
+  "description": "A una calle del paseo maritimo y de la playa.\nSuelos de parquet de roble, aire acondicionado en todas las habitaciones, patio de 40 m2. Agua incluida en el precio.",
+  "isAttic": false,
+  "meters": 80,
+  "rooms": 2,
+  "price": 1925,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 1,
+  "floor": 1,
+  "hasElevator": false,
+  "energyConsumption": "E",
+  "energyEmission": "E",
+  "exactCoordinates": true,
+  "latitude": 39.9086852,
+  "longitude": 3.0837573
+}

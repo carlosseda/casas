@@ -1,0 +1,31 @@
+{
+  "url": "https://www.idealista.com/inmueble/103830354/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle de Nunyo Sanç, 24",
+  "description": "Apartamento céntrico con impresionantes vistas a la playa de Santa Ponça. 2 dormitorios dobles, 1 baño, coladuría y trastero. Calefacción central y agua incluidas en el precio. \nSe alquila sin muebles. No se admiten mascotas. Alquiler de larga duración.",
+  "isAttic": false,
+  "meters": 83,
+  "rooms": 2,
+  "price": 1600,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Orientación sur",
+    "Cocina equipada y casa sin amueblar",
+    "Calefacción central",
+    "Piscina",
+    "Jardín"
+  ],
+  "bathrooms": 1,
+  "floor": 5,
+  "hasElevator": true,
+  "energyConsumption": "D",
+  "energyEmission": "D",
+  "exactCoordinates": true,
+  "latitude": 39.5198144,
+  "longitude": 2.4778414
+}

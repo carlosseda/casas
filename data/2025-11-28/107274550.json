@@ -1,0 +1,25 @@
+{
+  "url": "https://www.idealista.com/inmueble/107274550/",
+  "locationSlug": "foners",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle Ricard Ankerman, 72",
+  "description": "Piso muy luminoso con techos altos y techo libre con comunidad tranquila en inmejorable zona cerca del palacio congresos.\nse cobra mes garantía.",
+  "isAttic": false,
+  "meters": 88,
+  "rooms": 2,
+  "price": 1350,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Cocina sin equipar y casa sin amueblar"
+  ],
+  "bathrooms": 1,
+  "floor": 2,
+  "hasElevator": false,
+  "energyConsumption": "G",
+  "energyEmission": "G",
+  "exactCoordinates": true,
+  "latitude": 39.5674263,
+  "longitude": 2.6632017
+}

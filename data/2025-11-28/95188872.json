@@ -1,0 +1,31 @@
+{
+  "url": "https://www.idealista.com/inmueble/95188872/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en rei Jaume I",
+  "description": "**DISPONIBLE DEL 1.10. 2025 AL 15.06. 2026**\n\nDisfruta de un precioso y moderno apartamento en un edificio muy tranquilo, a solo unos pasos de la playa, tiendas y restaurantes. Este luminoso piso cuenta con dos amplios dormitorios, dos baños (uno en suite), una elegante cocina abierta y una espaciosa terraza perfecta para relajarte con vistas increíbles. \n\nEquipado con aire acondicionado en todas las habitaciones y suelos radiantes para mayor confort durante todo el año. Ideal para quienes buscan comodidad y tranquilidad en una ubicación privilegiada. \n\n**No se aceptan mascotas. **.",
+  "isAttic": false,
+  "meters": 90,
+  "rooms": 2,
+  "price": 2400,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Amueblado y cocina equipada",
+    "Calefacción central: Gas",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 2,
+  "hasElevator": false,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5111513,
+  "longitude": 2.4750877
+}

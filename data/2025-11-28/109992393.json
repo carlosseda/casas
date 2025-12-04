@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/109992393/",
+  "locationSlug": "portals-nous",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Calle Miguel de Cervantes s/n",
+  "description": "Se alquila por 8 meses con posibilidad de estar mas tiempo apartamento de 1 habitacion 1 baño cocina balcón con vistas al mar. Zona muy tranquila, comunidad y agua incluida. Se piden referencias.",
+  "isAttic": false,
+  "meters": 65,
+  "rooms": 1,
+  "price": 900,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Piscina",
+    "Vistas al mar"
+  ],
+  "bathrooms": 1,
+  "floor": 6,
+  "hasElevator": true,
+  "energyConsumption": "C",
+  "energyEmission": "C",
+  "exactCoordinates": true,
+  "latitude": null,
+  "longitude": null
+}

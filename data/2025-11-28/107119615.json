@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/107119615/",
+  "locationSlug": "pollenca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Pollença",
+  "description": "Disponible el 2 de noviembre 2025. Este hermoso piso se encuentra a un paso del centro de Pollensa. Cuenta con tres dormitorios, dos baño completos, salón comedor, con acceso a un hermoso balcón con vistas a la montaña, cocina completa, A/C y ascensor.",
+  "isAttic": false,
+  "meters": 110,
+  "rooms": 3,
+  "price": 1400,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "floor": 3,
+  "hasElevator": true,
+  "energyConsumption": "F",
+  "energyEmission": "F",
+  "exactCoordinates": false,
+  "latitude": 39.8852639,
+  "longitude": 3.0039705
+}

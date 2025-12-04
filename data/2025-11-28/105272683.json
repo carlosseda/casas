@@ -1,0 +1,31 @@
+{
+  "url": "https://www.idealista.com/inmueble/105272683/",
+  "locationSlug": "sant-agusti",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle de Nicolau Alemany",
+  "description": "PISO EN ALQUILER DE CORTA ESTANCIA CON VISTAS AL MAR \n\nEste apartamento de 80 m² con acceso directo al mar e inmejorables vistas, esta ubicado en la zona de San Agustín, uno de los lugares más solicitados para pasar una temporada en Mallorca. &nbsp;&nbsp;\n\nDesde la puerta de entrada a la vivienda, a través de un pasillo accedemos a un espacioso salón comedor con una terraza con grandes ventanales con posibilidad de abrirla de lado a lado y quedando completamente abierta para disfrutar de las vistas panorámicas al mar. La cocina americana de estilo nórdico se encuentra completamente amueblada y equipada. &nbsp;\n\nLa zona de noche consta de dos dormitorios dobles con armarios y ventiladores en paredes y un baño individual con bañera bien conservado. &nbsp;\n\nLa propiedad de orientación sur, se encuentra completamente amueblada y equipada, tiene suelos de parquet, ventanas de doble acristalamiento, jardín y piscina comunitaria y con bajada directa al mar. &nbsp;\n\nEl alquiler es de temporada, estancia de 11 meses el precio es de 2200€, estancia de 6 mese el precio es de 3000€. Para meses sueltos mínimo 32 noches consultar precio y disponibilidad &nbsp;\n\n¿Te imaginas vivir aquí? ¡Esperamos tu llamada!\n\n Contacte con nosotros para ver más inmuebles similares.",
+  "isAttic": false,
+  "meters": 80,
+  "rooms": 2,
+  "price": 1950,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "No dispone de calefacción",
+    "Piscina",
+    "Jardín",
+    "Vistas al mar"
+  ],
+  "bathrooms": 1,
+  "yearBuilt": null,
+  "floor": 10,
+  "hasElevator": true,
+  "energyConsumption": "E",
+  "energyEmission": "E",
+  "exactCoordinates": false,
+  "latitude": 39.5527808,
+  "longitude": 2.603964
+}

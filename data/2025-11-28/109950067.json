@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/109950067/",
+  "locationSlug": "portocolom",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de chalet pareado en Calle de la Niña, 19 a",
+  "description": "Casa&nbsp;en alquiler – Zona tranquila de Porto colom\nPrecio: 1.400 €/mes + gastos de electricidad\nFianza: 1 mes\n\nSe ofrece en alquiler una planta baja de 87 m², situada en una zona residencial y tranquila de Portocolom. La vivienda ha sido recientemente renovada y se encuentra en perfecto estado de conservación.\n\nDistribución y características:\n\nDos dormitorios\n\nSalón y comedor independientes\n\nCocina amplia y funcional\n\nBaño completo con bañera y bidé\n\nPatio y azotea de uso privativo\n\nGaraje incluido en la propiedad\n\nEquipamiento:\n\nCalefacción de pellets, eficiente y en óptimo funcionamiento\n\nAire acondicionado nuevo\n\nVivienda sencilla, moderna y muy confortable\n\nUna propiedad ideal para quienes buscan tranquilidad y un espacio listo para entrar a vivir.",
+  "isAttic": false,
+  "meters": 87,
+  "rooms": 2,
+  "price": 1400,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Chalet pareado",
+    "2 plantas",
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Amueblado y cocina equipada",
+    "Calefacción individual",
+    "Aire acondicionado",
+    "Jardín"
+  ],
+  "bathrooms": 1,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "exactCoordinates": true,
+  "latitude": null,
+  "longitude": null
+}

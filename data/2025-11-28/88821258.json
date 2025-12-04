@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/88821258/",
+  "locationSlug": "pollenca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de finca rústica en Pollença",
+  "description": "Encantadora villa en alquiler durante todo el año, lista para entrar a vivir. Dispone de tres amplios dormitorios, tres baños, un precioso jardín y una acogedora chimenea. Aunque no cuenta con piscina, se encuentra a pocos kilómetros de la espectacular bahía de Puerto de Pollensa. Además, ofrece aire acondicionado y zona de barbacoa, ideal para disfrutar en cualquier época del año.",
+  "isAttic": false,
+  "meters": 150,
+  "rooms": 3,
+  "price": 2350,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Finca rústica",
+    "Terraza",
+    "Chimenea",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Jardín"
+  ],
+  "bathrooms": 3,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.8788788,
+  "longitude": 3.0157095
+}

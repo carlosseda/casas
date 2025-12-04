@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/101914083/",
+  "locationSlug": "port-d-alcudia-platja-d-alcudia",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de ático en Calle Gabriel Roca, 17",
+  "description": "Ático en primera línea del Puerto de Alcudia con vistas al mar. totalmente equipado.\nConsta de 3 habitaciones + 2 baños (1 en suite)\n125m2 + 70m2 de terraza solárium.",
+  "isAttic": true,
+  "meters": 195,
+  "rooms": 3,
+  "price": 2500,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 3,
+  "floor": 3,
+  "hasElevator": true,
+  "energyConsumption": "A",
+  "energyEmission": "A",
+  "exactCoordinates": true,
+  "latitude": 39.8391087,
+  "longitude": 3.1384455
+}

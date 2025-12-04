@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/30395308/",
+  "locationSlug": "la-missio-mercat",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Font i Monteros",
+  "description": "Se alquila espléndido piso señorial, totalmente exterior, en 2ª planta con ascensor. Muy luminoso y con mucho carácter. Se encuentra totalmente reformado, en pleno centro de Palma, cerca de la Plaza de los Patines y a un minuto de la Plaza España (con todas las conexiones posibles).\nEl piso dispone de unos 160 metros cuadrados distribuidos en: 3 amplias, dobles y exteriores habitaciones, todas ellas con armarios empotrados y decorados con bonitos espejos; 3 baños completos con ducha/bañera y mampara (dos de ellos en suite); cocina reformada y totalmente equipada, con salida a coladuría exterior; amplio comedor-salón con grandes cristaleras.\nEl piso se encuentra equipado con aire acondicionado por conducto frio/calor en todas las estancias, y con cerramientos de climalit. Contadores individuales\nEn el precio está incluida la comunidad. \nNo se admiten animales. Se solicita un mes de fianza más un mes de garantía adicional.",
+  "isAttic": false,
+  "meters": 160,
+  "rooms": 3,
+  "price": 1875,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación norte, este",
+    "Cocina equipada y casa sin amueblar",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 3,
+  "floor": 2,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.57577,
+  "longitude": 2.6492637
+}

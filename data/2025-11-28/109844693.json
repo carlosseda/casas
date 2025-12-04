@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/109844693/",
+  "locationSlug": "sant-agusti",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Sant Agustí",
+  "description": "Bienvenidos a este apartamento recién construido, ubicado en una espectacular comunidad que ofrece una amplia gama de comodidades de lujo. Este exclusivo complejo cuenta con una impresionante entrada, una bonita piscina, un amplio gimnasio, grandes trasteros de almacenamiento y plazas de aparcamiento asignadas. Para aquellos apasionados del mar, les aguarda una tranquila playa a solo unos minutos a pie, rodeada de encantadores restaurantes mediterráneos.\n\nAl entrar, se encontrará con una espaciosa zona de estar-comedor integrada de forma fluida con una cocina de concepto abierto, ideal para la vida moderna. El apartamento cuenta con dos dormitorios, cada uno con su propio baño en suite, garantizando privacidad y comodidad para los residentes. Lo que realmente distingue a esta propiedad son sus acabados impecables y una terraza de generosas dimensiones que ofrece vistas parciales al mar, un lugar perfecto para relajarse y disfrutar de una atmósfera tranquila.\n\nSe ofrecen contratos a largo plazo para aquellos que buscan una experiencia de vida exquisita. Para obtener más detalles o programar una visita, no dude en ponerse en contacto con nuestros dedicados agentes en First Mallorca.",
+  "isAttic": false,
+  "meters": 80,
+  "rooms": 2,
+  "price": 2900,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Trastero",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "yearBuilt": null,
+  "hasElevator": true,
+  "exactCoordinates": false,
+  "latitude": 39.5483475,
+  "longitude": 2.5956679
+}

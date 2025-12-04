@@ -1,0 +1,26 @@
+{
+  "url": "https://www.idealista.com/inmueble/106654441/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Santa Ponça",
+  "description": "Precioso apartamento con vistas al mar para los amantes del estilo mediterráneo en santa ponça. Esta propiedad amueblada cuenta con aproximadamente 150m2, distribuido en un espacioso salón - comedor abierto a la terraza con vistas panorámicas al mar, 4 habitaciones y 4 baños, siendo 1 de ellos en suite. Dispone de una amplia capacidad de almacenaje, además de tener una cocina completamente equipada, varías terrazas que te permiten sentir que estas navegando por el mar, y dos plazas de parking exteriores. La comunidad dispone de piscina y un amplio jardín.\nEstá oportunidad es perfecta para los amantes de la tranquilidad y de la brisa marina.\nSe alquila para la temporada.",
+  "isAttic": false,
+  "meters": 150,
+  "rooms": 4,
+  "price": 3500,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Aire acondicionado",
+    "Piscina",
+    "Vistas al mar"
+  ],
+  "bathrooms": 4,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 4,
+  "hasElevator": false,
+  "exactCoordinates": false,
+  "latitude": 39.493395,
+  "longitude": 2.4672909
+}

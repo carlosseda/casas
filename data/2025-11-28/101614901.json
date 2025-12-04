@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/101614901/",
+  "locationSlug": "foners",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle Ricard Ankerman, 50",
+  "description": "DISPONOBLE, 1 de enero 2026\nAPARTAMENTO NUEVO MUY CENTRICO.\n2 habitaciones con cama doble, balcon, 1 baño, cocina amueblada equipada completamente, mucha luz, muebles estilo nordico, muy soleado, \nnuevo, wifi, \ncerca del centro y del mar, ver fotos.",
+  "isAttic": false,
+  "meters": 85,
+  "rooms": 2,
+  "price": 1400,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Eléctrica"
+  ],
+  "bathrooms": 1,
+  "yearBuilt": null,
+  "floor": 2,
+  "hasElevator": true,
+  "energyConsumption": "E",
+  "energyEmission": "E",
+  "exactCoordinates": true,
+  "latitude": 39.5676928,
+  "longitude": 2.6612718
+}

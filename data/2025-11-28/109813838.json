@@ -1,0 +1,32 @@
+{
+  "url": "https://www.idealista.com/inmueble/109813838/",
+  "locationSlug": "llucmajor-interior",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de chalet adosado en Calle de Sant Antoni, 39",
+  "description": "**Casa / Chalet Adosado en Llucmajor\n\nDescubre esta encantadora casa de pueblo, una joya construida en 1900 y completamente reformada, que combina a la perfección el encanto de la arquitectura tradicional con las comodidades modernas. Con una superficie construida de 228 m² en una parcela de 238 m², esta vivienda de dos plantas cuenta con cinco amplios dormitorios y cuatro cuartos de baño completos, ideales para disfrutar de la comodidad y el espacio que siempre has deseado.\n\nAl entrar, serás recibido por un gran recibidor que da la bienvenida a los visitantes. La cocina, completamente amueblada y equipada con electrodomésticos, es perfecta para aquellos que disfrutan de la gastronomía. Además, la casa cuenta con despensa y lavandería para mayor funcionalidad. El salón, adornado con una acogedora chimenea, se convierte en el lugar ideal para relajarse en familia o con amigos.\nEstufa de pellet que te dará mayor confort en invierno.\n\nEl exterior no se queda atrás; un hermoso jardín y patio ofrecen un espacio perfecto para disfrutar del aire libre. La propiedad está equipada con calefacción y aire acondicionado, así como ventanas climalit que garantizan un confort óptimo durante todo el año. La seguridad está asegurada con una puerta reforzada y el garaje cuenta con acceso directo al jardín, facilitando aún más tu día a día.\n\nCon armarios empotrados y un trastero adicional, esta casa se adapta a todas tus necesidades. No pierdas la oportunidad de vivir en un entorno que combina historia y modernidad. ¡Contáctanos para más información y ven a conocer tu nuevo hogar!",
+  "isAttic": false,
+  "meters": 228,
+  "rooms": 5,
+  "price": 2400,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Chalet adosado",
+    "2 plantas",
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Eléctrica",
+    "Aire acondicionado",
+    "Jardín"
+  ],
+  "bathrooms": 4,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": true,
+  "latitude": 39.4925632,
+  "longitude": 2.8964507
+}

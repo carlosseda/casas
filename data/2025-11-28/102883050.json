@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/102883050/",
+  "locationSlug": "llucmajor-interior",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de finca rústica en Llucmajor Interior",
+  "description": "Preciosa finca rústica llena de carácter y encanto muy cerca de Llucmajor.\n\nEsta genuina casa mallorquina fue reformada para ser adaptada a las necesidades de hoy en día y combina las comodidades propias de una casa moderna con todo el encanto y originalidad de la construcción original. \n\nSe distribuye en 4 habitaciones dobles, todas ellas con baño en suite, dos en la planta piso y otras dos en la planta superior, una cocina amplia y un salón muy acogedor donde se concentra el carácter rústico de la casa. \n\nExteriormente encontramos una parcela muy bien cuidada, con zonas de jardín y una gran piscina con solarium, zona chill out, zona de barbacoa y una entrada en la que pueden estacionarse hasta 6 vehículos sin problema. \n\nLa casa tiene aire acondicionado con bomba de calor en todas las estancias y calefacción central por gasoil. \n\nLa propiedad se sitúa muy cerca del pueblo de Llucmajor, a tan solo 10 minutos del aeropuerto y a 5 minutos de los campos de golf de Son Antem y Maioris. \n\nDisponible desde noviembre hasta marzo.",
+  "isAttic": false,
+  "meters": 201,
+  "rooms": 4,
+  "price": 3200,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Finca rústica",
+    "Segunda mano/buen estado",
+    "Trastero",
+    "Orientación oeste",
+    "Aire acondicionado",
+    "Piscina",
+    "Lujo"
+  ],
+  "bathrooms": 4,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "yearBuilt": null,
+  "exactCoordinates": false,
+  "latitude": 39.4445846,
+  "longitude": 2.7611551
+}

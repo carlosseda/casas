@@ -1,0 +1,32 @@
+{
+  "url": "https://www.idealista.com/inmueble/107869734/",
+  "locationSlug": "el-terreno",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en El Terreno",
+  "description": "Se alquila este impecable apartamento de dos dormitorios y dos baños, donde la luz natural es la protagonista gracias a su altura. El salón con cocina abierta te invita a disfrutar de momentos únicos, mientras que la pequeña terraza se convierte en tu rincón privado. La finca, con portero físico y dos ascensores, garantiza tu tranquilidad. Refréscate en la piscina comunitaria y disfruta de la comodidad de tenerlo todo amueblado, con Split frío/calor y elegantes suelos de mármol. ¡Tu hogar ideal te espera!\nZona muy bien dotada de todos los servicios a su alcance, centro comercial Porto Pi, restaurantes, supermercados, farmacias, colegios, gimnasio, etc. \nPosibilidad de alquiler de plaza de aparcamiento. \n\nUbicado a escasos metros del paseo marítimo de Palma y del Club de Mar.\nSe deberán acreditar ingresos, nóminas y contrato fijo.\nEl precio de alquiler incluye los gastos comunitarios, IBI y alarma.\n\nPara concertar una visita puede contactar al Maricarmen.",
+  "isAttic": false,
+  "meters": 72,
+  "rooms": 2,
+  "price": 1500,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Calefacción individual",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín"
+  ],
+  "bathrooms": 2,
+  "yearBuilt": null,
+  "floor": 8,
+  "hasElevator": true,
+  "energyConsumption": "E",
+  "energyEmission": "E",
+  "exactCoordinates": false,
+  "latitude": 39.5590518,
+  "longitude": 2.625918
+}

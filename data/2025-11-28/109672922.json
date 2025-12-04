@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/109672922/",
+  "locationSlug": "llucmajor-interior",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de casa rural en Diseminado Sector 2, 375",
+  "description": "Acabada de renovar por completo está acogedora casa de campo tiene suelo radiante y apoya energía limpias como la solar, cocina y calefacción x gas, agua de lluvia va al aljibe de dos camiones de capacidad, puede optar x los muebles y comprarlos al inquilino anterior o traer sus nuevos muebles, \nPuedes tener caballos.\nOpción de tomar estudio aledaño de 35 m2\nImpuestos y mantenimiento a cargo de inquilino.\n2 meses de fianza.",
+  "isAttic": false,
+  "meters": 105,
+  "rooms": 2,
+  "price": 1995,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Casa rural",
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Amueblado y cocina equipada",
+    "Calefacción central: Gas",
+    "Jardín"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": true,
+  "latitude": 39.48981,
+  "longitude": 2.92682
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://www.idealista.com/inmueble/108228264/",
+  "locationSlug": "port-de-pollenca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Port de Pollença",
+  "description": "Vivir frente al mar en el Puerto de Pollença: tu refugio ideal todo el año\nImagina despertar cada día con el sonido del mar y unas vistas despejadas a la bahía desde tu propia terraza. Este encantador piso en primera planta, ubicado en primera línea del Puerto de Pollença, te ofrece exactamente eso: tranquilidad, luz natural y una conexión directa con el Mediterráneo.\n\nCon 70 m² bien distribuidos, dispone de dos dormitorios dobles con armarios empotrados, un baño completo, cocina independiente y un amplio salón comedor que se abre a una espectacular terraza, ideal para disfrutar del clima mallorquín.\n\nEl edificio cuenta con ascensor, piscina comunitaria, zona ajardinada y parking para residentes. Además, la vivienda está equipada con aire acondicionado y calefacción en todas las estancias, lo que garantiza confort en cualquier época del año.\n\nSe alquila para larga estancia y es perfecto para quienes buscan calidad de vida junto al mar, en una de las zonas más apreciadas del norte de la isla.",
+  "isAttic": false,
+  "meters": 70,
+  "rooms": 2,
+  "price": 2500,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación norte, este",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado",
+    "Piscina",
+    "Vistas al mar"
+  ],
+  "bathrooms": 1,
+  "floor": 1,
+  "hasElevator": true,
+  "energyConsumption": "D",
+  "energyEmission": "D",
+  "exactCoordinates": false,
+  "latitude": 39.9073548,
+  "longitude": 3.0834587
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.idealista.com/inmueble/109397643/",
+  "locationSlug": "camp-d-en-serralta",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Camp d'En Serralta",
+  "description": "Descubra este magnífico piso ubicado en una de las zonas más privilegiadas de Palma. Con impresionantes vistas al mar y al torrente, esta vivienda ofrece 5 amplias habitaciones y 3 baños, dos de ellos completamente reformados. La cocina es moderna y actual, ideal para los amantes de la gastronomía.\n\nDisfrute de una amplia terraza perfecta para relajarse o recibir invitados, suelos de parquet en excelente estado que aportan calidez y elegancia, y armarios empotrados en todas las habitaciones para una máxima funcionalidad.\n\nUna joya en el corazón de la ciudad, lista para entrar a vivir. Para cualquier consulta, no dude en escribirnos.",
+  "isAttic": false,
+  "meters": 209,
+  "rooms": 5,
+  "price": 3100,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Trastero",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 3,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 5,
+  "hasElevator": true,
+  "exactCoordinates": false,
+  "latitude": 39.5743128,
+  "longitude": 2.6397326
+}

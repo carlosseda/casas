@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/109722441/",
+  "locationSlug": "foners",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Avenida de Gabriel Alomar",
+  "description": "Fantástica vivienda de 140 m² completamente reformada, situada en una de las zonas más demandadas de Palma, a un paso del centro y muy cerca de El Corte Inglés.\n\nLa vivienda cuenta con 5 dormitorios (4 dobles y 1 individual), baño completo y aseo, y destaca por su gran luminosidad natural en todas las estancias.\n\nLa cocina está totalmente amueblada con muebles de diseño en blanco brillo sin tiradores, aportando un estilo moderno y elegante.\n\nDispone de suelos vinílicos, carpintería exterior de PVC nueva, aire acondicionado por splits en todas las habitaciones y calefacción por gas.\n\nAdemás, una de las habitaciones dispone de balcón, ideal para disfrutar del aire libre. El edificio cuenta con ascensor.\n\nCaracterísticas principales:\n\nSuperficie: 140 m²\n\n5 dormitorios (4 dobles + 1 individual)\n\n1 baño completo y 1 aseo\n\nCocina nueva y amueblada\n\nSuelos vinílicos\n\nCarpintería exterior de PVC nueva\n\nAire acondicionado por split en todas las estancias\n\nCalefacción por gas\n\nBalcón\n\nEdificio con ascensor\n\nZona céntrica, cerca de transporte público y todos los servicios\n\nUna vivienda moderna, luminosa y lista para estrenar en pleno corazón de Palma.",
+  "isAttic": false,
+  "meters": 153,
+  "rooms": 5,
+  "price": 2200,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Cocina equipada y casa sin amueblar",
+    "Calefacción individual: Gas natural",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 160,
+  "floor": 2,
+  "hasElevator": false,
+  "energyConsumption": "F",
+  "energyEmission": "F",
+  "exactCoordinates": false,
+  "latitude": 39.5716619,
+  "longitude": 2.6585967
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://www.idealista.com/inmueble/104107675/",
+  "locationSlug": "el-terreno",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en El Terreno",
+  "description": "Alquiler. Piso con vistas al mar y piscina comunitaria en zona de Paseo Marítimo. Este piso tiene una superficie de unos 130m2 aproximadamente y consta de un salón comedor, cocina amueblada y equipada con office, coladuria, 4 habitaciones, armarios empotrados, 3 baños (1 en suite), suelos de mármol, climalit, aire acondicionado frío/calor, terraza de 25m2 aprox. , piscina comunitaria, vistas al mar, 2 plazas de garaje incluidas. La vivienda se alquila sin muebles.",
+  "isAttic": false,
+  "meters": 130,
+  "rooms": 4,
+  "price": 3150,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Cocina equipada y casa sin amueblar",
+    "Aire acondicionado",
+    "Piscina",
+    "Vistas al mar",
+    "Lujo"
+  ],
+  "bathrooms": 3,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 2,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5617756,
+  "longitude": 2.6266994
+}

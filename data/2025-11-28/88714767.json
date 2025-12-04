@@ -1,0 +1,32 @@
+{
+  "url": "https://www.idealista.com/inmueble/88714767/",
+  "locationSlug": "manacor-centro",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de finca rústica en Carretera Ses Pedreres s/n",
+  "description": "Bonita casita en el campo, zona de Manacor, situada a 6 kms. del pueblo.\nCasa apta solo para personas que deseen tranquilidad completa, lejos de ruidos.",
+  "isAttic": false,
+  "meters": 75,
+  "rooms": 2,
+  "price": 1700,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Finca rústica",
+    "1 planta",
+    "Terraza",
+    "Chimenea",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación este",
+    "Amueblado y cocina equipada",
+    "No dispone de calefacción",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín"
+  ],
+  "bathrooms": 1,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": true,
+  "latitude": 39.5666749,
+  "longitude": 3.1832293
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/109620783/",
+  "locationSlug": "foners",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle General Ricardo Ortega",
+  "description": "Piso en zona Palacio de congresos de 130m/2 a pocos metros del paseo Marítimo. Recibidor, salón comedor con amplio balcón, cocina amueblada y equipada office con electrodomésticos a estrenar, galería, tres dormitorios, armario empotrado y dos baños completos ( 1 Suite ) a estrenar. Buenas calidades. Aire acondicionado f/c. Muy despejado y soleado. Precio alquiler con gastos de comunidad incluidos y alarma 1750€. Inmobiliaria Rolhouse. Por favor contacten por mail dando una breve descripción laboral. NO ATENDEREMOS LLAMADAS.",
+  "isAttic": false,
+  "meters": 130,
+  "rooms": 3,
+  "price": 1750,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Orientación sur",
+    "Cocina equipada y casa sin amueblar",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "yearBuilt": null,
+  "floor": 3,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5673007,
+  "longitude": 2.6638518
+}

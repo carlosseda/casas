@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/108965378/",
+  "locationSlug": "portals-nous",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Calle Benito Jerónimo Feijóo, 1",
+  "description": "Desde septiembre.\nEste apartamento, bellamente renovado con un estilo lujoso, se encuentra en la popular comunidad Apartamentos del Mar, justo en el puerto de Puerto Portals.\nEl apartamento destaca por su diseño moderno y luminosidad, con una cocina de ensueño y una terraza con vistas al mar.\n3 dormitorios, 3 baños y totalmente equipado.\nPiscina comunitaria con acceso directo al puerto. La playa está a 5 minutos a pie.\n\nCalefacción por suelo radiante en los baños y aire acondicionado en todas las habitaciones.\nNo incluye plaza de aparcamiento.\n\nTodas las fotos disponibles bajo petición. Se pueden realizar visitas en cualquier momento.",
+  "isAttic": false,
+  "meters": 107,
+  "rooms": 3,
+  "price": 4000,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "No dispone de calefacción",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín",
+    "Vistas al mar"
+  ],
+  "bathrooms": 3,
+  "floor": 6,
+  "hasElevator": true,
+  "exactCoordinates": true,
+  "latitude": null,
+  "longitude": null
+}

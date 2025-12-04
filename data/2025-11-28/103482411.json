@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/103482411/",
+  "locationSlug": "port-de-pollenca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de casa o chalet independiente en Calle de Roger de Llúria, 26 , bajos C",
+  "description": "Alquila x semanas/meses una fabulosa planta baja de dos habitaciones (1 cama doble y 2 individuales) en zona tranquila, pero a 5 minutos del ambiente del centro y de la playa. Totalmente reformado y equipado. Aire acondicionado y suelo radiante en toda la casa. Internet. Con acogedora terraza de 20m2 con porche para disfrutar horas de relax. Sólo alquiler temporal. Abstenerse larga estancia. Precio según el mes.",
+  "isAttic": false,
+  "meters": 73,
+  "rooms": 2,
+  "price": 1800,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Casa o chalet independiente",
+    "1 planta",
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación norte, este, oeste",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 1,
+  "energyConsumption": "E",
+  "energyEmission": "E",
+  "exactCoordinates": true,
+  "latitude": 39.9064677,
+  "longitude": 3.0779308
+}

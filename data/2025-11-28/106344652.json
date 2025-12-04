@@ -1,0 +1,33 @@
+{
+  "url": "https://www.idealista.com/inmueble/106344652/",
+  "locationSlug": "port-d-alcudia-platja-d-alcudia",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de chalet pareado en Calle Mirador",
+  "description": "Chalet Mirador 3A, se alquila durante los meses de invierno. Desde el mes de Noviembre hasta el mes de Abril incluido. En la planta baja un dormitorio con cama de matrimonio, baño con ducha, cocina independiente completamente amueblada y equipada. Salón comedor con chimenea y con acceso a la terraza, piscina y barbacoa. En la primera planta dos habitaciones una de ellas con cama de matrimonio con acceso a la terraza con vistas a la Bahia de Alcudia, la tercera habitación con dos camas individuales con un pequeño balcón. Garaje y coladuria. Aire acondicionado frio/calor en todas las estancias. Luz y Agua no están incluidos en el precio.",
+  "isAttic": false,
+  "meters": 185,
+  "rooms": 3,
+  "price": 2500,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Chalet pareado",
+    "2 plantas",
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín",
+    "Vistas al mar"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.8354189,
+  "longitude": 3.1508922
+}

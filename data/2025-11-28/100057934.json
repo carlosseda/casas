@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/100057934/",
+  "locationSlug": "cala-figuera",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de ático en Calle Tomarinar",
+  "description": "DISPONIBLE DEL 15 DE ENERO 2026\nEl piso esta ubicado en el pueblo pesquero de Cala Figuera a unos 60 km del aeropuerto de Palma de Mallorca. Cala Figuera es famosa por su pequeño puerto y milla con restaurantes con vistas espectaculares sobre toda la bahía. El pueblo ofrece varios restaurantes, dos pequeños supermercados (uno de ellos enfrente del piso con una pequeña cafetería), una farmacia y bares. \n\nEl piso se caracteriza por sus espectaculares vistas al mar que llegan incluso hasta el faro de Cala Figuera. Sus 100 m2 se distribuyen en 3 dormitorios con camas dobles y armarios empotrados, 2 baños (uno de ellos con bañera y jacuzzi, uno con plato de ducha), una amplia sala de estar con acceso directo a una terraza de 12 m2 con vistas al mar y equipada con tumbonas y muebles de exterior. La cocina es independiente y accesible desde la sala de estar, está totalmente equipada con horno, vitro cerámica, y nevera. Se incluye en el precio una plaza de parking subterránea. \n\nSe busca inquilino responsable, preferiblemente una pareja. Se piden referencias, contrato de trabajo o justificante de ingresos. \n\nLlámanos hoy para concertar una cita y conocer las instalaciones. \n\nCondiciones de alquiler:\nPeríodo de alquiler TODO EL AÑO. \n1,5 meses de deposito.",
+  "isAttic": true,
+  "meters": 105,
+  "rooms": 3,
+  "price": 1500,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur, este",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 2,
+  "floor": 3,
+  "hasElevator": false,
+  "exactCoordinates": false,
+  "latitude": 39.3269577,
+  "longitude": 3.1722576
+}

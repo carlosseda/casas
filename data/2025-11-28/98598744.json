@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/98598744/",
+  "locationSlug": "portals-nous",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Portals Nous",
+  "description": "DISPONIBLE HASTA FINALES DE JUNIO 2026\n\nEste apartamento de 3 dormitorios muy bien cuidado y reformado se encuentra en la primera planta de esta popular urbanización de apartamentos con acceso directo al puerto deportivo y a la playa.\n\nAl entrar en la propiedad se encuentra el pasillo que da acceso a cada habitación individual del apartamento. El gran salón principal está unido a la cocina abierta y tiene acceso directo a su terraza con una mesa y una zona de estar con vistas a la piscina, al jardín y al puerto deportivo.\n\nEl dormitorio principal tiene una cama doble con una puerta corredera a la terraza cubierta. El otro dormitorio al que se accede desde un pasillo interno alejado de la zona de estar tiene 2 camas individuales con una ventana. En el pasillo también tiene los dos baños separados.\n\nHay importantes jardines comunitarios y una gran piscina. N. B. El apartamento, con servicio de ascensores.",
+  "isAttic": false,
+  "meters": 84,
+  "rooms": 3,
+  "price": 2600,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Eléctrica",
+    "Piscina",
+    "Jardín"
+  ],
+  "bathrooms": 2,
+  "floor": 1,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": null,
+  "longitude": null
+}

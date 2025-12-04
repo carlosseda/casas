@@ -1,0 +1,33 @@
+{
+  "url": "https://www.idealista.com/inmueble/108193699/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Calle de Chopin, 5",
+  "description": "Apartamento amueblado en elegante complejo en Nova Santa Ponsa\nEste moderno apartamento de 2 dormitorios está situado en una de las residencias más bonitas de Nova Santa Ponsa. El apartamento amueblado de alta calidad se divide en una zona de entrada con cocina abierta y sala de estar, un dormitorio principal con baño en suite y un dormitorio de invitados con baño y bañera separados.\nDe especial interés es el espacioso balcón cubierto con toldos, orientado al suroeste, que ofrece una agradable sombra incluso en los calurosos días de verano. El balcón ofrece una hermosa vista sobre la piscina comunitaria, el jardín bien cuidado y en parte sobre el mar.\nEl apartamento, completamente amueblado, es accesible desde el aparcamiento subterráneo mediante ascensor sin escalones ni escaleras y tiene una superficie total útil de 95 m² (83 m² de los cuales son habitables, más una terraza cubierta de 12 m²). Desde aquí se puede disfrutar de una maravillosa vista de la residencia bien cuidada, la hermosa piscina y un poco del mar. \nLa cocina NOLTE totalmente equipada con electrodomésticos nuevos está perfectamente integrada en la sala de estar y comedor abierto. El alquiler también incluye una plaza de aparcamiento privada y un trastero en el garaje subterráneo.\nEl complejo residencial cuenta con dos piscinas comunitarias bien mantenidas y se encuentra a poca distancia de varios restaurantes, así como de la playa y el puerto de Port Adriano, conocido por sus exclusivos restaurantes, actividades de ocio como escuelas de buceo y vela, y su ambiente elegante. A varios campos de golf de renombre se puede llegar en pocos minutos en coche. \nOtras características de esta propiedad incluyen: aire acondicionado frío/calor, calefacción por suelo radiante eléctrico en los baños, aparcamiento subterráneo, dos piscinas comunitarias y una ubicación tranquila pero céntrica.\nGracias a su óptima infraestructura con la cercana ciudad cultural de Palma y su aeropuerto internacional, su impresionante paisaje y su exclusiva zona residencial, Santa Ponsa se ha convertido en una de las zonas residenciales más populares del suroeste de Mallorca. La zona residencial de Nova Santa Ponsa con sus tres campos de golf también ofrece una amplia gama de opciones para adaptarse a las diversas necesidades de los golfistas apasionados. Ideal para jugadores de tenis y pádel, aquí también se encuentra el popular Santa Ponsa Country Club, considerado un lugar de encuentro de la alta sociedad de la isla. Combinado con las playas de arena y la proximidad directa al exclusivo y animado puerto deportivo de Port Adriano con sus restaurantes y boutiques, Santa Ponsa ofrece un estilo de vida mediterráneo único en Mallorca.",
+  "isAttic": false,
+  "meters": 95,
+  "rooms": 2,
+  "price": 2400,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Trastero",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín",
+    "Vistas al mar"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 1,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": true,
+  "latitude": 39.4957695,
+  "longitude": 2.4774742
+}

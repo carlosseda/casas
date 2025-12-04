@@ -1,0 +1,26 @@
+{
+  "url": "https://www.idealista.com/inmueble/109133456/",
+  "locationSlug": "cala-figuera",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de casa o chalet independiente en Cala Figuera",
+  "description": "DISPONIBLE A PARTIR DE ENERO 2026\nEsta casa de campo está situada en el Parque Natural de Mondragó, a sólo 10 minutos a pie de la playa de S'Amarador y a 10 minutos en coche de Santanyí.\nLa casa tiene 150 m² de vivienda más un porche de 90 m², todo en una sola planta, y un jardín de 500 m². Está situada en una zona residencial, a 900 metros de la playa de S'Amarador (parte del Parque Natural de Mondragó) y a 6 km del pueblo de Santanyí.\nLa propiedad incluye cuatro dormitorios dobles, dos baños (uno de ellos en suite), cocina, comedor, salón con chimenea, una terraza solarium de 90 m² con vistas a la montaña, un gran trastero y calefacción.",
+  "isAttic": false,
+  "meters": 150,
+  "rooms": 4,
+  "price": 2200,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Casa o chalet independiente",
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Trastero",
+    "Amueblado y cocina equipada",
+    "Jardín"
+  ],
+  "bathrooms": 2,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.342698,
+  "longitude": 3.1841521
+}

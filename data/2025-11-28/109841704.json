@@ -1,0 +1,26 @@
+{
+  "url": "https://www.idealista.com/inmueble/109841704/",
+  "locationSlug": "port-de-pollenca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Port de Pollença",
+  "description": "Encantador apartamento de dos dormitorios en alquiler a largo plazo en Puerto Pollensa\n\nEste luminoso y acogedor apartamento de dos dormitorios está perfectamente situado en el corazón de Puerto Pollensa, a pocos pasos de la playa, restaurantes y servicios locales.\n\nEl apartamento se alquila por un periodo de 11 meses.\n\nLa propiedad ofrece una cómoda distribución con dos dormitorios dobles, un baño y un salón-comedor de planta abierta que conecta con una pequeña terraza privada, ideal para disfrutar de la brisa mediterránea. El apartamento viene completamente amueblado y está listo para entrar a vivir, ofreciendo un ambiente hogareño acogedor durante todo el año.\n\nDisponible para alquiler a largo plazo (11 meses), esta propiedad es una excelente opción para aquellos que buscan disfrutar del relajado estilo de vida de Puerto Pollensa en una ubicación cómoda y tranquila.",
+  "isAttic": false,
+  "meters": 75,
+  "rooms": 2,
+  "price": 1500,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Amueblado y cocina equipada",
+    "No dispone de calefacción",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 1,
+  "yearBuilt": null,
+  "floorOrientation": "exterior",
+  "hasElevator": true,
+  "exactCoordinates": false,
+  "latitude": 39.9074326,
+  "longitude": 3.0781671
+}

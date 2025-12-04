@@ -1,0 +1,5 @@
+## Orden de ejecución
+
+1. scrapping.js
+2. store-chromadb.js
+3. store-neo4j.js

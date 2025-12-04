@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/109696968/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Calle Gran Via Illa Espalmador",
+  "description": "¡Descubre el hogar de tus sueños en este espectacular piso en alquiler! Disponible desde noviembre de 2025 hasta marzo de 2026, este apartamento de 169 m² construidos ofrece unas impresionantes vistas panorámicas al mar Mediterráneo y a las majestuosas montañas. Con un diseño moderno, cuenta con dos acogedores dormitorios y dos baños, uno de ellos en suite, perfectos para disfrutar de la máxima comodidad.\n\nLa cocina de alta calidad está completamente equipada, ideal para los amantes de la gastronomía. Además, la calefacción por suelo radiante y el aire acondicionado garantizan un ambiente agradable durante todo el año. Imagina relajarte en la piscina comunitaria mientras contemplas el horizonte marino; un lujo al alcance de tu mano.\n\nUbicado cerca del exclusivo puerto de Port Adriano y a solo 20 minutos de Palma, este piso también está rodeado de prestigiosos campos de golf, perfecto para los aficionados al deporte. \nEl precioo de november hasta el 18 de diciembre es de 2500 €. Despues del 3 de enero hasta fin de marzo, el precio será de 3100€/mes\nNo pierdas la oportunidad de vivir en un lugar donde el confort, el estilo y las vistas impresionantes se combinan a la perfección. ¡Contacta ahora para más información y asegura tu visita!",
+  "isAttic": false,
+  "meters": 169,
+  "rooms": 2,
+  "price": 2500,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Amueblado y cocina equipada",
+    "Piscina",
+    "Vistas al mar"
+  ],
+  "bathrooms": 2,
+  "floor": 2,
+  "hasElevator": false,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5025653,
+  "longitude": 2.46645
+}

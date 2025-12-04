@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/82495363/",
+  "locationSlug": "portals-nous",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Portals Nous",
+  "description": "Bendinat-Apartamento bien mantenido 50m de la playa.\n\nEste apartamento recientemente renovado de 80m² se encuentra en una zona muy bien cuidada, \n\na poca distancia de la playa de Bendinat y a solo 3 minutos de Portals Nous.\nSala de estar con cocina abierta, 2 dormitorios y 1 baños, magnífica terraza con vistas al mar, aparcamiento en frente de la puerta, ascensor y piscina comunitaria.\n Esta libre 1.10. 2025 Alquiler 2450€ y gastos. 1,5 Deposit.\nPublicación por favor por escrito.",
+  "isAttic": false,
+  "meters": 80,
+  "rooms": 2,
+  "price": 2450,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín",
+    "Vistas al mar"
+  ],
+  "bathrooms": 1,
+  "floor": 2,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": null,
+  "longitude": null
+}

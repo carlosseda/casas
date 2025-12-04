@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/109675901/",
+  "locationSlug": "les-maravelles",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de chalet pareado en Calle de la Mar Negra",
+  "description": "Se alquila casa en zona el Arenal, las Maravillas desde 1 de NOVIEMBRE hasta 30 de ABRIL 2026.\nCasa de dos plantas con gran terraza. Tiene cuatro habitaciones y dos baños completos. Cocina totalmente equipada. Salón comedor con chimenea. Calefacción central. A 10 min del aeropuerto y a 2 minutos andando de la playa Zona fácil de aparcar. Gastos de luz, agua y gas son a parte. Se requiere demostrar solvencia y se pide 1 mes y medio de depósito.",
+  "isAttic": false,
+  "meters": 180,
+  "rooms": 3,
+  "price": 1750,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Chalet pareado",
+    "2 plantas",
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación oeste",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "energyConsumption": "D",
+  "energyEmission": "E",
+  "exactCoordinates": false,
+  "latitude": 39.5199712,
+  "longitude": 2.7424208
+}

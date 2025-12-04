@@ -1,0 +1,32 @@
+{
+  "url": "https://www.idealista.com/inmueble/102514882/",
+  "locationSlug": "foners",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Foners",
+  "description": "Fantástica Vivienda en 5ª planta de 168 m2 construidos, ubicada en el Levante de Palma, zona actualmente en auge inmobiliario, especialmente por su cercanía al mar y sus nuevas edificaciones que mejoran los servicios del área. Ofrece amplias vistas frontales al Parque Krekovic. Todo exterior, muy luminoso. Dispone de gran Salón-Comedor de 39 m2 con acceso a la terraza delantera de 8 m2, 5 Dormitorios (4 dobles, 1 individual), dos baños completos y un aseo de cortesía, cocina de 20m2 completamente equipada con mobiliario y electrodomésticos, con acceso a coladuría. La habitación principal, con una superficie de unos 13m2, dispone además de baño en suite y amplio vestidor. Las habitaciones disponen de armario empotrado forrado. Suelos de mármol, ventanas con cristaleras de climalit, carpintería norte, calefacción. Posibilidad de parking en la finca.",
+  "isAttic": false,
+  "meters": 168,
+  "rooms": 5,
+  "price": 2950,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Orientación este",
+    "Cocina equipada y casa sin amueblar",
+    "Calefacción individual: Gas natural"
+  ],
+  "bathrooms": 3,
+  "parking": true,
+  "parkingMonthPrice": 109,
+  "yearBuilt": null,
+  "floor": 5,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5685315,
+  "longitude": 2.6641132
+}

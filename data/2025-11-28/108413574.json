@@ -1,0 +1,26 @@
+{
+  "url": "https://www.idealista.com/inmueble/108413574/",
+  "locationSlug": "camp-d-en-serralta",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Camp d'En Serralta",
+  "description": "Apartamento con parking y trastero en alquiler en Paseo Mallorca\nExclusivo apartamento con parking y trastero en alquiler de larga duración en un innovador conjunto residencial en Paseo Mallorca, en pleno corazón de la ciudad de Palma. La vivienda cuenta con 3 habitaciones, una de ellas con baño en suite, además de otro baño completo y un aseo adicional. Además, ofrece un amplio salón comedor con cocina integrada con electrodomésticos Miele, zona de lavandería con lavadora y secadora. Con materiales naturales y acabados de alta calidad como madera de nogal francés, suelos de roble y piedra natural de Binisalem, el apartamento transmite un estilo mediterráneo y contemporáneo único. Se encuentra en un edificio que incluye un patio interior ajardinado, una zona verde con cascada que refresca el ambiente, un spa, gimnasio y piscina interior climatizada. El edificio que destaca por su arquitectura sostenible, está diseñado según los estándares Passivhaus, reduce en un 90% la necesidad de climatización, ofreciendo un coste energético muy bajo. La fachada, compuesta por paneles móviles de madera, crea un juego de luces y sombras, optimizando la captación solar durante todo el año. Es un oasis urbano que une confort, sostenibilidad y diseño exclusivo.",
+  "isAttic": false,
+  "meters": 152,
+  "rooms": 3,
+  "price": 5200,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Piscina"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "yearBuilt": null,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5738611,
+  "longitude": 2.6445195
+}

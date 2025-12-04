@@ -1,0 +1,33 @@
+{
+  "url": "https://www.idealista.com/inmueble/109863048/",
+  "locationSlug": "les-maravelles",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de chalet adosado en Les Maravelles",
+  "description": "A continuación, les presentamos un chalet adosado en alquiler en la urbanización de Sometimes, ubicado a tan solo 400 metros del mar.\n\nLa propiedad, distribuida en diferentes alturas, cuenta con planta baja y primer piso. En la planta baja, se ubica la cocina, con zona de lavandería, un aseo, el salón-comedor con chimenea y una bonita terraza de aproximadamente 50 m². En el primer piso, encontramos las tres habitaciones con las que cuenta la propiedad, todas ellas con armarios empotrados, y dos baños, uno de ellos en suite.\n\nTodas las estancias de la casa cuentan con bombas de AC frío/calor.\n\nAdemás, cuenta con plaza de aparcamiento exterior, garaje con capacidad para un vehículo y dos trasteros.\n\nInformación adicional: Los gastos de suministros y tasa de basuras correrán a cargo de los arrendatarios. Se deberá entregar un mes de fianza legal y un mes de garantía complementaria.\n\nNo duden en contactar para más información.",
+  "isAttic": false,
+  "meters": 120,
+  "rooms": 3,
+  "price": 1850,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Chalet adosado",
+    "2 plantas",
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Orientación norte, sur, este, oeste",
+    "Cocina equipada y casa sin amueblar",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado",
+    "Jardín"
+  ],
+  "bathrooms": 3,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5235007,
+  "longitude": 2.7400141
+}

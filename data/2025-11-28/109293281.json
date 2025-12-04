@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/109293281/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de casa o chalet en Calle Gran Via Illa Espalmador",
+  "description": "Esta elegante villa, con aproximadamente 350 m2 de espacio habitable, se encuentra en la popular zona suroeste de Mallorca.\n\nCuenta con un total de 350 m2 de espacio habitable, 4 dormitorios en suite y capacidad para hasta 8 personas más 1 niño pequeño. Los elementos de diseño de la villa están hechos de materiales sostenibles y naturales, y recuerdan una combinación entre la arquitectura clásica mediterránea de antaño y la modernidad actual.\n\nLa propiedad está equipada con la tecnología más avanzada y muchos extras, como aire acondicionado, calefacción por suelo radiante, televisión alemana, una piscina privada y un jardín que se asemeja a un pequeño oasis.\n\nEn resumen, la villa ofrece una escapada perfecta para disfrutar de unas vacaciones lejos del bullicio, en una zona residencial privilegiada. Campos de golf, buenos restaurantes, la mejor atención médica, así como playas y las populares marinas de Port Adriano y Puerto Portals se encuentran en las inmediaciones.",
+  "isAttic": false,
+  "meters": 350,
+  "rooms": 4,
+  "price": 13000,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Casa o chalet",
+    "2 plantas",
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín",
+    "Lujo"
+  ],
+  "bathrooms": 4,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "exactCoordinates": false,
+  "latitude": 39.5037768,
+  "longitude": 2.4644302
+}

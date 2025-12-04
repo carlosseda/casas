@@ -1,0 +1,25 @@
+{
+  "url": "https://www.idealista.com/inmueble/109559972/",
+  "locationSlug": "port-de-pollenca",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Calle de Temple Fielding, 5",
+  "description": "Piso de 148 m² construidos en segunda línea de mar, ideal para disfrutar de la vida costera. Con un luminoso salón comedor que se abre a un magnífico balcon, este espacio es perfecto para relajarse y contemplar las vistas. Además, cuenta con un segundo balcón lateral.\n\nLa cocina, completamente equipada y amueblada, cuenta con una despensa para mas almacrnaje. Este piso ofrece tres amplios dormitorios dobles con armarios empotrados.\n\nCuenta baño completo y un aseo. Dispone de una terraza comunitaria en la azotea, donde podrás admirar las espectaculares vistas de la bahía de Pollença. Ubicado en una tercera planta de un edificio tranquilo este apartamento garantiza privacidad y tranquilidad.\n\n No dejes pasar la ocasión de vivir en este maravilloso ático, donde cada día será una experiencia inolvidable. ¡Contáctanos para más información y ven a conocer tu nuevo hogar!",
+  "isAttic": false,
+  "meters": 148,
+  "rooms": 3,
+  "price": 1850,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "floor": 3,
+  "hasElevator": true,
+  "exactCoordinates": true,
+  "latitude": 39.9030127,
+  "longitude": 3.0797119
+}

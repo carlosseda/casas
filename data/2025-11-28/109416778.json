@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/109416778/",
+  "locationSlug": "el-terreno",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Avenida de Gabriel Roca, 33",
+  "description": "Se alquila precioso apartamento con dormitorio, salón, comedor, cocina, cuarto de baño con ducha y balcón. Totalmente renovado. Parqué, aire acondicionado, ventanas de doble acristalamiento. Totalmente ameublado. A estrenar.\nVistas al puerto de Palma. Se ruega a las agencias que se abstengan.",
+  "isAttic": false,
+  "meters": 65,
+  "rooms": 1,
+  "price": 2150,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Eléctrica",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 1,
+  "floor": 1,
+  "hasElevator": false,
+  "exactCoordinates": true,
+  "latitude": 39.5624607,
+  "longitude": 2.6268227
+}

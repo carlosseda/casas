@@ -1,0 +1,25 @@
+{
+  "url": "https://www.idealista.com/inmueble/97358343/",
+  "locationSlug": "portals-nous",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Carretera vella",
+  "description": "ALQUILER DE TEMPORADA (Max 11 meses)\nDisponible a partir de 1/12/2025\n\nEste bonito piso se encuentra ubicado en el centro de Portals Nous. La vivienda es una tercera planta con ascensor ideal por su comodidad, la cual ofrece 70m² distribuidos en un luminoso salón, una cocina totalmente equipada, una habitación, un baño y una plaza de parking incluido en el precio de alquiler.\n\nLa propiedad se encuentra ubicada a escasos metros de la playa de Portals, lo que conecta perfecto con los restaurantes, farmacias y los bancos entre otros.\n\nImprescindible referencias de solvencia económica.",
+  "isAttic": false,
+  "meters": 70,
+  "rooms": 1,
+  "price": 1300,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "No dispone de calefacción"
+  ],
+  "bathrooms": 1,
+  "floor": 3,
+  "hasElevator": true,
+  "energyConsumption": "D",
+  "energyEmission": "E",
+  "exactCoordinates": false,
+  "latitude": null,
+  "longitude": null
+}

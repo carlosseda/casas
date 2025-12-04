@@ -1,0 +1,31 @@
+{
+  "url": "https://www.idealista.com/inmueble/109796535/",
+  "locationSlug": "port-d-alcudia-platja-d-alcudia",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle de l'Estornell",
+  "description": "En Carrer de l’Estornell, 4 (Alcúdia) se encuentra este encantador piso de 56 m²listo para entrar a vivir. Un espacio luminoso, cómodo y bien aprovechado, perfecto para quienes buscan tranquilidad y vida mediterránea sin renunciar a los servicios de la zona.\n\nEl piso cuenta con una habitación amplia y climatizada equipada con aire acondicionado y radiadores eléctricos para disfrutar del máximo confort todo el año. El baño completo con bañera ofrece un espacio relajante y funcional, ideal tanto para uso diario como para largas estancias.\n\nLa cocina totalmente equipada con frigorífico, lavadora y menaje básico se integra de forma práctica con el resto de la vivienda. Todo está amueblado con gusto, pensado para llegar y sentirse en casa desde el primer día.\n\nUno de los grandes atractivos de este piso son sus dos terrazas privadas perfectas para desayunar al sol, leer tranquilamente o disfrutar de una cena al aire libre. Además, el edificio dispone de una piscina comunitaria rodeada de zonas tranquilas, ideal para refrescarse en verano o relajarse después de una jornada de trabajo.\n\nEl entorno ofrece fácil aparcamiento exterior y una ubicación inmejorable: en una zona tranquila de Alcudia, cerca de supermercados, servicios y a pocos minutos de las playas más bonitas del norte de Mallorca. Vivir aquí significa disfrutar de la calma, la luz y el mar.",
+  "isAttic": false,
+  "meters": 58,
+  "rooms": 1,
+  "price": 975,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur, este",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín"
+  ],
+  "bathrooms": 1,
+  "floor": 2,
+  "hasElevator": false,
+  "energyConsumption": "D",
+  "energyEmission": "D",
+  "exactCoordinates": false,
+  "latitude": 39.8376028,
+  "longitude": 3.1165791
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/108801249/",
+  "locationSlug": "port-de-pollenca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de dúplex en Port de Pollença",
+  "description": "Dúplex en alquiler de larga estancia en primera línea de mar\n\nSe alquila espectacular dúplex en primera línea, ideal para quienes buscan vivir con vistas impresionantes al mar.\n\nCaracterísticas:\n\nDos plantas, diseño cómodo y funcional.\n\n2 dormitorios dobles, uno de ellos con impresionantes vistas al mar.\n\nGran baño con plato de ducha en la planta superior.\n\nAseo adicional en la primera planta.\n\nLuminoso salón-comedor con acceso a una amplia terraza con vistas panorámicas.\n\nCocina abierta, moderna y equipada.\n\nDisfruta de la tranquilidad y belleza del mar desde tu propio hogar. ¡Contáctanos para más información o para concertar una visita!",
+  "isAttic": false,
+  "meters": 170,
+  "rooms": 2,
+  "price": 2500,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Trastero",
+    "Cocina sin equipar y casa sin amueblar",
+    "Calefacción individual: Eléctrica",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 1,
+  "yearBuilt": null,
+  "floorOrientation": "exterior",
+  "hasElevator": false,
+  "exactCoordinates": false,
+  "latitude": 39.9054635,
+  "longitude": 3.0800918
+}

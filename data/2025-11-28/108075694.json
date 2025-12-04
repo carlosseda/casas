@@ -1,0 +1,32 @@
+{
+  "url": "https://www.idealista.com/inmueble/108075694/",
+  "locationSlug": "portocolom",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de ático en Calle del Bergantí",
+  "description": "DISPONIBLE A PARTIR DEL 1/03/2026.\n\nBonito Penthouse con vistas al mar, jardin y piscina comunitarios en Porto Colom\n\nINFORMACIÓN BÁSICA\nestancias 4\ncocina\nsalón - comedor\ndormitorios 3\nde ellos dormitorios dobles 3\nbaños 2\nde ellos baños en suite 1\njardín comunitario\nterraza\ncomo nuevo\n\nEQUIPAMIENTO\nsin amueblar\naire acondicionado4\nestufa de leña\npiscina comunitaria\nazotea privada\nventanas de PVC\ndoble acristalamiento\nascensor\n\nTÉRMINOS Y CONDICIONES\nComisión agencia: 1,5 mensualidades + IVA\nFianza: 2 mensualidades\nmascotas a consultar.",
+  "isAttic": true,
+  "meters": 190,
+  "rooms": 3,
+  "price": 1800,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Cocina equipada y casa sin amueblar",
+    "Calefacción central",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín",
+    "Vistas al mar"
+  ],
+  "bathrooms": 2,
+  "floor": 2,
+  "hasElevator": true,
+  "energyConsumption": "D",
+  "energyEmission": "D",
+  "exactCoordinates": false,
+  "latitude": null,
+  "longitude": null
+}

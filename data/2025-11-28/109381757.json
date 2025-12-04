@@ -1,0 +1,33 @@
+{
+  "url": "https://www.idealista.com/inmueble/109381757/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle de Chopin, 6",
+  "description": "TRATO DIRECTO CON EL PROPIETARIO PARA EVITAR COMISIONES. NO SE SOLICITA AGENCIA. Apartamento privado en zona tranquila y codiciada cerca de Santa Ponsa y Port Adriano. Ubicado en planta baja, con porche y jardín privados, el apartamento tiene acceso a los hermosos jardines comunitarios con una gran piscina estilo laguna. El apartamento cuenta con dos amplios dormitorios uno con baño en suite. Amplio salón-comedor y cocina totalmente equipada. Incluye una plaza de garaje subterránea y un trastero.",
+  "isAttic": false,
+  "meters": 120,
+  "rooms": 2,
+  "price": 2500,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Orientación sur",
+    "Cocina equipada y casa sin amueblar",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 0,
+  "hasElevator": true,
+  "energyConsumption": "E",
+  "energyEmission": "E",
+  "exactCoordinates": true,
+  "latitude": 39.4959196,
+  "longitude": 2.4761156
+}

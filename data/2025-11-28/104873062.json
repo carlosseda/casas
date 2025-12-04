@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/104873062/",
+  "locationSlug": "foners",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle Ricard Ankerman, 54",
+  "description": "Apartamento nuevo.\n DISPONIBLE 1 ENERO, 2026\ncontrato temporal y larga estancia,\n2 habitaciones, Salon, baño, coladuria\ntotalmente equipado, muebles nuevos, balcón. Mucha luz y sol, muy bonito\nCéntrico, cerca paradas autobús, y casco antiguo\nA 7 min a pie del Paseo marítimo y playa Anima Beach.",
+  "isAttic": false,
+  "meters": 91,
+  "rooms": 2,
+  "price": 1501,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación norte, sur",
+    "Amueblado y cocina equipada"
+  ],
+  "bathrooms": 1,
+  "floor": 2,
+  "hasElevator": true,
+  "energyConsumption": "D",
+  "energyEmission": "D",
+  "exactCoordinates": true,
+  "latitude": 39.5676154,
+  "longitude": 2.6615695
+}

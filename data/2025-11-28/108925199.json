@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/108925199/",
+  "locationSlug": "la-missio-mercat",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle dels Horts, 1",
+  "description": "Palma Casco Antiguo - Luminoso apartamento renovado de 4 dormitorios con parking.\n\nSituado en una tranquila calle lateral justo al lado de La Rambla, este apartamento bellamente renovado ofrece una elegante vida urbana en el corazón de Palma. Con un generoso espacio habitable de 160 m², la propiedad cuenta con cuatro dormitorios, dos baños (uno de ellos en suite), un amplio hall de entrada y un luminoso y espacioso salón.\n\nOtro punto destacado del apartamento es la azotea con espectaculares vistas, perfecta para disfrutar del horizonte de Palma. El edificio también ofrece la comodidad de un ascensor y una plaza de aparcamiento privada, algo raro en el Casco Antiguo.\n\nCon una ubicación ideal cerca de tiendas, restaurantes y todos los servicios, este apartamento combina confort, estilo y ubicación.\n\nDisponible solo para alquiler a largo plazo.",
+  "isAttic": false,
+  "meters": 160,
+  "rooms": 4,
+  "price": 2400,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Cocina equipada y casa sin amueblar",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 120,
+  "floor": 4,
+  "hasElevator": true,
+  "energyConsumption": "D",
+  "energyEmission": "D",
+  "exactCoordinates": true,
+  "latitude": 39.5738842,
+  "longitude": 2.6511986
+}

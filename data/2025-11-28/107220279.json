@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/107220279/",
+  "locationSlug": "pollenca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Pollença",
+  "description": "¡Descubre tu nuevo hogar en Pollensa! Este encantador piso en alquiler, situado en una zona de fácil acceso, ofrece todo lo que necesitas para disfrutar de la vida en esta hermosa localidad. Con una superficie de 90 m² útiles, el inmueble cuenta con un acogedor recibidor que te dará la bienvenida a un amplio salón-comedor, ideal para compartir momentos inolvidables con amigos y familiares. \n\nLa cocina está equipada con electrodomésticos y cuenta con un espacio exterior para la lavadora, lo que añade comodidad a tu día a día. Además, disfrutarás de un balcón con impresionantes vistas a la Sierra de Tramuntana, perfecto para relajarte al final del día. Este piso dispone de tres habitaciones, incluyendo una doble, todas con armarios empotrados que ofrecen un amplio espacio de almacenamiento.\n\nEl confort está garantizado gracias al aire acondicionado y la calefacción centralizada, asegurando un ambiente agradable durante todo el año. Se alquila amueblado, lo que te permitirá mudarte sin complicaciones. La propiedad se encuentra en un edificio de buena calidad, construido en el año 2000, y cuenta con ascensor para mayor comodidad. \n\nNo dejes pasar la oportunidad de vivir en este maravilloso piso en Pollensa. ¡Contáctanos para más información y ven a verlo!",
+  "isAttic": false,
+  "meters": 95,
+  "rooms": 3,
+  "price": 1490,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación oeste",
+    "Amueblado y cocina equipada",
+    "Calefacción central: Gas",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "yearBuilt": null,
+  "floor": 3,
+  "hasElevator": true,
+  "energyConsumption": "B",
+  "energyEmission": "B",
+  "exactCoordinates": false,
+  "latitude": 39.8736799,
+  "longitude": 3.0173001
+}

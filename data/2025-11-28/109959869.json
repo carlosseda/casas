@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/109959869/",
+  "locationSlug": "el-terreno",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle de la Pedrera",
+  "description": "Exclusivo piso de lujo situado en primera línea del PASEO MARÍTIMO de Palma. La vivienda cuenta con 138 m² distribuidos en dos amplios dormitorios dobles con armarios empotrados, un luminoso salón-comedor con acceso a una terraza de aproximadamente 6 m², cocina de diseño totalmente equipada con electrodomésticos de alta gama, dos baños completos y una práctica zona de lavandería con lavadora y secadora.\nDispone de aire acondicionado por conductos con bomba de calor recientemente renovada y acabados de excelente calidad en toda la vivienda.\nEl propietario requiere garantías de solvencia para el alquiler, así como el pago anticipado de una anualidad de renta. ' \n\nref: 4206 - 0024.",
+  "isAttic": false,
+  "meters": 138,
+  "rooms": 2,
+  "price": 4000,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Cocina equipada y casa sin amueblar",
+    "Aire acondicionado",
+    "Lujo"
+  ],
+  "bathrooms": 2,
+  "floor": 1,
+  "hasElevator": false,
+  "energyConsumption": "B",
+  "energyEmission": "B",
+  "exactCoordinates": false,
+  "latitude": 39.5583057,
+  "longitude": 2.62678
+}

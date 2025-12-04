@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/103959885/",
+  "locationSlug": "port-de-pollenca",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de ático en Calle de Joan XXIII",
+  "description": "32–330 noches · Contrato LAU art. 3 · A/A integral · Fibra y agua incluidas\n\nNRA: ESFCNT00000 44 0000000000000000000007\n\nApartamento de 3 habitaciones y 2 baños con balcón y vistas, a 100 m del mar en Port de Pollença. Aire acondicionado en todas las estancias. Cocina equipada y lavandería. Internet por fibra óptica de alta velocidad y agua incluidos en el precio. Alquiler de temporada 32–330 noches (uso distinto de vivienda, LAU art. 3). Condiciones: depósito; electricidad según consumo. Consultar disponibilidad y términos antes reservar.\n\nPrecios y disponibilidad 2026:\n\nEnero 1.900 €(a partir del 12/01/26)\nFebrero 1.900 €\nMarzo 1.900 €\nAbril 2.600 €\nMayo 2.400 €\nJunio 2.700 €ocupado\nJulio 3.600 €ocupado\nAgosto 3.600 €ocupado\nSeptiembre2.970 €(a partir del 10/09/2026)\nOctubre 2.400 €\nNoviembre2.400 €\nDiciembre2.600 €\n\n¡Consúltenos por este alquiler TEMPORAL! [IW].",
+  "isAttic": true,
+  "meters": 123,
+  "rooms": 3,
+  "price": 1900,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Eléctrica",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 2,
+  "floor": 2,
+  "hasElevator": false,
+  "energyConsumption": "F",
+  "energyEmission": "F",
+  "exactCoordinates": false,
+  "latitude": 39.9048036,
+  "longitude": 3.0801106
+}

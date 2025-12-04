@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/91360226/",
+  "locationSlug": "port-d-alcudia-platja-d-alcudia",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Carretera d'Artà, 88",
+  "description": "Piso amueblado y completamente equipado con terraza, 60m2, piscina y vistas al mar, a 2min a pie de la playa. Se alquila unicamente desde febrero hasta Diciembre 2025.",
+  "isAttic": false,
+  "meters": 60,
+  "rooms": 1,
+  "price": 1250,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación este, oeste",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín",
+    "Vistas al mar"
+  ],
+  "bathrooms": 1,
+  "floor": 3,
+  "hasElevator": true,
+  "exactCoordinates": true,
+  "latitude": 39.8287009,
+  "longitude": 3.1157278
+}

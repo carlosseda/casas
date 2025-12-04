@@ -1,0 +1,17 @@
+{
+  "name": "buscador-avanzado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "openai-sin-almacenar-embedding.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@chroma-core/openai": "^0.1.8",
+    "chromadb": "^3.1.5",
+    "neo4j-driver": "^6.0.1",
+    "selenium-webdriver": "^4.38.0"
+  }
+}

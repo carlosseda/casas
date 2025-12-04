@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/107347459/",
+  "locationSlug": "port-de-pollenca",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Calle del Fonoll Marí",
+  "description": "INMO MALLORCA. Ya disponible!\nApartamento 2 dormitorios amueblado, listo para vivir. Ubicado en Llenaire, en el Puerto de Pollensa, a 250 mtrs de la playa. Se trata de un apartamento ubicado en tranquilo edificio de zona residencial, en un segundo piso sin ascensor. Dispone de soleado balcón de 5 mtrs, 2 dormitorios, 1 baño y salón comedor con acceso a la cocina. Todo equipado y amueblado, listo para vivir. Incluye una plaza de aparcamiento exterior. Se solicitan referencias económicas/laborales. Electricidad y agua aparte. Gastos de comunidad incluidos. Deposito/fianza de 2 mensualidades. INMOMALLORCA.\n\n*Información no contractual, sujeta a cambios*.\nINMO MALLORCA.\nAsociado nº 129 de ASOCIACION API BALEARES.\nInscrito GOIBE 584661/24 del REGISTRO OFICIAL DE AGENTES INMOBILIARIOS DE ILLES BALEARS (ROAIIB).",
+  "isAttic": false,
+  "meters": 60,
+  "rooms": 2,
+  "price": 1400,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Eléctrica",
+    "Aire acondicionado",
+    "Apartamento"
+  ],
+  "bathrooms": 1,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 2,
+  "hasElevator": false,
+  "exactCoordinates": false,
+  "latitude": 39.8877273,
+  "longitude": 3.0744248
+}

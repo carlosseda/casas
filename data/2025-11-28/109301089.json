@@ -1,0 +1,31 @@
+{
+  "url": "https://www.idealista.com/inmueble/109301089/",
+  "locationSlug": "el-terreno",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Avenida de Joan Miró",
+  "description": "PARKING INCLUIDO Apartamento de 1 dormitorio en El Terreno. Con una superficie de 62 m2, distribuido en 1 dormitorio, 1 baño, salón comedor, terraza y cocina independiente (completa-mente amueblada, nevera, horno, vitrocerámica, lavavajillas y lavadora-secadora). Dispone de terraza con vistas al interior de la promoción y una plaza de garaje incluida en el precio del alquiler. Los suministros de la vivienda (luz y agua) y la tasa de basuras van a cargo del inquilino.\n\nExcelentes calidades, aire acondicionado (frio/calor), armario empotrado. Integrado en la primera planta de un edificio con tres ascensores, conserjería y zonas comunes acabadas en mármol pulido.\n\nSituado en segunda línea del Paseo Marítimo de Palma de Mallorca, con fácil acceso para disfrutar del Puerto.\nZona dotada con todos los servicios como comercios, supermercados, farmacias, colegios, PAC médico, restaurantes y zonas de ocio.\n\nBien comunicado por carreteras.\nLíneas de autobuses 4, 20 y 46.\nA 9 km. del aeropuerto.\n\nREQUISITOS:\n1 mes de fianza y 2 meses de garantía y el mes de entrada por anticipado.",
+  "isAttic": false,
+  "meters": 62,
+  "rooms": 1,
+  "price": 1250,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur, este",
+    "Cocina equipada y casa sin amueblar",
+    "Calefacción individual: Bomba de frío/calor"
+  ],
+  "bathrooms": 1,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "yearBuilt": null,
+  "floor": 1,
+  "hasElevator": true,
+  "energyConsumption": "D",
+  "energyEmission": "D",
+  "exactCoordinates": false,
+  "latitude": 39.5651652,
+  "longitude": 2.624605
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://www.idealista.com/inmueble/88650462/",
+  "locationSlug": "manacor-centro",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de finca rústica en Manacor Centro",
+  "description": "Hermosa finca entre Manacor y Porto Cristo que consta de 3 dormitorios con baño, salón, comedor y cocina totalmente amueblada y equipada. Dispone de calefacción y aire acondicionado (frío / calor). Cuenta con plazas de aparcamiento y una gran piscina comunitaria con tumbonas y sombrillas, barbacoa y zona ajardinada con parque infantil.\nLa casa está totalmente amueblada y dispone de una lavadora.\n\nCondiciones del alquiler de larga duración: 2 meses de depósito.\n\nincluido en el precio: mantenimiento del jardín, piscina, agua, electricidad.",
+  "isAttic": false,
+  "meters": 140,
+  "rooms": 3,
+  "price": 2200,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Finca rústica",
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Trastero",
+    "Orientación oeste",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín"
+  ],
+  "bathrooms": 3,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "energyConsumption": "C",
+  "energyEmission": "C",
+  "exactCoordinates": false,
+  "latitude": 39.5613297,
+  "longitude": 3.275881
+}

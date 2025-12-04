@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/109230909/",
+  "locationSlug": "la-missio-mercat",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en La Missio - Mercat",
+  "description": "Luminoso y recién reformado piso con ascensor, balcón y terraza comunitaria cerca de Plaza Patines\nEl apartamento está situado en la cuarta planta y el edificio dispone de ascensor y terraza comunitaria. Este apartamento ha sido recientemente renovado con materiales de alta calidad, conservando el carácter clásico de la propiedad con techos altos, habitaciones amplias y baldosas mallorquinas antiguas, al tiempo que integra las comodidades de la vida moderna.\nAl entrar en la propiedad, la luminosidad y la amplitud de las habitaciones llaman inmediatamente la atención. El apartamento tiene cuatro dormitorios, tres de los cuales tienen armarios empotrados, dos baños y un aseo de invitados. La cocina, completamente nueva y moderna, tiene una distribución funcional y acabados de alta calidad, perfecta tanto para el uso diario como para aquellos que disfrutan cocinando. La cocina también tiene acceso a un balcón de aproximadamente 6 m² y aparte hay una gran terraza comunitaria con sol todo el día y vistas a la ciudad y las montañas.\n\nEl aire acondicionado central (w/c) garantiza el confort durante todo el año. La propiedad es ideal para familias, así como para aquellos que buscan un apartamento espacioso.",
+  "isAttic": false,
+  "meters": 164,
+  "rooms": 4,
+  "price": 2200,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Cocina equipada y casa sin amueblar",
+    "Calefacción central",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 3,
+  "yearBuilt": null,
+  "floor": 4,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5781011,
+  "longitude": 2.6495255
+}

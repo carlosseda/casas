@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/106240450/",
+  "locationSlug": "sant-agusti",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Avenida de Joan Miró, 330",
+  "description": "Precioso apartamento ubicado en una zona fantástica, vistas al mar dispone de múltiples servicios en la zona, 1 habitación grande con baño en suite, suelos de mármol piso casi de reestreno totalmente amueblado y listo para entrar a vivir.",
+  "isAttic": false,
+  "meters": 68,
+  "rooms": 1,
+  "price": 1500,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Piscina",
+    "Vistas al mar"
+  ],
+  "bathrooms": 1,
+  "floor": 4,
+  "hasElevator": true,
+  "exactCoordinates": true,
+  "latitude": 39.5516774,
+  "longitude": 2.6004884
+}

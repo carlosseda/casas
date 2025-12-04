@@ -1,0 +1,32 @@
+{
+  "url": "https://www.idealista.com/inmueble/109254432/",
+  "locationSlug": "el-terreno",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en El Terreno",
+  "description": "Apartamento reformado con 2 dormitorios cerca a Paseo Marítimo \n\nPara más información contáctanos.",
+  "isAttic": false,
+  "meters": 90,
+  "rooms": 2,
+  "price": 2200,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Eléctrica",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 0,
+  "hasElevator": true,
+  "energyConsumption": "C",
+  "energyEmission": "B",
+  "exactCoordinates": false,
+  "latitude": 39.5611989,
+  "longitude": 2.6282975
+}

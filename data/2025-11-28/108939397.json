@@ -1,0 +1,32 @@
+{
+  "url": "https://www.idealista.com/inmueble/108939397/",
+  "locationSlug": "cala-figuera",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Cala Figuera",
+  "description": "Disponible a partir de 01/10/2025\n\nNuevo y moderno apartamento planta baja con piscina comunitaria en Cala Figuera\n\nINFORMACIÓN BÁSICA\nAño de construcción 2022\nestancias 3\nsalón - comedor - cocina\ndormitorios 3\nde ellos dormitorios individuales 1\nde ellos dormitorios dobles 2\nbaños 2\nde ellos baños en suite 1\njardín\nterraza\ncoladuria\ncomo nuevo\nPlanta baja\n\nEQUIPAMIENTO\namueblado\naire acondicionado 4\npiscina comunitaria\naparcamiento\nventanas de aluminio\ndoble acristalamiento\nalarma\n\nTÉRMINOS Y CONDICIONES\nComisión agencia: 1,5 mensualidades + IVA\nFianza: 2 mensualidades\nMantenimiento de piscina y jardín incluido\nmascotas prohibidas\nAlquiler solo para segunda residencia.",
+  "isAttic": false,
+  "meters": 85,
+  "rooms": 3,
+  "price": 1300,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "yearBuilt": null,
+  "floor": 1,
+  "hasElevator": false,
+  "energyConsumption": "D",
+  "energyEmission": "D",
+  "exactCoordinates": false,
+  "latitude": 39.3269117,
+  "longitude": 3.1694025
+}

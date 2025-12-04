@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/109937910/",
+  "locationSlug": "camp-d-en-serralta",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de ático en Plaza de Madrid",
+  "description": "Se alquila precioso ático reformado, situado en la undécima planta de un edificio en Es Fortí, a solo 10 minutos a pie de Paseo Mallorca y Santa Catalina y con supermercados, comercios y todos los servicios a menos de 4 minutos.\nLa vivienda dispone de dos habitaciones dobles exteriores, una de ellas con armario empotrado, y un amplio cuarto vestidor independiente. Baño con ducha.\nLa cocina, de estilo abierto al salón, está totalmente equipada con vitrocerámica, horno, campana extractora, nevera combi y lavavajillas. Además, cuenta con una práctica lavandería con lavadora-secadora y termo eléctrico con equipo de presión.\nEl luminoso salón da acceso a una terraza de 20 m² con toldo practicable y impresionantes vistas panorámicas.\nEl ático se alquila amueblado, tal como aparece en las fotografías, y cuenta con aire acondicionado en el salón y radiadores eléctricos en las habitaciones. Suelos de tarima flotante, persianas y cerramientos de PVC con doble acristalamiento.\nUna vivienda lista para entrar a vivir, en una zona tranquila, bien comunicada y muy cerca del centro de Palma.",
+  "isAttic": true,
+  "meters": 92,
+  "rooms": 2,
+  "price": 1800,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación oeste",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 1,
+  "floor": 12,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.57882,
+  "longitude": 2.642368
+}

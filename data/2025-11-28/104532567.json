@@ -1,0 +1,26 @@
+{
+  "url": "https://www.idealista.com/inmueble/104532567/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Santa Ponça",
+  "description": "Este fantástico piso en Santa Ponsa ofrece maravillosas vistas al mar, en primera línea de mar, en el suroeste de la hermosa isla de Mallorca. Esta propiedad bellamente amueblada tiene una superficie habitable de aprox. 80 m2, que se distribuye de la siguiente manera: una sala de estar con chimenea, un comedor con fantásticas vistas al mar, una cocina totalmente equipada, un dormitorio doble, un pequeño dormitorio individual y un baño. El piso dispone de aire acondicionado frío/calor, lavadero y aparcamiento. El cuidado complejo residencial ofrece una fantástica piscina de agua salada y acceso directo al mar, donde podrá disfrutar plenamente del encantador ambiente mediterráneo de la isla. Se trata de una ubicación muy atractiva en las inmediaciones del Club Náutico, varias bahías de baño, hermosas playas, así como los conocidos campos de golf de Santa Ponsa, excelentes restaurantes y el puerto deportivo de Port Adriano.\n\nAlquiler de corto plazo disponible a partir del 15 de agosto 2024.",
+  "isAttic": false,
+  "meters": 107,
+  "rooms": 2,
+  "price": 3000,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 1,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 1,
+  "hasElevator": false,
+  "exactCoordinates": false,
+  "latitude": 39.5092459,
+  "longitude": 2.4584093
+}

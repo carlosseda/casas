@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/99952084/",
+  "locationSlug": "portals-nous",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Portals Nous",
+  "description": "*Disponible a partir de Diciembre *\nPlanta baja en Portals Nous.\n\nEsta propiedad ofrece 2 dormitorios, 1 baño con ducha, cocina abierta, totalmente equipada, salón y pequeño balcon.\n \nCaracterísticas adicionales: aire acondicionado frío / calor, ventanas climalit, lavavajillas, lavadora, piscina comunitaria, renovada, vistas al mar.\n\nPlayas, supermercados, restaurantes, the marina of Puerto Portals, escuelas internacionales, farmacia están a solo unos pasos de distancia.\n\nPor favor contáctenos para más información.",
+  "isAttic": false,
+  "meters": 75,
+  "rooms": 2,
+  "price": 2300,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Piscina",
+    "Vistas al mar"
+  ],
+  "bathrooms": 1,
+  "floor": 0,
+  "hasElevator": false,
+  "exactCoordinates": false,
+  "latitude": null,
+  "longitude": null
+}

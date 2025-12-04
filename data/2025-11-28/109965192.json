@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/109965192/",
+  "locationSlug": "sant-agusti",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Sant Agustí",
+  "description": "***SOLO ALQUILER DE CORTO PLAZO, MÁXIMO 11 MESES***\n\nSE ALQUILA!\n\nAMUEBLADO.\nPISO LUMINOSO con terraza acristalada y ESPECTACULARES VISTAS AL MAR en PRIMERA LÍNEA de San Agustín, ACCESO DIRECTO AL MAR.\n\nConsta de 1 dormitorio y 1 baño completo renovado. Cocina semi-abierta totalmente equipada. Amplio salón-comedor con terraza acristalada que ofrece MARAVILLOSAS VISTAS AL MAR Y AL PUERTO CALANOVA.\n\nEquipado con ventanas con aire acondicionado integrado, ventanas de aluminio con doble acristalamiento, suelos de cerámicas, armarios empotrados.\n\nEl complejo MUY BIEN CUIDADO en PRIMERA LÍNEA de San Agustín cuenta con ACCESO DIRECTO AL MAR, PISCINA COMUNITARIA, restaurante, solarium. Ascensores y servicio de conserjería.\n\nEXCELENTE UBICACIÓN. San Agustín es uno de los barrios costeros más cotizados de Palma, Ofrece una situación privilegiada. Cerca de bares, restaurantes, tiendas, servicios de transporte público, centro médico, playas y puertos. A 2 minutos a pie del PUERTO DEPORTIVO CALANOVA, así como de la playa de Cala Mayor. A tan sólo 5 minutos en coche del Centro Comercial Porto Pi y del Paseo Marítimo, a 10 minutos del centro de Palma, y a 15 minutos del aeropuerto. [IW].",
+  "isAttic": false,
+  "meters": 60,
+  "rooms": 1,
+  "price": 1250,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "No dispone de calefacción",
+    "Aire acondicionado",
+    "Piscina",
+    "Vistas al mar"
+  ],
+  "bathrooms": 1,
+  "floor": 10,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5508987,
+  "longitude": 2.6008808
+}

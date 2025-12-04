@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/102004909/",
+  "locationSlug": "camp-d-en-serralta",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Camp d'En Serralta",
+  "description": "Alquiler. Apartamento en zona Paseo Mallorca. Este apartamento consta de un salón comedor, cocina amueblada y equipada con office, 1 habitación doble, armarios, 1 baño, suelos de gres porcelánico, climalit, aire acondicionado frío/calor, vistas a la Catedral y al mar. Amueblado. Zona residencial con servicios.",
+  "isAttic": false,
+  "meters": 62,
+  "rooms": 1,
+  "price": 1400,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 1,
+  "floor": 6,
+  "hasElevator": true,
+  "energyConsumption": "G",
+  "energyEmission": "G",
+  "exactCoordinates": false,
+  "latitude": 39.5705523,
+  "longitude": 2.6414863
+}

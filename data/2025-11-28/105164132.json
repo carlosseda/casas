@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/105164132/",
+  "locationSlug": "portals-nous",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Calle Benito Jerónimo Feijóo",
+  "description": "Este bonito y moderno apartamento está situado en un complejo de alta calidad directamente en el lujoso puerto de Puerto Portals.\nCon vistas al paisaje del jardín y la piscina, podrá disfrutar del tiempo en la terraza. (Tienes acceso directo al puerto desde aquí. )\n\nEl apartamento tiene 3 amplios dormitorios y un dormitorio de invitados,\n2 baños y lavadero.\nDesde el luminoso salón con cocina abierta se llega a la terraza.\nEl mobiliario es moderno y clásico.\n\nClima cálido/frío! sin espacio para estacionar!\n2 ascensores\n\nPuerto Portals comenzó como uno de los puertos más populares de Mallorca.\nAquí encontrará muchos restaurantes, cafeterías y tiendas.\nHay una preciosa playa a 2 minutos andando.",
+  "isAttic": false,
+  "meters": 110,
+  "rooms": 4,
+  "price": 3200,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Amueblado y cocina equipada",
+    "Calefacción individual",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín"
+  ],
+  "bathrooms": 2,
+  "floorOrientation": "interior",
+  "hasElevator": true,
+  "exactCoordinates": false,
+  "latitude": null,
+  "longitude": null
+}

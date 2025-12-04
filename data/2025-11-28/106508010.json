@@ -1,0 +1,27 @@
+{
+  "url": "https://www.idealista.com/inmueble/106508010/",
+  "locationSlug": "la-missio-mercat",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle de Josep Anselm Clavé, 1",
+  "description": "Céntrico y espectacular piso de dos habitaciones, Totalmente reformado con altísimas calidades, dos habitaciones con grandes armarios empotrados, dos baños completos uno de ellos en suite, coladuria con lavadora y secadora incorporada, además está instalado un sistema de descalcificador y grupo de presión.\nLa gran cocina, totalmente equipada, forma un amplio espacio, que abarca salón y comedor, pudiendo aprovechar la luz que entra por el gran ventanal orientado al sur.\n\nImprescindible demostrar solvencia.",
+  "isAttic": false,
+  "meters": 100,
+  "rooms": 2,
+  "price": 1500,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Cocina equipada y casa sin amueblar",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "floor": 2,
+  "hasElevator": true,
+  "energyConsumption": "E",
+  "energyEmission": "E",
+  "exactCoordinates": true,
+  "latitude": 39.5738565,
+  "longitude": 2.6549123
+}

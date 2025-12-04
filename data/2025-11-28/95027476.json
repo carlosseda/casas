@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/95027476/",
+  "locationSlug": "manacor-centro",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle des creues s/n",
+  "description": "DISPONIBLE EN ENERO 2026.\n¡Descubre este magnífico piso en alquiler en Manacor! Con una superficie de 170 m² construidos y 160 m² útiles, este espacioso hogar cuenta con 3 dormitorios y 2 baños, uno de ellos en suite, ideal para disfrutar de la máxima comodidad. La cocina está amueblada y equipada, perfecta para los amantes de la gastronomía. Además, el amplio salón comedor ofrece un ambiente acogedor y luminoso, ideal para compartir momentos inolvidables con amigos y familiares.\n\nUna de las joyas de esta propiedad es su espectacular terraza privada de 70 m², donde podrás relajarte al aire libre o organizar reuniones al sol. El piso se encuentra en un primer piso con ascensor, lo que facilita el acceso. También incluye una plaza de parking, ¡sin preocupaciones por encontrar aparcamiento!\n\nUbicado en una calle ancha y tranquila, casi a las afueras del pueblo, disfrutarás de la paz y la serenidad que ofrece esta zona. A solo 5 minutos a pie, tendrás acceso a todos los servicios necesarios: Mercadona, farmacias, colegios y la estación de tren. No dejes pasar la oportunidad de vivir en un entorno cómodo y bien comunicado. ¡Este piso es perfecto para ti!\nEn Breve Tendremos Más Fotos.",
+  "isAttic": false,
+  "meters": 170,
+  "rooms": 3,
+  "price": 1300,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Amueblado y cocina equipada"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 1,
+  "hasElevator": true,
+  "energyConsumption": "E",
+  "energyEmission": "E",
+  "exactCoordinates": true,
+  "latitude": 39.5724497,
+  "longitude": 3.2006823
+}

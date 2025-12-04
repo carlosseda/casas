@@ -1,0 +1,33 @@
+{
+  "url": "https://www.idealista.com/inmueble/107648107/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de chalet pareado en Calle de Ramon de Montcada",
+  "description": "SANTA PONSA. Disponible en enero de 2026.\nCon o sin muebles. \n Ideal propiedad, (pareado), en un complejo pequeño de 4 viviendas.\nSe encuentra esta fantastica propiedad con amplia terraza y jardin privado.\nEn primera planta, se encuentra el amplio salon comedor con cocina amueblada y equipada abierta. un aseo para invitados. coladuria, acceso directo a un patio interior, trastero.\nEn primera planta, tres habitaciones dobles, 2 baños, la habitacion principal con baño en suite. Todas con armarios.\nAdemás ofrece: suelos cerámicos, amplias ventanas, mucha luz. Garaje para 2 coches, ascensor desde el garaje hasta la vivienda. \nVistas despejadas. Zona verde, comercios en la zona.\nPara contrato de larga estancia: Imprescindible: Contrato fijo de trabajo. Para autónomos&gt;: declaración de la renta de los ultimos 2 años.",
+  "isAttic": false,
+  "meters": 300,
+  "rooms": 3,
+  "price": 3000,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Chalet pareado",
+    "2 plantas",
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Calefacción central: Gas",
+    "Jardín",
+    "Lujo"
+  ],
+  "bathrooms": 3,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "energyConsumption": "E",
+  "energyEmission": "E",
+  "exactCoordinates": false,
+  "latitude": 39.5209392,
+  "longitude": 2.4805411
+}

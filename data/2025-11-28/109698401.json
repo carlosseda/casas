@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/109698401/",
+  "locationSlug": "la-missio-mercat",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en El Forti, 1",
+  "description": "",
+  "isAttic": false,
+  "meters": 119,
+  "rooms": 4,
+  "price": 1650,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Amueblado y cocina equipada",
+    "No dispone de calefacción",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 6,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": true,
+  "latitude": 39.5726541,
+  "longitude": 2.6568551
+}

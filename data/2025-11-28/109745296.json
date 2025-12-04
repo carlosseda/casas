@@ -1,0 +1,33 @@
+{
+  "url": "https://www.idealista.com/inmueble/109745296/",
+  "locationSlug": "cala-figuera",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Cala Figuera",
+  "description": "Fantástico apartamento con vistas al mar en Cala Figuera, Mallorca\n\nEn la mejor ubicación de Cala Figuera se encuentra este precioso apartamento de unos 90 m² de superficie habitable en la segunda planta de un cuidado complejo residencial. El ascensor garantiza un cómodo acceso y las incomparables vistas al mar convierten esta vivienda en un refugio especial en Mallorca.\n\nEl apartamento cuenta con dos luminosos dormitorios y dos modernos cuartos de baño, uno de ellos en suite. La amplia sala de estar y comedor se abre a la terraza, desde donde se puede disfrutar de las vistas al resplandeciente mar Mediterráneo. Una cocina totalmente equipada con electrodomésticos de alta calidad se integra armoniosamente en el elegante diseño de la estancia.\n\nEl aire acondicionado central garantiza el confort en cualquier época del año, mientras que el sistema de alarma y la plaza de aparcamiento privada ofrecen seguridad y comodidad adicionales. El complejo cuenta con una lujosa piscina comunitaria muy bien cuidada, que invita a relajarse y disfrutar del sol y las vistas. \n\nEl apartamento se encuentra a pocos minutos a pie del pintoresco paseo marítimo de Cala Figuera, con sus encantadores restaurantes y cafeterías. Las idílicas calas y el parque natural de Mondragó también están a poca distancia.\n\nEsta propiedad combina el encanto mediterráneo, las comodidades modernas y una ubicación privilegiada, lo que la convierte en una elegante residencia vacacional o en un cómodo hogar para todo el año.\n\nEl precio del apartamento es de 1500 € sin amueblar y de 1800 € amueblado. El contrato de alquiler tiene una duración limitada de 11 meses.",
+  "isAttic": false,
+  "meters": 90,
+  "rooms": 2,
+  "price": 1500,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación este",
+    "Cocina sin equipar y casa sin amueblar",
+    "Calefacción individual",
+    "Aire acondicionado",
+    "Piscina",
+    "Vistas al mar"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 0,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.3305549,
+  "longitude": 3.1662332
+}

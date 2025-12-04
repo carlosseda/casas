@@ -1,0 +1,31 @@
+{
+  "url": "https://www.idealista.com/inmueble/109501701/",
+  "locationSlug": "el-terreno",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Avenida de Joan Miró, 36",
+  "description": "SIN COMISIÓN DE AGENCIA y con PARKING INCLUIDO. Se alquila piso en zona dotada de todos los servicios, ubicado en un moderno y céntrico edificio en Palma de Mallorca. La vivienda dispone de salón comedor, cocina (completamente amueblada), una habitación doble, 1 baño y balcón.\nLa vivienda dispone de excelentes calidades, aire acondicionado (frío-calor), una orientación óptima. El edificio dispone de conserjería, zonas comunes acabadas en mármol pulido y tres ascensores. Se precisan 1 mes de fianza, 2 meses de garantía y el mes en curso. Para poder alquilarlo la propiedad exige contrato de trabajo y solvencia económica.",
+  "isAttic": false,
+  "meters": 67,
+  "rooms": 1,
+  "price": 1250,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación este",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 1,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 4,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": true,
+  "latitude": 39.5641346,
+  "longitude": 2.6255566
+}

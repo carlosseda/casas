@@ -1,0 +1,26 @@
+{
+  "url": "https://www.idealista.com/inmueble/109837555/",
+  "locationSlug": "la-missio-mercat",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en CL Caputxins",
+  "description": "¡Descubre tu nuevo hogar en el corazón de la ciudad! Este piso recién reformado, situado a pocos pasos de la emblemática Plaza España, es perfecto para quienes buscan comodidad y estilo. Con una superficie de 87 m², cuenta con dos amplias habitaciones dobles, ideales para descansar o trabajar desde casa. Los grandes armarios empotrados ofrecen un excelente espacio de almacenamiento, mientras que el gran salón comedor se convierte en el lugar perfecto para compartir momentos con amigos y familiares.\n\nLa cocina, completamente amueblada y equipada con electrodomésticos modernos, hará que cocinar sea un placer. El baño, con un práctico plato de ducha, ha sido diseñado para ofrecerte funcionalidad y confort. Además, la vivienda ha sido recién pintada y cuenta con cristalería de aluminio nueva, lo que garantiza un ambiente luminoso y acogedor.\n\nEl alquiler incluye agua e IBI, lo que facilita la gestión de tus gastos mensuales. Sin embargo, ten en cuenta que los suministros de luz, basuras e internet no están incluidos. Es importante mencionar que no se admiten mascotas y se requiere un mes de fianza más un mes de garantía adicional. Para poder alquilar este maravilloso piso, es imprescindible contar con contratos fijos.\n\nNo pierdas la oportunidad de vivir en una ubicación privilegiada. ¡Contáctanos para más información y para agendar tu visita! Este es el hogar que estabas esperando.",
+  "isAttic": false,
+  "meters": 87,
+  "rooms": 2,
+  "price": 1600,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Orientación sur",
+    "Cocina equipada y casa sin amueblar"
+  ],
+  "bathrooms": 1,
+  "yearBuilt": null,
+  "floor": 5,
+  "hasElevator": true,
+  "exactCoordinates": false,
+  "latitude": 39.5758362,
+  "longitude": 2.6550683
+}

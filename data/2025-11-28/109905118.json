@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/109905118/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle de Ramon de Montcada, 34",
+  "description": "Estudio de 37 m², idealmente ubicado a pocos pasos de la hermosa playa de Santa Ponsa. Con una orientación este, este espacio luminoso ofrece vistas despejadas que llenan de luz natural cada rincón. Totalmente amueblado y con una cama doble cómoda.\n\nLa cocina está equipada para que puedas preparar tus platos favoritos, mientras que el baño bien distribuido añade funcionalidad al espacio. Además, cuenta con armarios empotrados que optimizan el almacenamiento. La calefacción por bomba de frío/calor y el aire acondicionado garantizan un ambiente agradable durante todo el año. PISCINA COMUNITARIA\n\nEl edificio dispone de ascensor, lo que facilita el acceso. \nAunque NO se admiten mascotas y NO hay parking disponible, la ubicación privilegiada compensa con creces estas limitaciones. Ideal para quienes buscan un estilo de vida cómodo y cercano al mar. Se requieren dos meses de fianza. ¡Contáctanos para más información y ven a visitarlo!",
+  "isAttic": false,
+  "meters": 40,
+  "rooms": 1,
+  "price": 1055,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación este",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 1,
+  "yearBuilt": null,
+  "floor": 3,
+  "hasElevator": true,
+  "energyConsumption": "C",
+  "energyEmission": "C",
+  "exactCoordinates": true,
+  "latitude": 39.5191389,
+  "longitude": 2.4820735
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://www.idealista.com/inmueble/108829745/",
+  "locationSlug": "colonia-de-sant-pere",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de chalet adosado en Camino de s'Estanyol, 15",
+  "description": "Helles und gemütliches Haus am Meer – Nur zur monatlichen Miete\nDieses charmante Haus vereint mediterranen Stil mit hohem Wohnkomfort. Mit Platz für bis zu 8 Personen, 4 Schlafzimmern und 4 Bädern ist es ideal für längere Aufenthalte.\n\nJeder Raum wurde mit viel Liebe zum Detail gestaltet: natürliche Materialien, lichtdurchflutete Räume und ein traumhafter Meerblick schaffen eine entspannte Atmosphäre. Perfekt für Familien, Homeoffice oder einfach zum Abschalten.\n\n Monatspreise:\n\nJuli: 35.000 €\n\nJuni &amp; September: 25.000 €\n\nMai &amp; Oktober: 18.000 €\n\nRestliche Monate: 13.000 €\n\n Nur monatlich zu mieten – ein Ort zum Durchatmen und Wohlfühlen.",
+  "isAttic": false,
+  "meters": 200,
+  "rooms": 4,
+  "price": 13000,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Chalet adosado",
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación norte",
+    "Amueblado y cocina equipada",
+    "Calefacción central: Gas",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín",
+    "Vistas al mar",
+    "Lujo"
+  ],
+  "bathrooms": 4,
+  "yearBuilt": null,
+  "exactCoordinates": true,
+  "latitude": null,
+  "longitude": null
+}

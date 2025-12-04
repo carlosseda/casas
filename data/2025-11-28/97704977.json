@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/97704977/",
+  "locationSlug": "port-de-pollenca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Port de Pollença",
+  "description": "ALQUILER LARGA DURACIÓN \nJUNIO 5.500€\nJULIO 8.300€ NO DISPONIBLE\nAGOSTO 7.300€\nSEPTIEMBRE 4.600€ \nOCTUBRE 4.000€\n\nLos gastos de Agua y Luz van aparte.\n\nSe pedirá 1.000€ de fianza.\nEncantador apartamento muy cerca de la playa de Llenaire en Puerto de Pollensa.\nEste piso tiene 3 habitaciones dobles con dos baños, salón comedor con terraza para disfrutar de las cenas en familia y amigos.\nLa propiedad tiene parking y ascensor.\nLa piscina es comunitaria.\nEstá a tan sólo una calle de la playa y el paseo donde puede disfrutar de caminar, correr, ir en bici o bañarse en el mar.\nEl periodo deberá ser de 32 días mínimo.",
+  "isAttic": false,
+  "meters": 129,
+  "rooms": 3,
+  "price": 5000,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Eléctrica",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín"
+  ],
+  "bathrooms": 2,
+  "yearBuilt": null,
+  "floor": 3,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.8915556,
+  "longitude": 3.0754045
+}

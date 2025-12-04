@@ -1,0 +1,24 @@
+{
+  "url": "https://www.idealista.com/inmueble/109818666/",
+  "locationSlug": "el-terreno",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en El Terreno",
+  "description": "Este apartamento de dos dormitorios, muy bien presentado y totalmente equipado, está situado en la codiciada zona de El Terreno, uno de los barrios con más encanto de Palma. La propiedad goza de espléndidas vistas panorámicas sobre el puerto y la ciudad, ofreciendo una mezcla perfecta de confort, estilo y comodidad.\n\nDiseñado con la funcionalidad y la elegancia en mente, el apartamento cuenta con un salón amplio y luminoso que se abre a un balcón donde podrá relajarse y disfrutar del impresionante paisaje. La moderna cocina está totalmente equipada con electrodomésticos de alta calidad, ideal para cualquier persona que le gusta cocinar y entretener.\n\nEl dormitorio principal es un verdadero refugio, con un gran vestidor y un cuarto de baño privado equipado con bañera y ducha. El dormitorio de invitados también dispone de su propio cuarto de baño y vestidor, para mayor comodidad e intimidad de familiares y visitas.\n\nEn toda la propiedad, encontrará una decoración de buen gusto, acabados de calidad y mucha luz natural, creando un ambiente cálido y acogedor. El piso es muy espacioso y está cuidadosamente distribuido para aprovechar al máximo cada rincón.\n\nSituado en un lugar tranquilo pero céntrico, estará a pocos minutos del animado puerto deportivo de Palma, cafés locales, restaurantes y conexiones de transporte. Tanto si busca una residencia permanente, una elegante casa de vacaciones o una buena inversión, esta propiedad le ofrece una oportunidad excepcional en una de las zonas más deseadas de Palma.",
+  "isAttic": false,
+  "meters": 160,
+  "rooms": 2,
+  "price": 2500,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Amueblado y cocina equipada"
+  ],
+  "bathrooms": 2,
+  "floor": 1,
+  "hasElevator": false,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5567398,
+  "longitude": 2.622815
+}

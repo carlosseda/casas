@@ -1,0 +1,25 @@
+{
+  "url": "https://www.idealista.com/inmueble/109830509/",
+  "locationSlug": "camp-d-en-serralta",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Camp d'En Serralta",
+  "description": "CONTRATO TEMPORAL - DEL 1 DE DICIEMBRE AL 28 DE FEBRERO DE 2026\n\nBonito apartamento reformado y amplio muy cerca de Santa Catalina.\nDispone de tres dormitorios dobles, cocina totalmente equipada y de buen tamaño con zona de comedor conectada con el salón.\n\nHay un balcón y un baño con ducha. Ventanas de doble acristalamiento y un almacenamiento en el techo para bicicletas. \n\nLa propiedad está disponible desde el 1 de diciembre hasta el 28 de febrero de 2026.",
+  "isAttic": false,
+  "meters": 88,
+  "rooms": 3,
+  "price": 1700,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Amueblado y cocina equipada"
+  ],
+  "bathrooms": 1,
+  "floor": 2,
+  "hasElevator": false,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.576287,
+  "longitude": 2.6368298
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://www.idealista.com/inmueble/108439665/",
+  "locationSlug": "llucmajor-interior",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de chalet adosado en Calle del Sindicat",
+  "description": "**Casa Adosada en Alquiler en Llucmajor - ¡Tu nuevo hogar te espera! **\n\nDescubre esta impresionante casa adosada en Llucmajor, un lugar donde el confort y el estilo se combinan a la perfección. Con 360 m² construidos, esta propiedad ofrece un amplio salón comedor luminoso, ideal para disfrutar de momentos en familia o con amigos. La gran terraza, adornada con una encantadora fuente, es el espacio perfecto para relajarse al aire libre y disfrutar del clima mediterráneo.\n\nLa cocina, amplia y funcional, se presenta como un lienzo en blanco para que puedas diseñarla a tu gusto. Con tres cómodas habitaciones y tres baños, cada rincón de la casa está pensado para ofrecerte la máxima comodidad. Además, cuenta con un garaje privado con capacidad para dos vehículos y una sala multiusos que puede adaptarse a tus necesidades, ya sea como gimnasio, oficina o taller.\n\nLa bodega subterránea es un plus que no puedes dejar pasar. Equipado con aire acondicionado y bomba de calor, este hogar garantiza un ambiente agradable durante todo el año. Un ascensor conecta cada planta, facilitando el acceso a todos los espacios de la casa. Situada en un entorno moderno que conserva el carácter mallorquín, esta casa adosada es la opción ideal para quienes buscan calidad de vida en un lugar privilegiado. ¡No dejes pasar la oportunidad de visitarla! Contacto PATRICIA.",
+  "isAttic": false,
+  "meters": 360,
+  "rooms": 3,
+  "price": 2500,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Chalet adosado",
+    "3 plantas",
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Jardín"
+  ],
+  "bathrooms": 3,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.4877663,
+  "longitude": 2.8890146
+}

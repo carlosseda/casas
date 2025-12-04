@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/103405015/",
+  "locationSlug": "sant-agusti",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Avenida de Joan Miró, 305",
+  "description": "Estamos alquilando nuestro apartamento.\nSe trata de un piso de 70 m2 totalmente reformado en San Augusti con vistas en primera línea.\nEl apartamento está situado a sólo 400 m de la playa de Cala Major y cuenta con dos dormitorios con camas dobles, un baño, cocina, salón y dos balcones frente al mar. Además, hay dos aires acondicionados (para calefacción y refrigeración), WiFi, lavavajillas y lavadora.\n\nEl apartamento está convenientemente ubicado, con una parada de taxis justo afuera de la entrada y a sólo 80 m de una estación de autobuses. Está a 15 minutos en autobús del centro de Palma y a menos de 10 minutos de la playa de Illetas. Tendrás todo lo que necesitas a 100 m, incluidos cafés, restaurantes, tiendas de alimentos, alquiler de autos, panaderías y más.",
+  "isAttic": false,
+  "meters": 74,
+  "rooms": 2,
+  "price": 2500,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Piscina",
+    "Vistas al mar"
+  ],
+  "bathrooms": 1,
+  "floor": 7,
+  "hasElevator": true,
+  "energyConsumption": "B",
+  "energyEmission": "B",
+  "exactCoordinates": true,
+  "latitude": 39.5514577,
+  "longitude": 2.6010554
+}

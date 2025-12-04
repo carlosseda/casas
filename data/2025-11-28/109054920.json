@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/109054920/",
+  "locationSlug": "manacor-centro",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Calle de s'Aigua, 20 a",
+  "description": "ALQUILER – Piso céntrico en Manacor junto a la Rafa Nadal Academy\n\nDisponible en alquiler este acogedor y luminoso piso ubicado en pleno centro de Manacor, a pocos minutos caminando de la Rafa Nadal Academy. Ideal para profesionales, familias o estudiantes que buscan comodidad, buena ubicación y un hogar completamente equipado.\n\n 2 habitaciones amplias y luminosas\n 2 baños completos: uno con bañera y otro con ducha\n Salón comedor amueblado, listo para entrar a vivir\n Cocina equipada + coladuría independiente\n Aire acondicionado y calefacción en toda la vivienda\n Edificio tranquilo y bien comunicado\n\n Zona con todos los servicios: supermercados, cafeterías, transporte público, zonas deportivas y escolares.\n\n Disponibilidad inmediata\n Se requiere contrato y solvencia económica\n\n ¡Una oportunidad perfecta para vivir cerca de todo, con el confort que buscas!\n\n Contáctanos para concertar una visita o solicitar más información.",
+  "isAttic": false,
+  "meters": 90,
+  "rooms": 2,
+  "price": 1500,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación este",
+    "Amueblado y cocina equipada",
+    "Calefacción central: Gasoil",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "floor": 2,
+  "hasElevator": true,
+  "energyConsumption": "A",
+  "energyEmission": "A",
+  "exactCoordinates": true,
+  "latitude": 39.5667282,
+  "longitude": 3.2133963
+}

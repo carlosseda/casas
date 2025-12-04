@@ -1,0 +1,30 @@
+{
+  "url": "https://www.idealista.com/inmueble/109800239/",
+  "locationSlug": "sant-agusti",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Sant Agustí",
+  "description": "***ALQUILER DE CORTO PLAZO, 11 MESES***\n\nSE ALQUILA!\n\nMaravilloso piso de 70 m2 + 10 m2 de terraza acristalada con IMPRESIONANTES VISTAS AL MAR, recientemente reformado, ubicado en PRIMERA LÍNEA DE SAN AGUSTÍN. ACCESO DIRECTO AL MAR.\n\nLa propiedad MUY LUMINOSA con orientación SUR; consta de 2 dormitorios dobles y 1 baño completo renovado. Cocina americana totalmente reformada y equipada. Amplio salón-comedor con acceso a la terraza acristalada y MAGNÍFICAS VISTAS PANORÁMICAS AL MAR.\n\nEquipado con aire acondicionado f/c, calefacción central a gas, ventanas con doble acristalamiento, suelos de parquet, armarios empotrados.\n\nEl complejo de Cala Mayor - San Agustín, en PRIMERA LÍNEA DE MAR, cuenta con 2 ascensores, servicio de conserjería, PISCINA comunitaria, restaurante y ACCESO DIRECTO AL MAR.\n\nINMEJORABLE UBICACIÓN. San Agustín es uno de los barrios costeros más codiciados de Palma, por su proximidad al centro y por la tranquilidad de la zona y por todos los servicios que ofrece, bares, restaurantes, supermercados, servicios de transporte público, fácil acceso a la autovía. En PRIMERA LÍNEA DE PLAYA. A pasos de la playa de Cala Mayor y a pocos minutos a pie del puerto CALA NOVA. A tan sólo 5 minutos en coche del Centro Comercial Porto Pi, y del Paseo Marítimo, y a 15 minutos del aeropuerto. [IW].",
+  "isAttic": false,
+  "meters": 80,
+  "rooms": 2,
+  "price": 1950,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "No dispone de calefacción",
+    "Aire acondicionado",
+    "Piscina",
+    "Vistas al mar"
+  ],
+  "bathrooms": 1,
+  "floor": 10,
+  "hasElevator": true,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5517732,
+  "longitude": 2.6036356
+}

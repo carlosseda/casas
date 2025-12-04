@@ -1,0 +1,31 @@
+{
+  "url": "https://www.idealista.com/inmueble/107346760/",
+  "locationSlug": "port-d-andratx",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de chalet pareado en Port d'Andratx",
+  "description": "¡Descubre el paraíso en esta casa unifamiliar en planta baja, situada a escasos metros de la playa del Barlovento y del exclusivo club de vela del puerto de Andratx! Este chalet pareado con vistas al mar y al puerto. Con 250 m² construidos y 120 m² útiles, la vivienda cuenta con tres dormitorios y dos baños, uno de ellos exterior, ideal para refrescarse después de un día de playa.\n\nLa casa con una orientación sur que garantiza luz natural durante todo el día. Disfruta de momentos inolvidables en su amplia terraza privada con acceso directo a la playa, perfecta para relajarse o recibir amigos. Además, la propiedad incluye un garaje, varios trasteros y una plaza de aparcamiento en la terraza junto a la casa.\n\nLa cocina está completamente equipada con electrodomésticos modernos y a estrenar. Los armarios empotrados ofrecen un amplio espacio de almacenamiento. No pierdas la oportunidad de vivir en este enclave privilegiado, donde el mar es tu vecino más cercano y cada día es una nueva aventura. ¡Ven a conocer tu nuevo hogar junto al mar!",
+  "isAttic": false,
+  "meters": 250,
+  "rooms": 3,
+  "price": 2750,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Chalet pareado",
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Orientación sur",
+    "Cocina equipada y casa sin amueblar",
+    "Calefacción individual: Eléctrica",
+    "Vistas al mar"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": false,
+  "latitude": 39.5484839,
+  "longitude": 2.380281
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.idealista.com/inmueble/107935768/",
+  "locationSlug": "port-de-pollenca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Port de Pollença",
+  "description": "Se alquila para todo el año este fantástico y moderno apartamento a tan solo 100 metros del mar y del paseo Pine walk. Consta de dos habitaciones dobles con armarios empotrados (una con cama de matrimonio y la otra dos camas individuales abatibles para almacenaje), un baño en suite y otro aseo, salon-comedor, cocina equipada, coladuria y piscina comunitaria. Tambien cuenta con dos balcones y uno vistas parciales al mar. A/A frio/calor por conductos. Plaza de parking y gastos de comunidad incluidos.",
+  "isAttic": false,
+  "meters": 79,
+  "rooms": 2,
+  "price": 1990,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 2,
+  "hasElevator": true,
+  "exactCoordinates": false,
+  "latitude": 39.9083318,
+  "longitude": 3.0846222
+}

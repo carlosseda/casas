@@ -1,0 +1,31 @@
+{
+  "url": "https://www.idealista.com/inmueble/101024477/",
+  "locationSlug": "pollenca",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Calle de Pius XI, 19",
+  "description": "Apartamento soleado. Precioso apartamento en el corazón de Pollensa. 2 minutos a pie a la plaza principal y 5 minutos en coche a la playa. Moderno edificio de apartamentos. , 2 Habitaciones dobles 1 Baño completo. Cocina totalmente equipada. Lavavajillas. Salón comedor. Magnífica terraza. Wifi gratuito. Aire Acondicionado. Calefacción central. Lavadora. Plancha y tabla de planchar. Ascensor. TV Satélite. Aparcamiento Opcional en el mismo edificio.\nSE ALQUILA MENSUALMENTE MEDIANTE CONTRATO DE TEMPORADA, SEGUN L. A. U:\nDISPONIBLE, a partir del 1 de Marzo de 2026.\n\nNúmero de registro de alquiler\nESFCNT00000 344000000000000000000000000000003.",
+  "isAttic": false,
+  "meters": 67,
+  "rooms": 2,
+  "price": 1500,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Gas propano/butano",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 1,
+  "parking": true,
+  "parkingMonthPrice": 90,
+  "floor": 1,
+  "hasElevator": true,
+  "energyConsumption": "D",
+  "energyEmission": "D",
+  "exactCoordinates": true,
+  "latitude": 39.8769193,
+  "longitude": 3.01805
+}

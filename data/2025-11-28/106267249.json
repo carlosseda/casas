@@ -1,0 +1,33 @@
+{
+  "url": "https://www.idealista.com/inmueble/106267249/",
+  "locationSlug": "pollenca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de finca rústica en Pollença",
+  "description": "Disponible el 15 de noviembre 2025. Descubre esta impresionante villa moderna de nueva construcción, diseñada para ofrecer el máximo confort y estilo. Consta de tres amplios dormitorios, perfectos para descansar y relajarse, y dos baños elegantes, uno de ellos en suite para mayor privacidad. La villa cuenta con una gran cocina-comedor, ideal para disfrutar de momentos en familia o con amigos, y un acogedor salón que incluye una chimenea, creando un ambiente cálido y acogedor, todo ello con vistas al hermoso jardín.\n\nEn el exterior, la propiedad se complementa con una espectacular piscina, perfecta para refrescarse en los días soleados. La amplia terraza es el lugar ideal para disfrutar de comidas al aire libre, mientras que la zona de chill out invita a relajarse y disfrutar del entorno. Además, cuenta con una barbacoa, perfecta para organizar reuniones y disfrutar de deliciosas parrilladas. Esta villa es el refugio perfecto para quienes buscan un estilo de vida moderno y confortable, rodeado de naturaleza y tranquilidad. ¡No te la pierdas!",
+  "isAttic": false,
+  "meters": 180,
+  "rooms": 3,
+  "price": 4500,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Finca rústica",
+    "1 planta",
+    "Terraza y balcón",
+    "Chimenea",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín",
+    "Lujo"
+  ],
+  "bathrooms": 3,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "energyConsumption": "D",
+  "energyEmission": "D",
+  "exactCoordinates": false,
+  "latitude": 39.8946453,
+  "longitude": 3.0176939
+}

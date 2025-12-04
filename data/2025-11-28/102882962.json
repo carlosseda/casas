@@ -1,0 +1,26 @@
+{
+  "url": "https://www.idealista.com/inmueble/102882962/",
+  "locationSlug": "pollenca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de dúplex en Pollença",
+  "description": "Este apartamento dúplex con una superficie construida de 119 m² goza de una ubicación céntrica en Pollensa y cuenta con una excelente zona exterior.\n\nUna escalera privada conduce al nivel de entrada de la propiedad, que se encuentra en la primera planta. En este nivel, hay un luminoso salón-comedor con balcón y una cocina accesible desde la zona de entrada y el salón, proporcionando suficiente espacio para una zona de estar independiente.\n\nUna terraza de 19 m² orientada al patio interior del edificio es perfecta para disfrutar del estilo de vida mediterráneo. La planta superior consta de un despacho, un dormitorio, un baño con bañera y el dormitorio principal con baño en suite y maravillosas vistas a la montaña.\n\nLa propiedad se alquila completamente amueblada y el precio incluye la limpieza mensual del piso de 4 horas a la semana. \n\nPóngase en contacto con uno de nuestros agentes inmobiliarios de FIRST MALLORCA para obtener más información sobre este apartamento dúplex en el noreste de la isla y concertar su visita hoy mismo.",
+  "isAttic": false,
+  "meters": 119,
+  "rooms": 2,
+  "price": 1800,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "yearBuilt": null,
+  "floor": 1,
+  "hasElevator": false,
+  "exactCoordinates": false,
+  "latitude": 39.8751703,
+  "longitude": 3.0116212
+}

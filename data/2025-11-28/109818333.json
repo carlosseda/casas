@@ -1,0 +1,23 @@
+{
+  "url": "https://www.idealista.com/inmueble/109818333/",
+  "locationSlug": "manacor-centro",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Manacor Centro",
+  "description": "Piso reformado de 3 habitaciones en el centro histórico de Manacor.\n\nSe alquila precioso piso totalmente reformado de 125 m², ubicado en un primer piso sin ascensor dentro de una finca tranquila de solo dos plantas, en pleno casco antiguo de Manacor.\n\nLa vivienda dispone de tres habitaciones (una con baño en suite), dos baños completos, un amplio salón-comedor y balcón.\nLa cocina y los baños están completamente equipados y amueblados, mientras que el resto del piso se alquila sin muebles, ideal para decorarlo a tu gusto.\n\n Ubicación inmejorable, en una zona céntrica y con encanto, cerca de todos los servicios, comercios y transporte.\n\nCaracterísticas principales:\n\n125 m² construidos\n\n1º piso sin ascensor\n\n3 habitaciones\n\n2 baños (1 en suite)\n\nBalcón\n\nCocina y baños equipados\n\nSin muebles\n\nFinca de solo 2 plantas\n\nCondiciones:\n Se requiere solvencia económica demostrable\n No se admiten mascotas\n Máximo 2 personas.",
+  "isAttic": false,
+  "meters": 132,
+  "rooms": 3,
+  "price": 1300,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Cocina equipada y casa sin amueblar"
+  ],
+  "bathrooms": 2,
+  "yearBuilt": null,
+  "floor": 1,
+  "exactCoordinates": false,
+  "latitude": 39.569753,
+  "longitude": 3.2091328
+}

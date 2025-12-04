@@ -1,0 +1,31 @@
+{
+  "url": "https://www.idealista.com/inmueble/106448099/",
+  "locationSlug": "santa-ponca",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de casa o chalet independiente en Santa Ponça",
+  "description": "Villa moderna en Costa de la Calma con vistas impresionantes. Superficie construida de 405 m2 distribuidos en 2 plantas, con 5 dormitorios en suite, aseo de cortesía, amplias zonas de estar, comedor y cocina totalmente equipada (Bosch y Miele). Grandes ventanales permiten la entrada de luz natural y se abren a un hermoso espacio exterior con piscina, jacuzzi, zona chill-out y área de comedor. En la planta superior, 3 dormitorios cuentan con vestidores, vistas al mar y acceso a 3 amplias terrazas. \n\nCaracterísticas adicionales: aire acondicionado, calefacción por suelo radiante, suelos de mármol, garaje para 2 coches y plaza de aparcamiento extra.\n\nPróximamente disponible.",
+  "isAttic": false,
+  "meters": 405,
+  "rooms": 5,
+  "price": 9500,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Casa o chalet independiente",
+    "2 plantas",
+    "Segunda mano/buen estado",
+    "Orientación sur, este",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín",
+    "Vistas al mar",
+    "Lujo",
+    "Villa"
+  ],
+  "bathrooms": 6,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "exactCoordinates": false,
+  "latitude": 39.5215215,
+  "longitude": 2.4770025
+}

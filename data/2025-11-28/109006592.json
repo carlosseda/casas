@@ -1,0 +1,28 @@
+{
+  "url": "https://www.idealista.com/inmueble/109006592/",
+  "locationSlug": "el-terreno",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Avenida de Gabriel Roca",
+  "description": "Elegante apartamento en el Paseo Marítimo de Palma, con espectaculares vistas al puerto y al mar. Cuenta con un dormitorio doble, un luminoso salón comedor con cocina abierta, aire acondicionado, amplia zona de coladuría y un baño espacioso. Su diseño moderno y su ubicación privilegiada lo convierten en la opción perfecta para quienes buscan comodidad y estilo, rodeados de restaurantes, tiendas y transporte público, a pocos minutos del centro histórico.\n\nCaracterísticas destacadas: vistas al puerto, 1 dormitorio doble, salón comedor, cocina abierta, aire acondicionado, zona de coladuría, baño amplio.\n\nSi está interesado en la propiedad, póngase en contacto con nosotros.",
+  "isAttic": false,
+  "meters": 83,
+  "rooms": 1,
+  "price": 1400,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 1,
+  "floor": 2,
+  "hasElevator": true,
+  "energyConsumption": "B",
+  "energyEmission": "B",
+  "exactCoordinates": false,
+  "latitude": 39.5628016,
+  "longitude": 2.6260174
+}

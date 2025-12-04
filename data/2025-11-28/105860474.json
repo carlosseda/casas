@@ -1,0 +1,23 @@
+{
+  "url": "https://www.idealista.com/inmueble/105860474/",
+  "locationSlug": "la-missio-mercat",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Avenida del Comte de Sallent, 19",
+  "description": "Piso ideal para familia numerosa, muy grande y luminoso en el centro de Palma junto a casa Gallega de Avenidas. Cuatro habitaciones dobles. Cocina muy amplia y espaciosa con comedor de diario dos baños y un aseo. \nSuelos de parquet carpintería en blanco.\nComunidad y basura incluida en el precio.\nDisponible desde 1 de noviembre.",
+  "isAttic": false,
+  "meters": 180,
+  "rooms": 4,
+  "price": 2200,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Segunda mano/buen estado",
+    "Orientación norte, este",
+    "Amueblado y cocina equipada"
+  ],
+  "bathrooms": 3,
+  "floor": 2,
+  "hasElevator": true,
+  "exactCoordinates": true,
+  "latitude": 39.5779434,
+  "longitude": 2.6500664
+}

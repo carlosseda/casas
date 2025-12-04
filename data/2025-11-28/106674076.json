@@ -1,0 +1,32 @@
+{
+  "url": "https://www.idealista.com/inmueble/106674076/",
+  "locationSlug": "manacor-centro",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de chalet adosado en Camino de Son Tovell, 105",
+  "description": "Esta espaciosa casa ha sido recientemente renovada y estará disponible para alquilar a partir de diciembre de 2025. 4 hermosas habitaciones dobles, 3 baños, una piscina fantástica, un jardín de invierno y muchas áreas para sentarse en el jardín románticamente diseñado. La propiedad está vallada y un jardinero se encarga de su mantenimiento.. . al igual que la piscina. FIANZA 1 MK / PRECIO desde noviembre de 2025 hasta finales de mayo de 2026 / 3500 euros más electricidad, agua y limpieza final. Desde junio de 2026 hasta septiembre de 2026 / 4600 euros más los gastos adicionales mencionados anteriormente.",
+  "isAttic": false,
+  "meters": 290,
+  "rooms": 4,
+  "price": 3500,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Chalet adosado",
+    "1 planta",
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur, este",
+    "Amueblado y cocina equipada",
+    "Calefacción central: Gasoil",
+    "Aire acondicionado",
+    "Piscina",
+    "Jardín",
+    "Lujo"
+  ],
+  "bathrooms": 3,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "exactCoordinates": true,
+  "latitude": 39.5744621,
+  "longitude": 3.3316414
+}

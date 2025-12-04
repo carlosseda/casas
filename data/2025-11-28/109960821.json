@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/109960821/",
+  "locationSlug": "el-terreno",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Calle Baionetes, 4",
+  "description": "Alquiler de TEMPORADA (máximo 9 meses)\nNecesario justificar solvencia con contrato de trabajo u otros. \n\nEste acogedor piso con amplia terraza y dormitorio independiente, está ubicado en el número 30 de la calle Joan Miró, junto a un supermercado, a la bajada al recién renovado Paseo Marítimo, farmacia, restaurantes y todo tipo de servicios.\nLa vivienda dispone de aire acondicionado con bomba de calor, sofá cama en el salón y cama doble en el dormitorio.",
+  "isAttic": false,
+  "meters": 58,
+  "rooms": 1,
+  "price": 1100,
+  "monthsDeposit": 2,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Eléctrica",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 1,
+  "yearBuilt": null,
+  "floor": 1,
+  "hasElevator": false,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": true,
+  "latitude": 39.5645457,
+  "longitude": 2.6255678
+}

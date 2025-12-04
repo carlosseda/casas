@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/104602065/",
+  "locationSlug": "port-de-pollenca",
+  "typeOfRental": "temporal",
+  "title": "Alquiler de piso en Calle del Metge Llopis, 23 2º C",
+  "description": "PRECIOS:\nFebrero y Marzo: 1400€/mes.\nEs un piso donde los detalles son importantes. Estoy ofreciendo un sofá que te abraza, con luces cálidas y algunas pinturas de artistas amados por mí. Donde te ofrezco una cama en donde realmente van a descansar y una pequeña cocina en la cual encontrarás lo esencial. La sencillez de este alojamiento tranquilo y céntrico. Donde menos es más, y donde no necesitas movilidad para visitar los restaurantes, bares, tiendas, playas, puerto, es ideal para parejas, por el ambiente bohemio que lo rodea.\nEs un espacio pequeño, 50 metros cuadrados. Pero ideal para una estancia confortable. El salón tiene cocina integrada y totalmente equipada para cocinar. Una gran puerta ventana hacia la terraza, que permite desayunar y merendar en la misma. Consta de un toldo que los protegerá en los dias de intenso sol. El dormitorio una cama con colchon especial, armarios y mesillas de noche. El baño con bañera, lavabo, water y bidet.",
+  "isAttic": false,
+  "meters": 50,
+  "rooms": 1,
+  "price": 1600,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Calefacción individual: Bomba de frío/calor",
+    "Aire acondicionado"
+  ],
+  "bathrooms": 1,
+  "floor": 2,
+  "hasElevator": true,
+  "energyConsumption": "D",
+  "energyEmission": "D",
+  "exactCoordinates": true,
+  "latitude": 39.9093991,
+  "longitude": 3.0831175
+}

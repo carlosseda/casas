@@ -1,0 +1,32 @@
+{
+  "url": "https://www.idealista.com/inmueble/108330875/",
+  "locationSlug": "sa-rapita-balears-illes",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Avenida de Miramar",
+  "description": "Piso en alquiler en primera línea en Sa Rápita\n\nEste maravilloso piso en primera línea de mar en Sa Rápita, una de las zonas costeras más deseadas del sur de Mallorca. Con una ubicación privilegiada, este luminoso apartamento te ofrece el equilibrio perfecto entre relax, confort y vistas espectaculares.\n\nLa vivienda dispone de tres amplias habitaciones, dos baños completos y una cómoda terraza privada con vistas directas al mar, ideal para disfrutar de desayunos al sol, cenas al aire libre o simplemente dejarte llevar por la brisa mediterránea.\n\nEl interior está equipado con todo lo necesario para tu estancia: aire acondicionado, cocina totalmente equipada y un salón comedor acogedor y funcional. Además, se incluye una plaza de garaje privada, algo esencial en temporada alta.\n\nEl agua y la comunidad están incluidos en el precio. Los gastos de electricidad deberán ser abonados.\n\nSituado a pocos pasos de la playa, restaurantes locales y pequeños comercios, este piso es perfecto para quienes buscan una escapada tranquila sin renunciar a comodidades modernas.\n\nNOTA: No se permiten mascotas.\n\n Tu refugio frente al mar te espera en Sa Rápita. Contacta con nosotros y asegura tu estancia en este paraíso costero.",
+  "isAttic": false,
+  "meters": 156,
+  "rooms": 3,
+  "price": 1680,
+  "monthsDeposit": 1,
+  "specifications": [
+    "Terraza y balcón",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Trastero",
+    "Orientación sur",
+    "Amueblado y cocina equipada",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 2,
+  "parking": true,
+  "parkingMonthPrice": 0,
+  "floor": 2,
+  "hasElevator": false,
+  "energyConsumption": "B",
+  "energyEmission": "B",
+  "exactCoordinates": false,
+  "latitude": null,
+  "longitude": null
+}

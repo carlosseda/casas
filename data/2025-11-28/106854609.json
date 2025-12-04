@@ -1,0 +1,29 @@
+{
+  "url": "https://www.idealista.com/inmueble/106854609/",
+  "locationSlug": "cala-figuera",
+  "typeOfRental": "long-term",
+  "title": "Alquiler de piso en Calle Tomarinar, 21",
+  "description": "Elegancia frente al mar: Apartamento de 3 dormitorios en Cala Figuera con garage interior\n\nDisfrute de impresionantes vistas al mar desde este magnífico apartamento de 3 dormitorios en la exclusiva comunidad de Cala Figuera.\n\nCaracterísticas:\n\n3 Dormitorios Dobles\n2 Baños \nAmplio Salón/Comedor con Vistas al Mar\nCocina totalmente equipada con zona de comedor\nPersianas eléctricas para mayor privacidad\n\nServicios Comunitarios:\n\nPiscina\nExuberantes jardines\nGaraje seguro \nSistema de alarma avanzado\nTV Satélite Internacional\nExperimente el Encanto de Cala Figuera:\n\nDescubra el encanto de Cala Figuera, un pintoresco pueblo pesquero cerca de Santanyí. Explore la impresionante costa, admire los coloridos barcos de pesca y saboree el auténtico estilo de vida mediterráneo.",
+  "isAttic": false,
+  "meters": 150,
+  "rooms": 3,
+  "price": 1850,
+  "monthsDeposit": 0,
+  "specifications": [
+    "Terraza",
+    "Segunda mano/buen estado",
+    "Armarios empotrados",
+    "Amueblado y cocina equipada",
+    "No dispone de calefacción",
+    "Aire acondicionado",
+    "Vistas al mar"
+  ],
+  "bathrooms": 2,
+  "floor": 2,
+  "hasElevator": false,
+  "energyConsumption": "En trámite",
+  "energyEmission": "En trámite",
+  "exactCoordinates": true,
+  "latitude": 39.3272608,
+  "longitude": 3.1701022
+}
