@@ -1,4 +1,4 @@
-(async () => {
+module.exports = async function storeMongoDB(folder) {
   const fs = require("fs")
   const path = require("path")
   const MongoDBService = require("./services/mongodb-service")
@@ -9,9 +9,7 @@
 
   try {
 
-    const dir = "./data/2025-11-28"
-
-    const jsonFiles = fs.readdirSync(dir)
+    const jsonFiles = fs.readdirSync(folder)
       .filter(f => f.endsWith(".json"))
 
     if (jsonFiles.length === 0) {
@@ -22,7 +20,7 @@
     const docsToInsert = []
 
     for (const file of jsonFiles) {
-      const fullPath = path.join(dir, file)
+      const fullPath = path.join(folder, file)
       const raw = fs.readFileSync(fullPath, "utf8")
       const parsed = JSON.parse(raw)
 
@@ -37,11 +35,13 @@
     }
 
     const result = await mongoService.insertMany("elements", docsToInsert)
-    console.log(`✅ Insertados ${result.insertedCount} documentos`)
+    console.log(`✅ MongoDB completado`)
+
+    return docsToInsert
 
   } catch (err) {
     console.error("❌ Error general:", err)
   } finally {
     await mongoService.close()
   }
-})()
+}

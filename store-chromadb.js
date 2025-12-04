@@ -1,18 +1,11 @@
-(async () => {
+module.exports = async function storeChromaDB(elements) {
   const fs = require("fs")
   const VectorService = require("./services/vector-service")
   const OpenAIService = require("./services/openai-service")
-  const openai = new OpenAIService()
   const vectorService = new VectorService({ collectionName: process.env.CHROMADB_DATABASE })
-  const MongoDBService = require("./services/mongodb-service")
-  const mongoService = new MongoDBService({
-    uri: process.env.MONGODB_URI,
-    dbName: process.env.MONGODB_DB
-  })
+  const openai = new OpenAIService()
 
   try {
-    const elements = await mongoService.getCollection("elements")
-
     const result = {
       ids: [],
       documents: [],
@@ -33,7 +26,8 @@
       result.ids.push(element.id)
       result.documents.push(keywords)
       result.metadatas.push({
-        ...element
+        ...element,
+        specifications: null
       })
     })
 
@@ -45,10 +39,8 @@
 
     await vectorService.addDocuments(lastChromaIngest)
 
-    console.log("✅ Ingestión completada")
+    console.log("✅ Chromadb completado")
   } catch (error) {
     console.error("❌ Error general:", error)
-  } finally {
-    await mongoService.close()
   }
-})()
+}

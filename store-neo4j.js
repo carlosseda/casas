@@ -1,11 +1,10 @@
-(async () => {
+module.exports = async function storeNeo4j(elements) {
   const fs = require("fs")
   const path = require("path")
   const GraphService = require("./services/graph-service")
   const graphService = new GraphService()
 
   try {
-    const elements = await mongoService.getCollection("elements")
     const specificationSet = new Set();
 
     for (const element of elements) {
@@ -44,11 +43,12 @@
       }
     }
 
+    console.log("✅ Neo4j completado")
+
     await graphService.close()
 
   } catch (error) {
     console.error(error)
     await graphService.close()
   }
-
-})()
+}

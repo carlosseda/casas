@@ -1,111 +1,84 @@
-const { exec } = require("child_process")
-const { Builder, By, until } = require("selenium-webdriver")
-const chrome = require("selenium-webdriver/chrome")
+const ScrappingService = require("./services/scrapping-service")
+const scrappingService = new ScrappingService()
+const storeMongoDB = require("./store-mongodb.js")
+const storeChromaDB = require("./store-chromadb.js")
+const storeNeo4j = require("./store-neo4j.js")
 const fs = require("fs")
-const net = require("net")
+const baseDir = `./data`
 
-const sleep = ms => new Promise(r => setTimeout(r, ms))
-const random = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min
+module.exports = async function scrappingElements(locationsUrls) {
 
-const today = new Date().toISOString().slice(0, 10)
-const baseDir = `./data/${today}`
-if (!fs.existsSync("./data")) fs.mkdirSync("./data")
-if (!fs.existsSync(baseDir)) fs.mkdirSync(baseDir)
+  // const today = new Date().toISOString().slice(0, 10)
+  // if (!fs.existsSync(baseDir)) fs.mkdirSync(baseDir)
 
-const locationsUrls = require("./locations-urls.json")
+  // await scrappingService.generateProfile(process.env.CHROME_PROFILE)
 
-  ; (async () => {
+  // locationsUrls = locationsUrls.slice(0, 1)
 
-    const profile = "C:\\temp\\ChromeProfiles"
+  // for (const url of locationsUrls) {
+  //   const clean = url.replace(/\/mapa\/?$/, "")
+  //   const parts = clean.split("/").filter(Boolean)
+  //   const locationSlug = parts[parts.length - 1]
+  //   const locationDoneFile = `${baseDir}/location-${locationSlug}.done`
 
-    if (!fs.existsSync(profile)) fs.mkdirSync(profile, { recursive: true })
-    exec(
-      `"${process.env.PROGRAMFILES}\\Google\\Chrome\\Application\\chrome.exe" ` +
-      `--remote-debugging-port=9222 --user-data-dir="${profile}" --start-maximized`
-    )
+  //   if (fs.existsSync(locationDoneFile)) {
+  //     console.log(`⏭️ Localización ya procesada (${locationSlug}), se omite: ${url}`)
+  //     continue
+  //   }
 
-    // Esperar a que Chrome abra el puerto 9222
-    await new Promise((resolve, reject) => {
-      const start = Date.now()
-      const check = () => {
-        const socket = new net.Socket()
-        socket
-          .once("connect", () => { socket.destroy(); resolve() })
-          .once("error", () => {
-            socket.destroy()
-            if (Date.now() - start > 15000) reject(new Error("⏰ Timeout esperando puerto 9222"))
-            else setTimeout(check, 400)
-          })
-          .connect(9222, "127.0.0.1")
-      }
-      check()
-    })
+  //   console.log(`▶️ Procesando localización (${locationSlug}): ${url}`)
+  //   await scrappingElement(scrappingService, url, locationSlug)
 
-    const options = new chrome.Options()
-    options.options_["debuggerAddress"] = "127.0.0.1:9222"
-    const driver = await new Builder().forBrowser("chrome").setChromeOptions(options).build()
+  //   fs.writeFileSync(
+  //     locationDoneFile,
+  //     JSON.stringify({ url, locationSlug, date: today }, null, 2),
+  //     "utf-8"
+  //   )
 
-    for (const url of locationsUrls) {
-      const clean = url.replace(/\/mapa\/?$/, "")
-      const parts = clean.split("/").filter(Boolean)
-      const locationSlug = parts[parts.length - 1]
-      const locationDoneFile = `${baseDir}/location-${locationSlug}.done`
+  //   console.log(`✅ Localización completada: ${locationSlug}`)
+  //   await scrappingService.sleep(300000)
+  // }
 
-      if (fs.existsSync(locationDoneFile)) {
-        console.log(`⏭️ Localización ya procesada (${locationSlug}), se omite: ${url}`)
-        continue
-      }
+  // await scrappingService.quit()
+  // console.log(`✅ Proceso finalizado. Datos en la carpeta ${baseDir}`)
 
-      console.log(`▶️ Procesando localización (${locationSlug}): ${url}`)
-      await scrapping(driver, url, locationSlug)
+  const elements = await storeMongoDB(baseDir)
+  await storeChromaDB(elements)
+  await storeNeo4j(elements)
+}
 
-      fs.writeFileSync(
-        locationDoneFile,
-        JSON.stringify({ url, locationSlug, date: today }, null, 2),
-        "utf-8"
-      )
-      console.log(`✅ Localización completada: ${locationSlug}`)
+async function scrappingElement(scrappingService, url, locationSlug) {
 
-      await sleep(300000)
-    }
-
-    await driver.quit()
-    console.log(`✅ Proceso finalizado. Datos en la carpeta ${baseDir}`)
-
-  })()
-
-async function scrapping(driver, url, locationSlug) {
-
-  await driver.get(url)
+  await scrappingService.driver.get(url)
 
   try {
-    const btn = await driver.wait(
-      until.elementLocated(By.id("didomi-notice-agree-button")),
+    const btn = await scrappingService.driver.wait(
+      scrappingService.until.elementLocated(scrappingService.by.id("didomi-notice-agree-button")),
       5000
     )
-    await driver.executeScript("arguments[0].scrollIntoView()", btn)
-    await sleep(400)
+    await scrappingService.driver.executeScript("arguments[0].scrollIntoView()", btn)
+    await scrappingService.sleep(400)
     await btn.click()
   } catch { }
 
-  await driver.wait(until.elementLocated(By.css("div.item-info-container")), 15000)
+  await scrappingService.driver.wait(scrappingService.until.elementLocated(scrappingService.by.css("div.item-info-container")), 15000)
 
   const propertiesUrls = []
 
   while (true) {
 
-    for (let i = 0; i < random(3, 6); i++) {
-      await driver.executeScript(`window.scrollBy(0, ${random(500, 900)});`)
-      await sleep(random(700, 1600))
+    for (let i = 0; i < scrappingService.random(3, 6); i++) {
+      await scrappingService.driver.executeScript(`window.scrollBy(0, ${scrappingService.random(500, 900)});`)
+      await scrappingService.sleep(scrappingService.random(700, 1600))
     }
 
-    let items = await driver.findElements(By.css("div.item-info-container"))
+    let items = await scrappingService.driver.findElements(scrappingService.by.css("div.item-info-container"))
     if (!items.length) break
 
     for (let i = 0; i < items.length; i++) {
       const item = items[i]
       try {
-        const url = await item.findElement(By.css("a.item-link")).getAttribute("href").catch(() => "")
+        const url = await item.findElement(scrappingService.by.css("a.item-link")).getAttribute("href").catch(() => "")
         if (!url || propertiesUrls.includes(url)) continue
         propertiesUrls.push(url)
       } catch (e) {
@@ -114,13 +87,13 @@ async function scrapping(driver, url, locationSlug) {
     }
 
     let next
-    try { next = await driver.findElement(By.css("li.next:not(.disabled) a")) } catch { }
+    try { next = await scrappingService.driver.findElement(scrappingService.by.css("li.next:not(.disabled) a")) } catch { }
     if (!next) break
 
-    await driver.executeScript("arguments[0].scrollIntoView()", next)
-    await sleep(1000)
+    await scrappingService.driver.executeScript("arguments[0].scrollIntoView()", next)
+    await scrappingService.sleep(1000)
     await next.click()
-    await sleep(1800)
+    await scrappingService.sleep(1800)
   }
 
   for (let i = 0; i < propertiesUrls.length; i++) {
@@ -140,24 +113,24 @@ async function scrapping(driver, url, locationSlug) {
       continue
     }
 
-    await driver.get(url)
-    await sleep(1500)
+    await scrappingService.driver.get(url)
+    await scrappingService.sleep(1500)
 
     try {
-      const captchaElement = await driver.findElement(By.css("#captcha__frame"))
+      const captchaElement = await scrappingService.driver.findElement(scrappingService.by.css("#captcha__frame"))
       if (captchaElement) {
         console.log(`🧩 Captcha detectado en ${url}, esperando unos segundos...`)
-        await sleep(5000)
+        await scrappingService.sleep(5000)
       }
     } catch { }
 
     const property = { url, locationSlug }
 
     property.typeOfRental = "long-term"
-    property.title = await driver.findElement(By.css(".main-info__title-main")).getText().catch(() => "")
+    property.title = await scrappingService.driver.findElement(scrappingService.by.css(".main-info__title-main")).getText().catch(() => "")
 
     try {
-      property.description = (await driver.findElement(By.css(".comment p")).getAttribute("innerHTML"))
+      property.description = (await scrappingService.driver.findElement(scrappingService.by.css(".comment p")).getAttribute("innerHTML"))
         .replace(/<br\s*\/?>/gi, "\n")
         .replace(/<\/?p>/gi, "")
         .trim()
@@ -166,7 +139,7 @@ async function scrapping(driver, url, locationSlug) {
     }
 
     property.isAttic = /ático/i.test(property.title)
-    const detailsElements = await driver.findElements(By.css(".info-features span"))
+    const detailsElements = await scrappingService.driver.findElements(scrappingService.by.css(".info-features span"))
     const details = await Promise.all(detailsElements.map(d => d.getText()))
 
     for (const detail of details) {
@@ -176,7 +149,7 @@ async function scrapping(driver, url, locationSlug) {
 
     // Precio
     try {
-      const price = await driver.findElement(By.css(".info-data-price .txt-bold")).getText().catch(() => "")
+      const price = await scrappingService.driver.findElement(scrappingService.by.css(".info-data-price .txt-bold")).getText().catch(() => "")
       property.price = parseInt(price.replace(/[^\d.,]/g, "").replace(/\./g, "").replace(",", "."), 10) || 0;
     } catch {
       property.price = 0
@@ -184,7 +157,7 @@ async function scrapping(driver, url, locationSlug) {
 
     property.monthsDeposit = 0
 
-    const priceDetailsElements = await driver.findElements(By.css(".price-features__container .flex-feature-details"))
+    const priceDetailsElements = await scrappingService.driver.findElements(scrappingService.by.css(".price-features__container .flex-feature-details"))
 
     for (const priceDetailsElement of priceDetailsElements) {
       const priceDetail = await priceDetailsElement.getText()
@@ -196,13 +169,13 @@ async function scrapping(driver, url, locationSlug) {
     // Especificaciones
     property.specifications = []
 
-    let basicSpecificationsSection = await driver.findElements(
-      By.xpath(`//h2[contains(normalize-space(.), "Características básicas")]`)
+    let basicSpecificationsSection = await scrappingService.driver.findElements(
+      scrappingService.by.xpath(`//h2[contains(normalize-space(.), "Características básicas")]`)
     )
 
     if (basicSpecificationsSection.length > 0) {
-      const basicSpecificationsElements = await driver.findElements(
-        By.xpath(
+      const basicSpecificationsElements = await scrappingService.driver.findElements(
+        scrappingService.by.xpath(
           `//h2[contains(normalize-space(.), "Características básicas")]
             /following-sibling::div[1]//li`
         )
@@ -230,13 +203,13 @@ async function scrapping(driver, url, locationSlug) {
       }
     }
 
-    let buildingSection = await driver.findElements(
-      By.xpath(`//h2[contains(normalize-space(.), "Edificio")]`)
+    let buildingSection = await scrappingService.driver.findElements(
+      scrappingService.by.xpath(`//h2[contains(normalize-space(.), "Edificio")]`)
     )
 
     if (buildingSection.length > 0) {
-      const buildingElements = await driver.findElements(
-        By.xpath(
+      const buildingElements = await scrappingService.driver.findElements(
+        scrappingService.by.xpath(
           `//h2[contains(normalize-space(.), "Edificio")]
             /following-sibling::div[1]//li`
         )
@@ -256,13 +229,13 @@ async function scrapping(driver, url, locationSlug) {
       }
     }
 
-    let equipmentSection = await driver.findElements(
-      By.xpath(`//h2[contains(normalize-space(.), "Equipamiento")]`)
+    let equipmentSection = await scrappingService.driver.findElements(
+      scrappingService.by.xpath(`//h2[contains(normalize-space(.), "Equipamiento")]`)
     )
 
     if (equipmentSection.length > 0) {
-      const equipmentElements = await driver.findElements(
-        By.xpath(
+      const equipmentElements = await scrappingService.driver.findElements(
+        scrappingService.by.xpath(
           `//h2[contains(normalize-space(.), "Equipamiento")]
             /following-sibling::div[1]//li`
         )
@@ -274,13 +247,13 @@ async function scrapping(driver, url, locationSlug) {
       }
     }
 
-    let energySection = await driver.findElements(
-      By.xpath(`//h2[contains(normalize-space(.), "Certificado energético")]`)
+    let energySection = await scrappingService.driver.findElements(
+      scrappingService.by.xpath(`//h2[contains(normalize-space(.), "Certificado energético")]`)
     )
 
     if (energySection.length > 0) {
-      const energyElements = await driver.findElements(
-        By.xpath(
+      const energyElements = await scrappingService.driver.findElements(
+        scrappingService.by.xpath(
           `//h2[contains(normalize-space(.), "Certificado energético")]
             /following-sibling::div[1]//li`
         )
@@ -302,7 +275,7 @@ async function scrapping(driver, url, locationSlug) {
         }
 
         else if (/Consumo/i.test(energy)) {
-          const certificationIcon = await energyElement.findElement(By.xpath(".//span[2]"))
+          const certificationIcon = await energyElement.findElement(scrappingService.by.xpath(".//span[2]"))
           const certificationIconClassName = await certificationIcon.getAttribute("class")
           const match = certificationIconClassName.match(/[a-z]$/i)
           const letter = match ? match[0].toUpperCase() : null
@@ -311,7 +284,7 @@ async function scrapping(driver, url, locationSlug) {
         }
 
         else if (/Emisiones/i.test(energy)) {
-          const certificationIcon = await energyElement.findElement(By.xpath(".//span[2]"))
+          const certificationIcon = await energyElement.findElement(scrappingService.by.xpath(".//span[2]"))
           const certificationIconClassName = await certificationIcon.getAttribute("class")
           const match = certificationIconClassName.match(/[a-z]$/i)
           const letter = match ? match[0].toUpperCase() : null
@@ -322,7 +295,7 @@ async function scrapping(driver, url, locationSlug) {
     }
 
     // Etiquetas
-    let tagElements = await driver.findElements(By.css(".detail-info-tags .tag"))
+    let tagElements = await scrappingService.driver.findElements(scrappingService.by.css(".detail-info-tags .tag"))
 
     for (const tagElement of tagElements) {
       const tag = await tagElement.getText()
@@ -337,7 +310,7 @@ async function scrapping(driver, url, locationSlug) {
 
     // Coordenadas GPS
     try {
-      const noShowAddressElement = await driver.findElement(By.css(".no-show-address-feedback-text"))
+      const noShowAddressElement = await scrappingService.driver.findElement(By.css(".no-show-address-feedback-text"))
       if (noShowAddressElement) {
         property.exactCoordinates = false
       }
@@ -346,10 +319,10 @@ async function scrapping(driver, url, locationSlug) {
     }
 
     try {
-      await driver.executeScript("document.getElementById('mapWrapper').scrollIntoView();")
-      await sleep(1000)
+      await scrappingService.driver.executeScript("document.getElementById('mapWrapper').scrollIntoView();")
+      await scrappingService.sleep(1000)
 
-      const img = await driver.findElement(By.id("sMap"))
+      const img = await scrappingService.driver.findElement(scrappingService.by.id("sMap"))
       const src = await img.getAttribute("src")
       const centerMatch = src.match(/center=([^&]+)/)
 
