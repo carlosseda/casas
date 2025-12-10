@@ -1,7 +1,7 @@
 module.exports = async function storeNeo4j(elements) {
   const fs = require("fs")
   const path = require("path")
-  const GraphService = require("./services/graph-service")
+  const GraphService = require("../services/graph-service")
   const graphService = new GraphService()
 
   try {

@@ -1,46 +1,47 @@
-const ScrappingService = require("./services/scrapping-service.js")
+const ScrappingService = require("../services/scrapping-service.js")
 const scrappingService = new ScrappingService()
 const storeMongoDB = require("./store-mongodb.js")
 const storeChromaDB = require("./store-chromadb.js")
 const storeNeo4j = require("./store-neo4j.js")
 const fs = require("fs")
-const baseDir = `./data`
+const path = require("path")
+const baseDir = path.join(__dirname, "data")
 
 module.exports = async function scrappingElements(locationsUrls) {
 
-  // const today = new Date().toISOString().slice(0, 10)
-  // if (!fs.existsSync(baseDir)) fs.mkdirSync(baseDir)
+  const today = new Date().toISOString().slice(0, 10)
+  if (!fs.existsSync(baseDir)) fs.mkdirSync(baseDir)
 
-  // await scrappingService.generateProfile(process.env.CHROME_PROFILE)
+  await scrappingService.generateProfile(process.env.CHROME_PROFILE)
 
-  // locationsUrls = locationsUrls.slice(0, 1)
+  locationsUrls = locationsUrls.slice(0, 1)
 
-  // for (const url of locationsUrls) {
-  //   const clean = url.replace(/\/mapa\/?$/, "")
-  //   const parts = clean.split("/").filter(Boolean)
-  //   const locationSlug = parts[parts.length - 1]
-  //   const locationDoneFile = `${baseDir}/location-${locationSlug}.done`
+  for (const url of locationsUrls) {
+    const clean = url.replace(/\/mapa\/?$/, "")
+    const parts = clean.split("/").filter(Boolean)
+    const locationSlug = parts[parts.length - 1]
+    const locationDoneFile = `${baseDir}/location-${locationSlug}.done`
 
-  //   if (fs.existsSync(locationDoneFile)) {
-  //     console.log(`⏭️ Localización ya procesada (${locationSlug}), se omite: ${url}`)
-  //     continue
-  //   }
+    if (fs.existsSync(locationDoneFile)) {
+      console.log(`⏭️ Localización ya procesada (${locationSlug}), se omite: ${url}`)
+      continue
+    }
 
-  //   console.log(`▶️ Procesando localización (${locationSlug}): ${url}`)
-  //   await scrappingElement(scrappingService, url, locationSlug)
+    console.log(`▶️ Procesando localización (${locationSlug}): ${url}`)
+    await scrappingElement(scrappingService, url, locationSlug)
 
-  //   fs.writeFileSync(
-  //     locationDoneFile,
-  //     JSON.stringify({ url, locationSlug, date: today }, null, 2),
-  //     "utf-8"
-  //   )
+    fs.writeFileSync(
+      locationDoneFile,
+      JSON.stringify({ url, locationSlug, date: today }, null, 2),
+      "utf-8"
+    )
 
-  //   console.log(`✅ Localización completada: ${locationSlug}`)
-  //   await scrappingService.sleep(300000)
-  // }
+    console.log(`✅ Localización completada: ${locationSlug}`)
+    await scrappingService.sleep(300000)
+  }
 
-  // await scrappingService.quit()
-  // console.log(`✅ Proceso finalizado. Datos en la carpeta ${baseDir}`)
+  await scrappingService.quit()
+  console.log(`✅ Proceso finalizado. Datos en la carpeta ${baseDir}`)
 
   const elements = await storeMongoDB(baseDir)
   await storeChromaDB(elements)

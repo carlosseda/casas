@@ -1,11 +1,14 @@
-const ScrappingService = require("./scrapping-service")
+const baseDir = __dirname;
+const ScrappingService = require("../services/scrapping-service")
 const scrappingService = new ScrappingService()
+const fs = require("fs")
 const locationsUrls = []
 const visited = new Set()
 
 module.exports = async function scrappingLocations(urlBase) {
 
   await scrappingService.generateProfile(process.env.CHROME_PROFILE)
+  await scrappingService.driver.get(urlBase)
 
   try {
     const btn = await scrappingService.driver.wait(
@@ -24,7 +27,6 @@ module.exports = async function scrappingLocations(urlBase) {
     await btnShowAll.click()
   }
 
-
   let sublocationsUrls = []
   let sublocationsElements = await scrappingService.driver.findElements(scrappingService.by.css(".modal-wrapper #sublocations li a"))
 
@@ -39,7 +41,7 @@ module.exports = async function scrappingLocations(urlBase) {
 
   await scrappingService.quit()
 
-  fs.writeFileSync(`./locations-urls.json`, JSON.stringify(locationsUrls, null, 2))
+  fs.writeFileSync(`${baseDir}/locations-urls.json`, JSON.stringify(locationsUrls, null, 2))
 }
 
 async function urlsIterator(scrappingService, url) {

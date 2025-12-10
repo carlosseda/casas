@@ -1,7 +1,7 @@
 module.exports = async function storeChromaDB(elements) {
   const fs = require("fs")
-  const VectorService = require("./services/vector-service")
-  const OpenAIService = require("./services/openai-service")
+  const VectorService = require("../services/vector-service")
+  const OpenAIService = require("../services/openai-service")
   const vectorService = new VectorService({ collectionName: process.env.CHROMADB_DATABASE })
   const openai = new OpenAIService()
 
@@ -32,12 +32,7 @@ module.exports = async function storeChromaDB(elements) {
     })
 
     await Promise.all(tasks)
-
-    fs.writeFileSync("./last-chroma-ingest.json", JSON.stringify(result, null, 2))
-
-    const lastChromaIngest = JSON.parse(fs.readFileSync("./last-chroma-ingest.json", "utf8"))
-
-    await vectorService.addDocuments(lastChromaIngest)
+    await vectorService.addDocuments(result)
 
     console.log("✅ Chromadb completado")
   } catch (error) {

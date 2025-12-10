@@ -1,7 +1,7 @@
 module.exports = async function storeMongoDB(folder) {
   const fs = require("fs")
   const path = require("path")
-  const MongoDBService = require("./services/mongodb-service")
+  const MongoDBService = require("../services/mongodb-service")
   const mongoService = new MongoDBService({
     uri: process.env.MONGODB_URI,
     dbName: process.env.MONGODB_DB
