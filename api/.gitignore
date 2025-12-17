@@ -1,0 +1,6 @@
+.env
+.package-lock.json
+node_modules/
+pending-chroma-ingest.json
+/src/scraping/data
+/src/scraping/locations-urls.json

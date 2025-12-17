@@ -1,0 +1,8 @@
+import './components/page-component.js'
+import './components/row-component.js'
+import './components/column-component.js'
+import './components/font-loader-component.js'
+import './components/map-component.js'
+import './components/table-component.js'
+import './components/prompt-input-component.js'
+import './components/not-found-component.js'
