@@ -7,7 +7,7 @@ Variables: json
 
 Convierte este json en un array de palabras clave con las palabras más importantes que me puedan servir para después localizar el dato en una base de datos de vectores. Deja fuera los metros cuadrados, el número de habitaciones, el número de baños, las coordenadas y el precio
 
-json_schema:
+textformat: json_schema
 
 {
   "name": "keywords",
@@ -34,8 +34,9 @@ json_schema:
 
 ## CONSTRUCT_QUERY_PROMPT_ID
 
-Modelo: gpt-5-mini
+Modelo: gpt-4.1-mini
 Variables: userQuery
+textformat: json_object
 
 Eres un constructor de consultas para dos sistemas de búsqueda: ChromaDB y Neo4j. A partir de una solicitud de un usuario, debes construir una consulta devolviendo exclusivamente un JSON con las claves "queryText", "whereChromaDb" y "whereNeo4j".
 
@@ -196,15 +197,16 @@ Salida:
 
 ## SEMANTIC_ANSWER_PROMPT_ID
 
-Modelo: gpt-5-nano
+Modelo: gpt-4.1-mini
 Variables: query , data
+texformat: text
 
 Ante la pregunta de un usuario y los datos aportados elabora una respuesta. Incluye la url si está disponible y comenta la mejor opción.   No incluyas las opciones que no se ajustan a lo que pide el usuario.  Ofrece las 4 mejores. Tu respuesta tiene que ser en formato fichas que se mostrarán en Telegram, la ficha enlaza a la url (uso node-telegram-bot-api).
 
 
 ## FILTER_ELEMENTS_PROMPT_ID
 
-Modelo: gpt-5-nano
+Modelo: gpt-4.1-mini
 Variables: query , data
 textformat: json_object
 
