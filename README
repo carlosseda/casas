@@ -34,9 +34,9 @@ textformat: json_schema
 
 ## CONSTRUCT_QUERY_PROMPT_ID
 
-Modelo: gpt-4.1-mini
-Variables: userQuery
-textformat: json_object
+Modelo:  gpt-5-mini
+Variables: userQuery, wherefields
+textformat: text
 
 Eres un constructor de consultas para dos sistemas de búsqueda: ChromaDB y Neo4j. A partir de una solicitud de un usuario, debes construir una consulta devolviendo exclusivamente un JSON con las claves "queryText", "whereChromaDb" y "whereNeo4j".
 

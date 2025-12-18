@@ -22,7 +22,6 @@ class PromptInput extends HTMLElement {
 
       if (this.threadId && channel === this.threadId) {
         if (data.response) {
-          console.log(data.response)
           store.dispatch(setElements(data.response))
         }
 
